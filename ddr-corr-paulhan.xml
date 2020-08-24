@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="ddr-corr.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ddr-corr-paulhan" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance avec Jean Paulhan (1926-1961)</title>
+        <author>Rougemont, Denis de (1906-1985)</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/deed.fr"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>[Source numérisée]</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date from="1926" to="1961"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="ddr-paulhan-19260503">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_001.jp2/full/full/0/default.jpg"/>
+        <head>1926-05-03, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 3 mai 1926</dateline>
+        <salute>Monsieur,</salute>
+        <p>J’ai lu avec un très vif plaisir votre étude « <ref target="https://www.unige.ch/rougemont/articles/burg/192603">Adieu, beau désordre</ref> » qu’a publiée la <ref target="https://www.unige.ch/rougemont/articles/burg"><emph>Revue de Genève</emph></ref>. Et s’il vous intéressait quelque jour de collaborer à la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>Nouvelle Revue française</emph></ref>, c’est avec un très grand intérêt que je lirais les notes ou les articles que vous voudriez bien nous soumettre<note place="bottom" resp="editor">C’est sans doute par l’entremise de Roger Martin du Gard que Jean Paulhan a découvert Denis de Rougemont, en témoigne cette lettre adressée à Paulhan le 19 mars 1926 : « Cher ami. Si je vous avais rencontré cet après-midi, je vous aurais sans doute dit : — “Avez-vous remarqué un article signé Denis de Rougemont, dans la <ref target="https://www.unige.ch/rougemont/articles/burg"><emph>Revue de Genève</emph></ref> de mars ?” Écrite, la question prend peut-être bien trop d’importance. Mais mon éloignement de Paris m’oblige à choisir entre un silence constant ou les risques de quelques lettres inutiles. Tout de même, ce Denis de Rougemont, dont je n’avais, je crois, rien lu, m’a vivement frappé, et si je dirigeais une revue, je regarderais de ce côté-là… » Citée dans Roger <hi rend="sc">Martin du Gard</hi>, <emph>Correspondance générale : 1926-1929</emph>, tome IV, Paris, Gallimard, 1987, p. 43.</note>.</p>
+        <salute>Recevez, Monsieur, l’assurance de mes sentiments très distingués.</salute>
+        <signed>Jean Paulhan</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19260602">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1332_ddr-paulhan/bpun-ddr1-id1332_001.jp2/full/full/0/default.jpg"/>
+        <head>1926-06-02, Denis de Rougemont à Jean Paulhan [Brouillon]</head>
+        <dateline>Areuse près Neuchâtel
+          <lb/>Le 2 juin 1926</dateline>
+        <salute>Monsieur,</salute>
+        <p>Je suis très honoré et <del>très</del> touché de l’offre que vous m’avez faite de collaborer à la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>Nouvelle Revue française</emph></ref>. Je me ferai un plaisir d’y répondre, dans la mesure où un talent encore vagissant — je n’ai pas tout à fait vingt ans — et une vie assez agitée, me le permettront. Dès que j’aurai quelque chose de « sortable » pour vous je vous l’enverrai. Je suis tout prêt à faire des notes sur les livres que vous auriez peut-être à me proposer.</p>
+        <salute>Veuillez croire, Monsieur, à mes sentiments très sympathiques et très distingués.</salute>
+        <signed>Denis de Rougemont</signed>
+        <p rend="center"/>
+        <p>Je crois que j’ai envoyé une lettre beaucoup plus courte dans le genre : J’ai 20 ans et mon tiroir est vide.<note place="bottom" resp="editor">Comme en témoigne cette note au crayon ajoutée après la signature, il s’agit d’un brouillon de lettre qui n’a pas été envoyé tel quel.</note></p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19320311">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_002.tif/full/full/0/default.jpg"/>
+        <head>1932-03-11, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Le 11 mars 1932</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Voici, pour votre édification, le petit traité de Breton. Il y a une ou deux phrases particulièrement réjouissantes de la part d’un ex-dadaïste. Cela fait penser au jeune conscrit tout gauche dans le drap raide URSS.</p>
+        <p>Je joins l’erratum à <ref target="https://www.unige.ch/rougemont/articles/nrf/193203">mon article sur Goethe</ref>.</p>
+        <p>Je ne pense pas que vous attendiez <ref target="https://www.unige.ch/rougemont/articles/nrf/193205">ma note sur Duhamel</ref> pour le numéro d’avril ? Car je n’aurai que 2 jours à peine pour lire le livre et écrire l’article. Si vous y tenez absolument j’essayerai pourtant. Téléphonez-le moi, cas échéant. — J’ai lu le 1<hi rend="sup">er</hi> essai, sur le silence, qui est d’une vulgarité de pensée et d’expression vraiment pénible…</p>
+        <salute>Amicalement vôtre.</salute>
+        <signed>Denis de Rougemont</signed>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19320706">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_045.jp2/full/full/0/default.jpg"/>
+        <head>1932-07-06, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 6 juillet [1932]<note place="bottom" resp="editor">Sans date, la lettre est située sur la base d’un courrier, joint au dossier d’archives de la BPUN (ID2256) mais non reproduit ici, de Georges Duhamel à Jean Paulhan, daté du 4 mai 1932.</note></dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Que devenez-vous ? J’aurais pourtant aimé avoir des notes de vous dans la prochaine <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> ? Aucun livre qui vous intéresse ?</p>
+        <p>J’ai peut-être oublié de vous faire lire la lettre, que j’ai reçue de Duhamel ci-jointe. (L’écriture a quelque chose d’impérial, qui lui ajoute beaucoup.)</p>
+        <p>Quand vous verra-t-on ?</p>
+        <salute>À vous.</salute>
+        <signed>J. P.</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19320712">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_005.jp2/full/full/0/default.jpg"/>
+        <head>1932-07-12, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 12 juillet 1932</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Mais vous me trouveriez à la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> n’importe quel soir, vers six heures (sauf le lundi et le samedi) ! (Mais vous auriez beaucoup plus de chances de me trouver seul si vous veniez le mercredi vers trois heures et demie.) Je reste à Paris jusqu’à la fin de juillet.</p>
+        <p>Entendu pour l’<emph>Éloge de l’imprudence</emph><note place="bottom" resp="editor">Ouvrage de Marcel Jouhandeau dont <ref target="https://www.unige.ch/rougemont/articles/nrf/193209">Rougemont rend compte dans la <emph>NRF</emph> de septembre 1932</ref>.</note>. Il me tarde de vous revoir.</p>
+        <salute>À vous.</salute>
+        <signed>Jean Paulhan</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19320817">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_003.tif/full/full/0/default.jpg"/>
+        <head>1932-08-17, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Areuse (Neuchâtel)
+          <lb/>Le 17 août [1932]</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Voici la <ref target="https://www.unige.ch/rougemont/articles/nrf/193209">note sur Jouhandeau</ref>, critiqué du point de vue barthien. Je suis en séjour dans les feuillages et le silence — juste un grand cri de paon pour donner la note du soleil. J’écris un peu. J’ai repris, pour me mettre en train, le Carnet du Spectateur, retrouvé dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>. C’est d’une précision très excitante pour l’esprit, — amorçante. Je relis aussi Ramuz, aux mêmes fins. <hi rend="bg_00ff00">J’écris l’histoire d’un homme qui essaie de parler à son ange<note place="bottom" resp="editor">On n’a pu identifier ce texte.</note></hi>, trouve une femme au lieu d’un ange, comprend que cet amour n’est qu’une facilité, se retrouve seul, et finit par recevoir de l’ange l’ordre de s’occuper sobrement des humains, dans la plaine (tout se passe à 2000 mètres). Malheureusement, il faudrait le génie de J.-S. Bach pour réussir cela avec la rigueur nécessaire, et le velouté et la palpitation. — Je reprends aussi un essai sur la fin du monde, que je vous donnerai cet automne, si cela vous intéresse.</p>
+        <p><pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_004.tif/full/full/0/default.jpg"/> Je me demande ce que vous avez pensé des poèmes d’Adamov. Ils me paraissent atteindre souvent cette grande simplicité (pauvreté) dont manque tellement la poésie contemporaine (sauf parfois Supervielle, sauf Rilke). Et si les poëtes perdent le secret de ce luxe suprême, qui nous restera-t-il pour nous sauver de cet infernal esprit de richesse dont le marxisme est en train de donner la doctrine, plus franchement que ne l’osait le capitalisme. Enfin, j’aime dans ces poëmes le sens des mots et des sons, et même cet air de « traduction »…</p>
+        <p>Si je n’étais pas baigné dans cette grande paix végétale, je vous envierais votre fort et cette île admirablement « élémentaire » et homérique (avec aussi, à l’intérieur, un petit côté Jules Verne que j’ai beaucoup aimé). Serez-vous de retour à Paris en septembre ? Je vais passer une semaine à Pontigny (Goethe) sans aucun enthousiasme, mais j’y travaillerai<note place="bottom" resp="editor">Il en sortira le texte « <hi rend="bg_00ff00">Goethe médiateur</hi> » paru dans le <emph>Bulletin de l’Union pour la Vérité</emph>, puis <ref target="https://www.unige.ch/rougemont/livres/ddr1944persdram/4#go4">repris dans les <emph>Personnes du drame</emph></ref>.</note>.</p>
+        <salute>À vous, bien amicalement.</salute>
+        <signed>D. de Rougemont</signed>
+        <postscript>
+          <p>Le typo a mis « dépanement » pour dépassement<note place="bottom" resp="editor">Erreurs contenues dans les premières épreuves de <ref target="https://www.unige.ch/rougemont/articles/nrf/193209">la note susmentionnée sur <emph>L’Éloge de l’imprudence</emph> de Jouhandeau</ref>.</note>. Nietzsche devient le « chauffeur » qui selon Keyserling est l’idéal de l’homme moderne !</p>
+        </postscript>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19320930">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_006.jp2/full/full/0/default.jpg"/>
+        <head>1932-09-30, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Port-Cros
+          <lb/>Le 30 septembre [1932]</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Je suis tout à fait effrayé en revoyant la date de votre lettre. Et plein de honte.</p>
+        <ab type="ornament">⁂</ab>
+        <p>Imaginez-vous que Jouhandeau a connu (je l’ai aussi connu) un jeune suisse, fils d’un pasteur, auteur d’un singulier roman (dont le titre du moins était très beau : <emph>Le Voisin</emph>) et d’observations sur les maisons abandonnées de Paris, qui lui avait dit, entre autres, être l’auteur des notes signées par Denis de Rougemont — son pseudonyme, ajoutait-il, le plus courant. Ce jeune homme s’appelait aussi (et principalement) Alfred Rosset. Il avait décidé plusieurs de ses amis au suicide, [ce] dont il se montrait assez fier. Enfin <ref target="https://www.unige.ch/rougemont/articles/nrf/193209">votre note</ref> avait jeté Jouhandeau dans la perplexité, par son rapport (et son absence de rapport) avec ce qu’il connaissait <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_007.jp2/full/full/0/default.jpg"/> de Rosset. Je l’ai détrompé. Vous a-t-il écrit ? Il me disait de <ref target="https://www.unige.ch/rougemont/articles/nrf/193209">votre étude</ref> des choses très intéressantes.</p>
+        <ab type="ornament">⁂</ab>
+        <p>Croyez-vous qu’il soit prudent, ingénieux ou sage de se mettre à dix-huit pour découvrir la vérité ? J’espère bien que non. (Mais c’est pourtant un peu le sentiment que je garde de votre <hi rend="bg_00ff00"><emph>cause commune</emph></hi>.)</p>
+        <p>Mais pour se plaindre de ne pas l’avoir découverte ? Soit. Mais pour dresser un cahier de revendications ? Peut-être. Mais pour préciser les conditions auxquelles la vérité devrait d’être acceptable ? Sans doute ; mais n’allez pas beaucoup plus loin. Et déjà il me semble que vous entendez par « révolution » trop de choses, ou trop peu. Quant à « humanisme »… vous m’accorderez bien que c’est surtout ce qui dépasse l’homme qui vous intéresse. Alors pourquoi reprendre des mots qui ont tant (et si mal) servi.</p>
+        <ab type="ornament">⁂</ab>
+        <p>Pourtant… Ne serait-il pas intéressant de réunir, pour <ref target="https://www.unige.ch/rougemont/articles/nrf/193212">un numéro spécial de la <emph>NRF</emph></ref> toutes les sortes de revendications dont il s’agit, de Th. Maulnier à Dandieu ? Accepteriez-vous de vous en charger, de présenter les témoignages, de conclure ? Cela pourrait être assez intéressant, je crois, peut-être assez grave. <pb n="p. 3" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_008.jp2/full/full/0/default.jpg"/> Nous en parlerons.</p>
+        <ab type="ornament">⁂</ab>
+        <p>Nous rentrons à Paris le 5 octobre, après un mois et demi de vie sauvage : défrichement, piégeage, pêche. Ne viendrez-vous pas, quelque année, voir Port-Cros ?</p>
+        <p>Mes <emph>Fleurs de Tarbes</emph> ont sérieusement avancé. Elles m’apprennent beaucoup — mais c’est peut-être que j’avais beaucoup à apprendre. Il me tarde (ceci n’est pas dit à la légère) de vous les faire lire.</p>
+        <p>Prêtez-moi bien la <emph>Fin du monde</emph><note place="bottom" resp="editor">On n’a pu identifier ce texte.</note> et, s’il est achevé, <hi rend="bg_00ff00">le roman de l’homme et de son ange</hi>. Il m’en tarde aussi. (Aviez-vous lu, il y a quelques années, un livre de Sichel, pas trop loin d’un chef-d’œuvre, qui s’appelait « Une création du monde de nos jours » ?)</p>
+        <salute>Je vous serre bien amicalement les mains.</salute>
+        <signed>Jean Paulhan</signed>
+        <p rend="center"/>
+        <p>Je voudrais une note de vous pour le prochain numéro.</p>
+        <p>À tout hasard :</p>
+        <p>Jaloux : <emph>La Balance faussée</emph>.</p>
+        <p>Ludwig : <emph>Le Monde tel que je l’ai vu</emph>.</p>
+        <p>St. Benson : <emph>Tobie et l’Ange</emph>.</p>
+        <p>(Si vous n’avez pas les livres, achetez-les, je vous prie. La <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> vous remboursera. Et prévenez-moi de vos choix<note place="bottom" resp="editor">Denis de Rougemont ne chroniqua pas ces textes.</note>.)</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19321028">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_010.jp2/full/full/0/default.jpg"/>
+        <head>1932-10-28, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 28 octobre 1932</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Dites-moi le plus vite possible si je puis compter sur vous pour <ref target="https://www.unige.ch/rougemont/articles/nrf/193212">le numéro du 1<hi rend="sup">er</hi> décembre</ref>.</p>
+        <p>À la réflexion, <emph>Revendications</emph> ou <emph>Cahier de revendications</emph> me semble un titre parfait.</p>
+        <salute>Amitiés.</salute>
+        <signed>Jean Paulhan</signed>
+        <signed/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19321029">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_005.tif/full/full/0/default.jpg"/>
+        <head>1932-10-29, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>31, rue Saint-Placide
+          <lb/>Le 29 octobre 1932</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Je suis bien coupable de vous laisser sans nouvelles de <ref target="https://www.unige.ch/rougemont/articles/nrf/193212">notre numéro</ref>. J’attends encore les réponses de Nizan et de Philippe Lamour. Tous les autres ont accepté et me donneront leurs contributions au plus tard le 4 novembre. Je vous apporterai le tout vers le 8.</p>
+        <p>Il y a donc : Henri Lefebvre, Sylveire, Arnaud Dandieu, Alex. Marc, René Dupuis, Thierry Maulnier, Izard, Mounier et moi. Si Lamour et Nizan ne peuvent pas, j’aurai sans doute un remplaçant (Bataille, Politzer). L’ensemble est assez neuf et imprévu, — assez « organique » aussi.</p>
+        <p><pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_006.tif/full/full/0/default.jpg"/> Je joins à ce mot le <hi rend="bg_00ff00">petit manifeste</hi> protestant de <ref target="https://www.unige.ch/rougemont/articles/hn"><emph>Hic et Nunc</emph></ref>, groupe calviniste-kierkegaardien-barthien qui va publier un bulletin. Cela fera un petit scandale dans le monde protestant, mais surtout chez les catholiques, je l’espère…</p>
+        <salute>Bien amicalement vôtre.</salute>
+        <signed>D. de Rougemont</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19321115">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_011.jp2/full/full/0/default.jpg"/>
+        <head>1932-11-15, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 15 novembre 1932</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Je trouve décidément <ref target="https://www.unige.ch/rougemont/articles/nrf/193212">votre enquête</ref> passionnante (je comprends d’ailleurs mieux après l’avoir lue sur quels points elle peut ennuyer Jean Guéhenno).</p>
+        <p>Lefebvre me semble excellent (l’un des plus « humains » de tous) ; Nizan, un peu sommaire, mais amusant (est-ce qu’il ne finira pas comme Berl ?) ; Lamour, acceptable ; Maulnier tout à fait excellent de pensée, avec beaucoup de délicatesse et de force ; Dandieu, fort maladroit (je lui écris et lui demande s’il ne pourrait pas, sur épreuves, expliquer un peu mieux cette « spécificité » de l’esprit, qu’il commence par nous lancer dans les jambes). Mounier, pas du tout déplaisant, (et même plus fin et plus ferme que je ne m’y attendais). Je me passerais fort bien de René Dupuis : mais il est vrai qu’il représente quelque chose qui a droit à l’existence.</p>
+        <p>Je crois, par contre, que nous aurions le plus grand tort de donner les témoignages de Sylveire et d’Alexandre Marc<note place="bottom" resp="editor">Si le texte de Sylveire parut, ceux de Dupuis et Marc ont été remplacés par un bref texte signé de leurs deux noms.</note>. Vous savez quelle est mon estime pour Sylveire. Eh bien, il n’est pas douteux que son <emph>Un</emph> risque de le déconsidérer à jamais : cela paraîtra purement verbal, insignifiant et criard. Que signifie donc cette <emph>vérité</emph> qui apparaît à la première ligne ? Quelle vérité ? D’où sort-elle ? Et qu’est-ce qu’<emph>être</emph> ? (La définition qu’il en donne est fort banale, et n’apprend exactement rien.) Je devine évidemment ce qu’il veut dire (et qui est fort intéressant, et qui prépare évidemment vos conclusions) mais enfin le fait est qu’il ne le dit pas. <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_012.jp2/full/full/0/default.jpg"/> Quant à Marc, il me semble banal, plat et tout à fait creux.</p>
+        <p>Évidemment la suppression de Marc et de Sylveire aurait l’avantage :</p>
+        <p>1. de donner un plus grand poids aux autres articles ;</p>
+        <p>2. de permettre de les imprimer en corps 10, d’aller à la page pour chaque article, de les mettre ainsi mieux en valeur ;</p>
+        <p>3. enfin d’accroître dans une large mesure la valeur de votre enquête.</p>
+        <p>Je ne prends cependant pas sur moi, bien entendu, de la faire ; mais si elle vous paraît possible, avertissez-moi <emph>d’urgence</emph> (ou si vous le pouvez, passez <emph>aujourd’hui</emph> même à la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> où je vous attendrai jusqu’à sept heures et quart.)</p>
+        <salute>Votre ami.</salute>
+        <signed>Jean Paulhan</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-193211">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_042.jp2/full/full/0/default.jpg"/>
+        <head>1932-11, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Dimanche [novembre 1932]</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Quelques remarques encore :</p>
+        <p>Dans votre avertissement, ne faudrait-il pas ajouter l’<emph>AEAR</emph> ?</p>
+        <p>Mardi, vous pourriez jusqu’à une heure me téléphoner à <emph>Sceaux 190</emph>, s’il y avait quelque difficulté.</p>
+        <p>Sylveire, j’ai beau le relire, me paraît toujours détestable. Il y a bien des obscurités et des confusions dans Mounier. Mais je pense que vous relirez <emph>tout</emph>.</p>
+        <p><ref target="https://www.unige.ch/rougemont/articles/nrf/1932122">Votre étude</ref> me semble très forte.</p>
+        <p>P. 849 : <emph>rien moins</emph> (n’est-ce pas <emph>rien de moins</emph> que vous voulez dire).</p>
+        <p>Toujours p. 849 : <emph>nous en avons plus</emph>. Je préférerais : <emph>davantage</emph>. (Il me semble que <emph>plus</emph> n’est pas très clair.)</p>
+        <p>Songez bien que nous ne devons en aucun cas dépasser <hi rend="u">45</hi> pages.</p>
+        <p>Si par hasard vous manquiez d’argent pour votre voyage, voulez-vous passer demain à la revue ?</p>
+        <salute>Je vous serre bien amicalement les mains.</salute>
+        <signed>Jean Paulhan</signed>
+        <signed/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19321209">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_013.jp2/full/full/0/default.jpg"/>
+        <head>1932-12-09, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 9 décembre 1932</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Ne me donneriez-vous pas une note brève sur le livre de Daniel Simond<note place="bottom" resp="editor">Il s’agit sans doute de <emph>Circonstances</emph>, publié en 1932. Rougemont ne devait pas en rendre compte.</note> (avant le 12 décembre, si possible).</p>
+        <p>Il se dégage des nouvelles lettres que je reçois à peu près la réaction suivante : « <ref target="https://www.unige.ch/rougemont/articles/nrf/1932122">Ce que dit Denis de Rougemont est très bien</ref> mais cela pourrait sembler dans un an tout à fait ridicule. Qu’est-il disposé à faire <emph>dès maintenant</emph> ? »</p>
+        <salute>Je vous serre les mains.</salute>
+        <signed>Jean P.</signed>
+        <signed/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-193212">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_007.tif/full/full/0/default.jpg"/>
+        <head>1932-12, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>31, rue Saint-Placide, VI<hi rend="sup">e</hi>
+          <lb/>[Décembre 1932]<note place="bottom" resp="editor">Sans date, la lettre est située par rapport à celle envoyée par Jean Paulhan le 9 décembre 1932, à laquelle elle répond clairement. Elle a été envoyée sans doute entre le 9 et le 12 décembre 1932.</note></dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Je n’ai pas pu lire encore le livre de Daniel Simond, mais je serai content d’en parler le mois prochain, si cela vous va. Assez brièvement. Si Fernandez ne le fait pas — il m’a dit qu’il n’en était pas sûr —, je vous proposerais en même temps <ref target="https://www.unige.ch/rougemont/articles/nrf/193310">quelque chose sur le <emph>Saint-Évremond</emph> d’A.-M. Schmidt</ref>, qui est vraiment d’une belle qualité (presque trop).</p>
+        <p>Je serais curieux de voir les lettres que vous vaut le <ref target="https://www.unige.ch/rougemont/articles/nrf/193212"><emph>Cahier de revendications</emph></ref>. Je recueille les réactions les plus diverses, pour et contre. Mais rien du côté communiste, sauf une réfutation de détail, douce et polie, de mon article, par Nizan au cours d’une conférence récente<note place="bottom" resp="editor">Parue sous le titre « Sur un certain front unique » dans <emph>Europe</emph>, n° 109, 15 janvier 1933. Rougemont y répondit, sous le même titre, dans la livraison suivante d’<emph>Europe</emph> (cf. sa <hi rend="bg_00ff00">lettre à Paulhan du 1<hi rend="sup">er</hi> février 1933</hi>) ; voir également le <ref target="https://www.unige.ch/rougemont/livres/ddr1968jde/9#p105"><emph>Journal d’une époque</emph>, p. 105sq.</ref></note>.</p>
+        <p>La question « que compte-t-il faire dès maintenant ? » traduit, je crois, plus de « curiosité » bourgeoise et d’impatience indiscrète que de véritable volonté d’action. On ne peut <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_008.tif/full/full/0/default.jpg"/> rien faire d’autre, <emph>hic et nunc</emph>, que ce que nous faisons : préparer un terrain, une doctrine, une ambiance ; pousser quelques analyses un peu brutales. Si nous savions déjà, si vite, si facilement, tout ce qu’il y a à faire, ce ne serait pas trop sérieux ! Néanmoins, nous avons mis sur pied, depuis quelques mois, un « plan » économique et social qui pourrait devenir un levier d’action puissant. Il faut préparer les esprits, il faut faire sentir sa nécessité, avant de le jeter en pâture aux critiques, aux partis, ou même aux élèves d’Alain (qui, en somme, sont les derniers, les seuls, à défendre encore une société où tout, même l’arrivisme, devient si médiocre).</p>
+        <p>La nécessité d’une suite à <ref target="https://www.unige.ch/rougemont/articles/nrf/193212">l’enquête</ref>, précisant un programme et une technique constructive, me paraît évidente — mais ce sera pour plus tard. Je suis fatigué de « discuter ». Je crains plus que tout l’inflation verbale qui nous menace tous, dans nos groupes. Il me faudrait maintenant un mois de retraite et de « pensée à contre-courant », — comme dit Du Bos.</p>
+        <salute>Bien amicalement à vous.</salute>
+        <signed>D. de Rougemont</signed>
+        <p rend="center"/>
+        <p>P.-S. Je n’ai toujours pas reçu les numéros de chez Paillart. Ni les autres collaborateurs.</p>
+        <p>2<hi rend="sup">e</hi> P.-S. Il vaudrait la peine de parler des <emph>Essais espagnols</emph> d’Ortega, dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>. Je le ferais si je n’en étais pas l’éditeur<note place="bottom" resp="editor">L’ouvrage sera recensé par Jean Guérin (pseudonyme de Jean Paulhan) dans le numéro de mars 1933 de la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>. Lancées par <hi rend="bg_00ff00">Robert de Traz</hi> dans l’orbite des Éditions « Je sers » et de la revue <ref target="https://www.unige.ch/rougemont/articles/fv"><emph>Foi et Vie</emph></ref>, les Éditions du Cavalier, dont Rougemont assura le secrétariat, ne publièrent au cours de leur brève existence (1932-1933) qu’une petite dizaine d’ouvrages. Voir également <hi rend="bg_00ff00">la correspondance familiale</hi>.</note>.</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19330125">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_014.jp2/full/full/0/default.jpg"/>
+        <head>1933-01-25, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 25 janvier 1933</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Ne serait-il pas possible de faire envoyer les <emph>Cahiers romands</emph> à Marcel Arland (99, rue Anatole France Châtenay-Malabry, Seine) qui aurait sûrement occasion de les examiner dans sa Chronique<note place="bottom" resp="editor">Cette jeune maison d’édition, où Rougemont venait de publier <ref target="https://www.unige.ch/rougemont/livres/ddr1932paysan"><emph>Le</emph>
+              <emph>Paysan du Danube</emph></ref>, devait interrompre ses activités en 1933 ; la proposition resta sans suite.</note> ?</p>
+        <salute>À vous très amicalement.</salute>
+        <signed>Jean Paulhan</signed>
+        <p rend="center"/>
+        <p>Quand me donnez-vous un essai, un récit, une suite au <ref target="https://www.unige.ch/rougemont/articles/nrf/193212"><emph>Cahier</emph></ref> ?</p>
+        <p>Ci-joint une lettre pour vous, que vous m’excuserez d’avoir ouverte. (L’adresse était invisible.)</p>
+        <p>Ci-joint aussi une lettre (entre autres) qui me parle du « <ref target="https://www.unige.ch/rougemont/articles/nrf/193212">cahier</ref> » (vous me la rendrez, je vous prie<note place="bottom" resp="editor">Les deux lettres en question n’ont pas été conservées.</note>).</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19330201">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_009.tif/full/full/0/default.jpg"/>
+        <head>1933-02-01, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>31, rue Saint-Placide, VI<hi rend="sup">e</hi>
+          <lb/>Le 1<hi rend="sup">er</hi> février 1933</dateline>
+        <salute>Cher ami,</salute>
+        <p>Merci de m’avoir communiqué cette lettre : elle me prouve à l’évidence la nécessité d’un second <ref target="https://www.unige.ch/rougemont/articles/nrf/193212"><emph>Cahier</emph></ref> qui donnera cette fois-ci des précisions d’action, au lieu de se borner à décrire des fondements idéologiques — ce qui tout de même était nécessaire. Beaucoup d’intellectuels pensent aujourd’hui ceci : « La Révolution est nécessaire ; elle m’ennuie ; le marxisme est inacceptable ; pourtant lui seul est fort (<emph>id est</emph> : constitué) ; conclusion : je dis que si j’étais révolutionnaire je serais marxiste ; et comme le marxisme est faux, je cultive mes choux. » Alors qu’il y a des groupes qui se forment, qui eux ne sont pas « faux » à la base, qui eux demandent la collaboration directe des intellectuels ; qui eux sont directement gênants… pour les intellectuels.</p>
+        <p>Débat sur ces groupes et le <ref target="https://www.unige.ch/rougemont/articles/nrf/193212"><emph>Cahier</emph></ref> à la rue Visconti, le 18 février à 9h.</p>
+        <p><pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_010.tif/full/full/0/default.jpg"/> Nous travaillons beaucoup. Cela se verra d’ici quelques semaines : revues, congrès, débats publics, tracts, agitations dans les syndicats, chez les fédéralistes et les paysans.</p>
+        <p>J’ai répondu à Nizan par <hi rend="bg_00ff00">une courte lettre ouverte</hi>, dans laquelle je précise qu’il a connu la composition et l’esprit du <ref target="https://www.unige.ch/rougemont/articles/nrf/193212"><emph>Cahier</emph></ref> avant d’y contribuer, et qu’il vient un peu tard pour faire le petit pur. J’ai vu Guéhenno, qui a peur de nous — et sans doute aussi de la Révolution.</p>
+        <p>Les maximes de F. Abelous sont vraiment fort bien, dans le genre féroce du protestant qui ne se le pardonne pas. (Il est fils de pasteur.)</p>
+        <p>Je vais vous envoyer une <ref target="https://www.unige.ch/rougemont/articles/nrf/193304">note sur Pétrarque</ref>. Quelqu’un a-t-il réservé les <emph>Romantiques</emph> de Ricarda Huch ? Sinon, je serais content de le faire<note place="bottom" resp="editor">C’est Georges Pelorson qui produira une note sur ce texte, dans le numéro de novembre 1933 de la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>.</note>.</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19330707">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_016.jp2/full/full/0/default.jpg"/>
+        <head>1933-07-07, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 7 [juillet 1933]<note place="bottom" resp="editor">Une note manuscrite de Rougemont précise : « Après l’annonce de mon mariage, 1933. Juillet. »</note></dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Voilà une bonne nouvelle. Et il faut absolument que vous veniez à Port-Cros. Le bateau part tous les matins des <hi rend="u">Salins d’Hyères</hi> à 9h½ (en correspondance avec le train qui part de Toulon pour les Salins à 8h¾) ; il arrive vers 11h à Port-Cros, où je vous attendrai.</p>
+        <p>Vous pourrez bien passer avec nous quelques jours, n’est-ce pas ? Télégraphiez-moi, dès qu’il sera fixé, le jour de votre arrivée. (Adr. télégr. : Paulhan – Éminence – Port-Cros – c’est comme ça et je n’y puis rien faire.) Il faut se défier de la poste : je ne reçois qu’aujourd’hui votre lettre du 2.</p>
+        <p>Port-Cros vous enchantera.</p>
+        <salute>Votre ami.</salute>
+        <signed>J. P.</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19330723">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_015.jp2/full/full/0/default.jpg"/>
+        <head>1933-07-23, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 23 juillet 1933</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Julien Lanoë n’a pas reçu le <ref target="https://www.unige.ch/rougemont/livres/ddr1932paysan"><emph>Paysan</emph></ref>…<note place="bottom" resp="editor">Lanoë a rendu compte du <emph>Paysan du Danube</emph> dans la <emph>NRF</emph> du mois de décembre.</note> Voudriez-vous le lui adresser.</p>
+        <salute>Votre ami.</salute>
+        <signed>Jean Paulhan</signed>
+        <p rend="center"/>
+        <p>et beaucoup de vœux et d’amitiés.</p>
+        <p rend="center"/>
+        <p>J. Lanoë : 9, quai Turenne, Nantes (Loire-Inférieure)</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19331004">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_011.tif/full/full/0/default.jpg"/>
+        <head>1933-10-04, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>31, rue Saint-Placide
+          <lb/>Le 4 octobre 1933</dateline>
+        <salute>Cher ami,</salute>
+        <p>Me voici, une fois de plus, bien en retard pour vous remercier, vous et madame Paulhan, de votre accueil à la Vigie et de toutes vos bontés. Notre seul regret est de n’avoir pu en abuser un peu plus. La beauté de votre Vigie nous a d’ailleurs donné l’idée, l’envie et enfin la volonté de vous imiter, et nous allons partir d’ici vers le 20 octobre, pour passer l’hiver dans l’île de Ré, où ma belle-mère possède une petite maison. « Je sers » ayant définitivement suspendu ses services, et les miens, c’est à peu près la seule solution qui nous reste. Je n’en suis pas du tout fâché. Vous ne tarderez pas à lire les conséquences de tout cela.</p>
+        <p>Vous verrai-je avant mon départ ? Je suppose que vous devez rentrer un de ces jours. Je vous montrerai les photos de Port-Cros.</p>
+        <p>Le Tableau de la Poésie<note place="bottom" resp="editor">La <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> publia en octobre et novembre 1933 plus d’une quarantaine d’auteurs représentés chacun par un poème.</note> est fort bien, dommage du peu. Mais c’est encore la note de Cingria qui contient le plus de poésie.</p>
+        <p>Présentez, je vous prie, nos hommages à Madame Paulhan, et croyez-moi très amicalement</p>
+        <signed>votre
+          <lb/>D. de Rougemont</signed>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19331107">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_012.tif/full/full/0/default.jpg"/>
+        <head>1933-11-07, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Les Portes (île de Ré)
+          <lb/>(Charente inférieure)</dateline>
+        <dateline>Le 7 novembre 1933</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Voici la <hi rend="bg_00ff00">chronique</hi> dont je vous ai parlé, suite au <ref target="https://www.unige.ch/rougemont/articles/nrf/193212"><emph>Cahier de revendications</emph></ref>. Je ne sais quel titre lui donner. Faut-il rappeler le <ref target="https://www.unige.ch/rougemont/articles/nrf/193212"><emph>Cahier</emph></ref> dans ce titre ? Mais ce serait fort long. Sinon, on pourrait mettre simplement « Jeunes Groupes », ou « Un an ». J’y réfléchirai encore ; mais sans doute avez-vous une idée ? — Ce n’est pas bien agréable de jouer le rôle d’informateur. Je crois tout de même que ce « retour » sera utile, et qu’il dissipera quelques gros malentendus.</p>
+        <p>Je vous enverrai par un prochain courrier une <ref target="https://www.unige.ch/rougemont/articles/nrf/193312">note sur Ehrenbourg</ref>. Je vais écrire aussi à M. Jean Guérin au sujet de sa notule sur le dictionnaire de Bloch<note place="bottom" resp="editor">Il s’agit du <emph>Dictionnaire étymologique de la langue française</emph>, publié sous la direction d’Oscar Bloch en 1932 aux Presses universitaires de France. Jean Guérin est un pseudonyme employé notamment par Jean Paulhan pour certaines chroniques de la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>.</note>. Je suppose que vous n’aurez pas de peine à lui faire parvenir ce mot.</p>
+        <salute>En hâte, pour ne pas manquer le courrier, et bien amicalement à vous.</salute>
+        <signed>D. de Rougemont<note place="bottom" resp="editor">Sur cette lettre, Jean Paulhan a noté : « M. cher ami / <emph>Un an plus tard</emph> me semble / un excellent titre. »</note></signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-193311">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_017.jp2/full/full/0/default.jpg"/>
+        <head>1933-11, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Novembre 1933<note place="bottom" resp="editor">Sans date précise, la lettre est située entre le 7 et le 11 novembre d’après le contexte.</note></dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Le défaut principal de la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> me paraît être qu’elle parle, trop tard, de trop peu de choses. N’est-ce pas votre avis ? Et ne pensez-vous pas que toute une part du numéro — mettons dix à quinze pages — devrait être consacrée :</p>
+        <p rend="lmarg1">aux films du mois</p>
+        <p rend="lmarg1">aux pièces de théâtre</p>
+        <p rend="lmarg1">aux expositions et aux livres d’art</p>
+        <p rend="lmarg1">aux concerts</p>
+        <p>et (pourquoi pas ?)</p>
+        <p rend="lmarg1">aux faits-divers</p>
+        <p rend="lmarg1">aux conversations</p>
+        <p rend="lmarg1">aux événements de la vie intime</p>
+        <p rend="lmarg1">aux événements politiques (ce qui sera diablement difficile).</p>
+        <p rend="lmarg1"><space rend="tab"> </space>Le tout traité en notes brèves, d’une demi-page chacune.</p>
+        <p>Et (j’en viens à la question principale) n’accepteriez-vous pas de me donner de temps en temps de telles notes ? Songez-y ; et répondez-moi, je vous prie.</p>
+        <salute>Votre ami.</salute>
+        <signed>Jean Paulhan</signed>
+        <p rend="center"/>
+        <p>Merci de votre <hi rend="bg_00ff00">chronique</hi>.</p>
+        <p><emph>Un an plus tard</emph> me semblerait un titre parfait.</p>
+        <p>Envoyez-moi <emph>vite</emph>
+          <ref target="https://www.unige.ch/rougemont/articles/nrf/193312">Ehrenbourg</ref> (très bref, s’il est possible).</p>
+        <salute>Amitiés à vous deux.</salute>
+        <signed>J. P.</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19331111">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_013.tif/full/full/0/default.jpg"/>
+        <head>1933-11-11, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Les Portes en Ré (Charente inf.)
+          <lb/>Le 11 novembre 1933</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Voici une <ref target="https://www.unige.ch/rougemont/articles/nrf/193312">note sur Ehrenbourg</ref>. Plus court eût été injuste. C’est un livre émouvant malgré certains côtés ridicules, voire odieux.</p>
+        <p><emph>Un an plus tard</emph> est un bon titre. Je pensais à « un an après », mais ce n’était que le vingtième d’un titre de Dumas.</p>
+        <p>Puis-je vous faire une note sur Barth ? Puisqu’il y en a sur Maritain<note place="bottom" resp="editor">Rougemont fait référence à une note de Charles-Albert Cingria, parue dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> de novembre 1933, à propos de l’ouvrage <emph>De la philosophie chrétienne</emph>. Rougemont n’a pas publié de note sur Karl Barth dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>.</note>… (Une belle note d’ailleurs ! Mon ambition secrète serait d’avoir une note de Ch.-A. Cingria sur mon <ref target="https://www.unige.ch/rougemont/livres/ddr1932paysan"><emph>Paysan</emph></ref>, fût-ce un éreintement<note place="bottom" resp="editor">Julien Lanoë rendra compte du <ref target="https://www.unige.ch/rougemont/livres/ddr1932paysan"><emph>Paysan du Danube</emph></ref> dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> de décembre 1933.</note>.)</p>
+        <p>Votre idée de faire une place dans la revue aux actualités est excitante et dangereuse, me semble-t-il. Ne serait-ce pas introduire <emph>Marianne</emph> dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> ? Ceci pour la critique de films, pièces et concerts. L’avantage serait que la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> est indépendante de toute publicité et pourrait se montrer plus sévère. Quant aux faits-divers, conversations et intimité, leur critique ne suppose-t-elle pas une <emph>Weltanschauung</emph> bien définie, un point de vue éthique et politique tout au moins ? Je ne dis pas que la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> n’en ait pas ; mais elle en a plusieurs. Maintenant, ce pourrait être intéressant de les comparer plus concrètement. Ce serait, en somme, un Carnet <emph>des</emph> Spectateurs, et il est certain que c’est par là qu’on commencerait à lire la revue. Pour ceci, je serais enchanté de vous envoyer quelques remarques d’ordre politique et surtout, d’ordre privé (beaucoup plus efficace au point de vue révolutionnaire).</p>
+        <p>Ramuz aura sans doute des notes excellentes dans ce goût, telles qu’il en publiait dans <emph>Aujourd’hui</emph>.</p>
+        <p><pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_014.tif/full/full/0/default.jpg"/> Maintenant, c’est à M. Jean Guérin que je m’adresse. Sa petite note sur le dictionnaire des étymologies de Bloch m’inquiète et me pose des questions. Si l’étymologie est fausse « scientifiquement » et pratiquement, s’ensuit-il qu’elle ne puisse servir d’instrument de mystification efficace, pour le philosophe et l’essayiste ? Si <emph>penser</emph> n’avait jamais voulu dire <emph>peser</emph> (le pour et le contre, comme l’indique je crois Littré, que je n’ai pas ici) : si <emph>penser</emph> n’a jamais voulu dire non plus <emph>peser sur</emph> (comme j’aimerais le croire), — ne peut-on pas, tout de même, tirer des conclusions intéressantes (utiles, significatives), du rapprochement de ces trois termes<note place="bottom" resp="editor">Note de Denis de Rougemont dans la marge : « <emph>Id.</emph> avec <emph>religion</emph> : lien ou déréliction. On peut fonder une théologie là-dessus. »</note> ? N’est-ce pas là ce qu’ont fait Montaigne, Novalis et Claudel, et tous les occultistes ? Ces « origines » n’ont pas d’autre vérité que leur fécondité poétique ou éthique, mais croyez-vous qu’il faille la sacrifier à une exactitude d’ailleurs provisoire et, en partie, conventionnelle ? — Je serais très curieux de connaître votre opinion là-dessus. Certains essais auxquels je travaille depuis des mois touchent de près à ces questions.<note place="bottom" resp="editor">Cette discussion sur l’étymologie du verbe « penser » sera en effet reprise dans <ref target="https://www.unige.ch/rougemont/livres/ddr1936pm/16#body-2-2-5"><emph>Penser avec les mains</emph></ref>, publié en 1936.</note></p>
+        <p>Nous vivons dans un pays pauvre et lumineux dont j’ai chaque jour un peu moins l’envie de sortir. À part quelques paysans, nous ne voyons exactement personne. C’est une richesse.</p>
+        <salute>Bien amicalement à vous, et mes hommages, je vous prie, à Madame Paulhan.</salute>
+        <signed>D. de Rougemont.</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19340315">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_015.tif/full/full/0/default.jpg"/>
+        <head>1934-03-15, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Les Portes en Ré
+          <lb/>(Ch<hi rend="sup">te</hi> inf.)
+          <lb/>Le 15 mars 1934</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Ma femme a renvoyé en mon absence l’épreuve de ma <ref target="https://www.unige.ch/rougemont/articles/nrf/193404">note sur Ramuz</ref> à Abbeville. J’espère que cette épreuve vous sera revenue. Il n’y avait, paraît-il, pas de faute. Je vous enverrai dans un ou deux jours <ref target="https://www.unige.ch/rougemont/articles/nrf/193405">une autre note, sur Kafka</ref>, — c’est un grand théologien me semble-t-il.</p>
+        <p>Vous ai-je remercié pour les livres, que j’ai fini par recevoir à double, le premier envoi fait à « Je sers », ne m’ayant pas été réexpédié. Merci deux fois.</p>
+        <p>Quant à la chronique <emph>Un an plus tard</emph>, je ne pense pas qu’elle soit d’actualité après ce qui s’est passé en février. Des divers groupes qui ont collaboré au <ref target="https://www.unige.ch/rougemont/articles/nrf/193212"><emph>Cahier</emph></ref>, seul subsiste <ref target="https://www.unige.ch/rougemont/articles/on">l’Ordre nouveau</ref>. <ref target="https://www.unige.ch/rougemont/articles/espr"><emph>Esprit</emph></ref> n’est plus qu’une revue, la Troisième Force s’évanouit, Plans a disparu, et les groupes d’extrême droite sont inexistants. Ce <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_016.tif/full/full/0/default.jpg"/> qui serait intéressant, ce serait de faire une autre chronique, dans quelques mois, sur le seul <ref target="https://www.unige.ch/rougemont/articles/on">Ordre nouveau</ref>, qui se développe assez puissamment. De toute façon, je reste redevable à la Revue d’une chronique déjà payée !</p>
+        <p>J’espère vous voir à Paris, si vous y êtes pendant la semaine du 7 au 15 avril.</p>
+        <salute>Bien amicalement à vous.</salute>
+        <signed>D. de Rougemont</signed>
+        <p rend="center"/>
+        <p>P.-S. Cette lettre n’a pu partir, à cause de la tempête. Je puis donc y joindre la <ref target="https://www.unige.ch/rougemont/articles/nrf/193405">note sur Kafka</ref>, « eine Auseinandersetzung mit Groethuysen », dont la préface est tout de même admirable.</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19340320">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_018.jp2/full/full/0/default.jpg"/>
+        <head>1934-03-20, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 20 mars 1934</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Je suis navré, mais nous manquons terriblement de place et je ne parviendrai à donner dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> de mars votre <ref target="https://www.unige.ch/rougemont/articles/nrf/193404">note sur Ramuz</ref> que si vous me permettez d’en retirer le dernier paragraphe : … « qui souffre d’être lu rapidement… »</p>
+        <p>Il me semble que la note ne souffre pas trop de cette suppression que je ne vous demanderais pas, si je n’y étais contraint.</p>
+        <salute>À vous bien amicalement.</salute>
+        <signed>Jean P.</signed>
+        <p rend="center"/>
+        <p>Merci du <ref target="https://www.unige.ch/rougemont/articles/nrf/193405">Kafka</ref>. Je l’aime beaucoup. <ref target="https://www.unige.ch/rougemont/articles/on"><emph>L’Ordre nouveau</emph></ref>… faut-il prendre au sérieux un parti, qui prend Daniel-Rops au sérieux ? Et le dernier n° m’a paru terriblement médiocre.</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19340425">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_019.jp2/full/full/0/default.jpg"/>
+        <head>1934-04-25, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 25 avril 1934</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Votre <ref target="https://www.unige.ch/rougemont/articles/nrf/193405https:/www.unige.ch/rougemont/articles/nrf/193405">note sur Kafka</ref> était terriblement longue — plus longue qu’il n’était entendu. Pardonnez-moi si j’ai dû la couper. J’ai tâché du moins d’en respecter l’essentiel.</p>
+        <p>Je vous ai attendu hier, et je regrette que vous ne soyez pas venu à la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>.</p>
+        <p>Vous me ferez lire la <hi rend="bg_00ff00"><emph>Vision physionomique du monde</emph></hi>, n’est-ce pas ?</p>
+        <salute>À vous très amicalement.</salute>
+        <signed>Jean Paulhan</signed>
+        <p rend="center"/>
+        <p>On me parle beaucoup de votre <ref target="https://www.unige.ch/rougemont/articles/nrf/193404">note sur Ramuz</ref>. Cingria, Schlœzer, etc.</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19340604">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_017.tif/full/full/0/default.jpg"/>
+        <head>1934-06-04, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Les Portes-en-Ré (Charente inférieure)
+          <lb/>Le 4 juin 1934</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Puis-je vous demander un très grand service ? Ce serait de présenter <hi rend="bg_00ff00">le manuscrit ci-joint</hi> à <hi rend="bg_00ff00">Gallimard</hi>. Je ne sais quoi vous dire en faveur de ce livre. S’il est assez grand, il parlera et s’expliquera lui-même. Si vous y trouvez un fragment qui puisse paraître dans la revue, j’en serai bien content.</p>
+        <p>J’ai passé quelques heures à Paris à mon retour de Suisse, sans pouvoir trouver le temps de venir à votre bureau. Mes passages à Paris sont de plus en plus consacrés à la recherche de quelque monnaie. Je viens heureusement de recevoir un Prix Schiller — pour le <ref target="https://www.unige.ch/rougemont/livres/ddr1932paysan"><emph>Paysan du Danube</emph></ref> — qui assure notre existence jusqu’en août. Bien inattendu.</p>
+        <salute>Il me semble que je vous écris toujours pour vous demander quelque chose, j’en suis confus. Croyez au moins à ma reconnaissance et à mon amitié bien vives.</salute>
+        <signed>D. de Rougemont</signed>
+        <p rend="center"/>
+        <p>J’ai presque entièrement refait <ref target="https://www.unige.ch/rougemont/livres/ddr1936pm"><emph>Penser avec les mains</emph></ref>. Vous aviez plus raison encore que je ne le pensais, et j’ai longuement tenu compte de vos critiques.</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19340812">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_018.tif/full/full/0/default.jpg"/>
+        <head>1934-08-12, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Areuse (Neuchâtel)
+          <lb/>Le 12 août 1934</dateline>
+        <salute>Cher ami,</salute>
+        <p>J’espérais vous trouver encore à Paris le 28 juillet, mais on m’a dit que vous étiez déjà à Port-Cros. J’ai vivement regretté de n’avoir pas avancé mon passage de quelques jours. Il y avait tant de choses dont j’aurais voulu vous parler. Quand rentrerez-vous à Paris ? Pour nous, nous passerons l’hiver prochain à Anduze (Gard) où l’on nous prête une magnanerie et un jardin ; nous y serons dès le 20 septembre. Peut-être nous croiserons-nous ?</p>
+        <salute><hi rend="bg_00ff00">Gallimard</hi> ne m’a pas donné signe de vie, à propos du <hi rend="bg_00ff00">manuscrit</hi> que vous avez eu la bonté de lui remettre. Dois-je lui écrire directement ? Je ne suis pas si impatient d’ordinaire, mais deux revues me demandent quelque chose sur Kierkegaard, et j’aimerais pouvoir publier des fragments du livre un peu avant qu’il paraisse. D’autre part, « Je sers » publiera en automne un <ref target="https://www.unige.ch/rougemont/livres/ddr1934polpers">recueil d’essais</ref>
+          <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_019.tif/full/full/0/default.jpg"/> politiques et religieux, et je suis assez ennuyé de débuter en France avec un livre « de circonstances ». Mon horreur de toute politique croît à mesure que je termine ce recueil. — Pensez-vous qu’un des essais sur Kierkegaard pourrait paraître dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> ? Je ne voudrais pas le donner ailleurs avant de connaître votre sentiment.</salute>
+        <p>J’ai souvent réfléchi à ce que pourrait être une chronique de la vie privée. J’ai même un plan, assez joliment systématique. Mais avant de commencer à l’exécuter, il faut collectionner une quantité de petits faits et documents. Cela pourrait être horriblement subversif, et un peu utile.</p>
+        <p>Ne viendrez-vous pas à Pontigny cette année ? Nous allons à la 3<hi rend="sup">e</hi> décade, décider s’il faut être révolutionnaire ou clerc parfait. Curieux exercice.</p>
+        <salute>Tous nos souvenirs amicaux à vous et à Madame Paulhan, et à l’Île et aux Supervielle s’ils y sont.</salute>
+        <signed>D. de Rougemont</signed>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19340817">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_039.jp2/full/full/0/default.jpg"/>
+        <head>1934-08-17, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 17 août [1934]<note place="bottom" resp="editor">Une note de Rougemont date cette lettre (avec un point d’interrogation) de 1938, manifestement une erreur étant donné son contenu.</note></dateline>
+        <salute>Cher ami,</salute>
+        <p>Tous les torts de mon côté : j’aurais dû vous écrire déjà, il y a quatre mois, que Gaston Gallimard refusait <hi rend="bg_00ff00">votre livre<note place="bottom" resp="editor">Rougemont entoure cette dernière proposition, et note au crayon en marge : « <hi rend="bg_00ff00"><emph>Vision physiognomonique du monde</emph></hi>. Seul ms [manuscrit] de moi qui ait été refusé par un éditeur français ».</note></hi>. J’ai traîné. Je comptais attendre une circonstance favorable, reposer la question. Mais rien n’est venu.</p>
+        <p>(J’avais pourtant promis à G. G., lâchement, un roman de vous. Alors, il préférerait le roman d’abord.)</p>
+        <p>Je suis très ennuyé de tout cela.</p>
+        <ab type="ornament">⁂</ab>
+        <p>Je connais Anduze, où vivait, quand j’étais jeune, ma tante Gascuel. Vous y serez heureux, sauf que la chaleur y est abominable. Je vous souhaite <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_040.jp2/full/full/0/default.jpg"/> les mêmes vents où nous vivons depuis quinze jours — et qui se sont tout de même hier mystérieusement calmés.</p>
+        <p>J’ai été malade, aussi. Mais ça va mieux depuis hier.</p>
+        <ab type="ornament">⁂</ab>
+        <p>Ravi que vous songiez à la « vie intime ». Mais quand ? Ne pouvez-vous pas m’en donner le début pour le 1<hi rend="sup">er</hi> octobre (c’est-à-dire vers le 6 ou le 7 septembre au plus tard).</p>
+        <p>Cingria m’écrit que la Suisse entière est couverte d’eau.</p>
+        <p>Non, je ne compte pas aller à Pontigny cette année. J’ai déjà fait mes choix (je le crois, du moins).</p>
+        <p>Les Supervielle sont en Espagne, cette année. Arland occupe le fort du Moulin.</p>
+        <salute>Amitiés de nous deux à vous deux.</salute>
+        <signed>Jean Paulhan</signed>
+        <p rend="center"/>
+        <p>Je devrais vous demander pour pouvoir donner <hi rend="bg_00ff00">le <emph>Kierkegaard</emph><note place="bottom" resp="editor">À la suite de cette remarque, Rougemont note : « Donné à <emph>Hermès</emph> », où paraît effectivement « <hi rend="bg_00ff00">Forme et transformation, ou l’acte selon Kierkegaard</hi> ».</note></hi> un trop long délai. N’hésitez pas à le donner ailleurs.</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19350810">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_020.tif/full/full/0/default.jpg"/>
+        <head>1935-08-10, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>129, boulevard Masséna, XIII<hi rend="sup">e</hi>
+          <lb/>Le 10 août 1935</dateline>
+        <salute>Cher ami,</salute>
+        <p>Nous sommes très fiers de notre fils Nicolas, heureusement né le 30 juillet, petit personnage solennel et fort chevelu. L’émotion de la naissance m’a donné une grosse angine dont je [me] relève à peine. Et tout cela est cause que je ne vous envoie qu’un <ref target="https://www.unige.ch/rougemont/articles/nrf/193508"><emph>Air du mois</emph></ref>, et pas encore les <ref target="https://www.unige.ch/rougemont/articles/nrf/1935102">notes Lawrence</ref> et Kierkegaard<note place="bottom" resp="editor">Rougemont n’a publié aucune note sur Kierkegaard dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> en 1935, mais un « <ref target="https://www.unige.ch/rougemont/articles/nrf/193606">Kierkegaard en France</ref> » en juin 1936.</note>. Je ne puis rien faire de sérieux ces jours-ci. — Quelles merveilles que ces lettres de Lewis Carroll<note place="bottom" resp="editor">Il s’agit des « Lettres à des enfants », parues dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> d’août 1935. Rougemont fera en août 1938 une <ref target="https://www.unige.ch/rougemont/articles/nrf/19380801">recension <emph>d’Alice au pays des merveilles</emph></ref> pour la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>.</note>.</p>
+        <p>J’ai bien songé à un <ref target="https://www.unige.ch/rougemont/livres/ddr1947df/4#go4">troisième dialogue sur la carte postale</ref>, mais je ne puis l’écrire. Et il fait si terriblement chaud à Paris. Si vous trouvez que les deux dialogues peuvent aller tout seuls se présenter à <emph>Mesures</emph>, j’en serai bien content<note place="bottom" resp="editor">En tout, quatre « dialogues sur la carte postale » paraîtront en 1947 dans <ref target="https://www.unige.ch/rougemont/livres/ddr1947df"><emph>Doctrine fabuleuse</emph></ref>. Aucun n’a été publié dans la revue <emph>Mesures</emph>.</note>.</p>
+        <p>Lawrence est bien ingrat pour la Vigie, dans ses <emph>Lettres</emph> ! Nous gardons un souvenir heureux des deux journées que nous y passions l’autre été, et d’un soir d’orage homérique.</p>
+        <salute>Tous nos meilleurs souvenirs à vous et à Madame Paulhan.</salute>
+        <signed>D. de Rougemont</signed>
+        <p rend="center"/>
+        <p>À partir du 15 août nous serons à Areuse (Neuchâtel).</p>
+        <p rend="left"/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19350903">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_021.tif/full/full/0/default.jpg"/>
+        <head>1935-09-03, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Areuse (Neuchâtel)
+          <lb/>Le 3 septembre 1935</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Je ne sais si <ref target="https://www.unige.ch/rougemont/livres/ddr1947df/4#go4">le troisième dialogue sur la carte postale</ref>, que je vous envoie, arrangera les choses avec M. Church. Il aggrave mon cas, dans un certain sens. Mais comme Luther à Worms, je déclare que je ne puis autrement !</p>
+        <p>Les textes de Paracelse dont je vous avais parlé sont à Paris. J’ai écrit à mon ami <hi rend="bg_00ff00">A.-M. Schmidt<note place="bottom" resp="editor">Rougemont a publié dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> de septembre 1935 une <ref target="https://www.unige.ch/rougemont/articles/nrf/193509">note sur <emph>Paracelse</emph>, de Frédéric Gundolf</ref>.</note></hi> pour lui demander de les copier. J’espère pouvoir vous les envoyer avant le 10, mais je crains un léger retard. J’avais cru comprendre qu’ils ne pourraient passer que dans le numéro suivant.</p>
+        <p>Pour Lagerlöf, je pense que « Je sers » ne demandera pas mieux que de vous en donner des fragments. Il y a trois volumes en préparation, la suite de l’<emph>Anneau</emph> et la suite de <emph>Gösta Berling</emph>. Je viens de lire la note de E. Noulet (qui est-ce ?) qui est très juste, me semble-t-il. Il y a une sorte de gloire, quelque chose d’illustre dans la manière de conter de Lagerlöf, qui fait tout passer<note place="bottom" resp="editor">Voir également la <ref target="https://www.unige.ch/rougemont/articles/nrf/19371101">note de Rougemont sur <emph>Gösta Berling</emph></ref>, parue dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> de novembre 1937.</note>.</p>
+        <p>Saint-Martin. J’ai ici l’édition de 1802 de <emph>L’Homme de désir</emph>, mais elle appartient à la Bibliothèque de la Ville de Neuchâtel, et j’hésite à vous l’envoyer, craignant qu’elle ne devienne la proie des requins entre les Salins d’Hyères et votre île, et que je n’aille en prison. Pourrai-je <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_022.tif/full/full/0/default.jpg"/> vous en recopier certains passages ? Il y a des choses splendides sur le langage.</p>
+        <p>L’astrologie ? C’est évidemment le fondement de toute la science, en tant que la science décrit les déterminismes des corps. Le malheur est qu’on a fait très peu d’expériences — quelques-unes tout de même — sur les relations entre tel astre et tel métal par exemple, ou telle maladie. Ce qui est acquis, c’est que certaines conjonctions d’astres modifient les figures de cristallisation de certains sels, régulièrement. Astrologie égale science des causes, théologie : science des fins. Et nous sommes suspendus dans l’entre-deux, avec nos petites méthodes d’intérêt local, sans queue ni tête, <emph>sauf par hasard</emph>.</p>
+        <p>Quand nous donnerez-vous les <emph>Fleurs de Tarbes</emph> ? Je les attends pour ma part avec impatience. Il faudra fonder une revue consacrée aux questions du langage, avec quelques poètes, Joyce, et un ou deux linguistes distingués pour faire sérieux. Je crois que rien ne serait plus immédiatement utile. Qu’en pensez-vous ?</p>
+        <p>Mon fils exerce déjà ses lèvres à former des réponses, j’attends beaucoup de lui !</p>
+        <salute>Toutes nos amitiés.</salute>
+        <signed>D. de Rougemont</signed>
+        <p rend="center"/>
+        <p>Le titre de mes trois dialogues est <emph>La Carte postale</emph>. J’ai introduit sournoisement une phrase de vous dans le troisième. La reconnaîtrez-vous ?</p>
+        <p rend="center"/>
+        <p>P.-S. Je m’aperçois, après lecture du dernier Benda, que <ref target="https://www.unige.ch/rougemont/livres/ddr1947df/4#go4">mon troisième dialogue</ref> est une défense des « colloïdaux ». Mais les métaux nobles ne peuvent « agir » sur l’homme, précisément, qu’à l’état de suspension colloïdale.</p>
+        <p>2<hi rend="sup">e</hi> P.-S. Je reçois votre lettre d’hier lundi (quelle rapidité de transmission !). J’oubliais de vous dire que je comptais bien vous envoyer des <ref target="https://www.unige.ch/rougemont/articles/nrf/1935102">notes sur Lawrence (Brett et <emph>Matinées mexicaines</emph>)</ref> et Kierkegaard. J’y joindrai <ref target="https://www.unige.ch/rougemont/articles/nrf/193510">une autre note sur Chuzeville (<emph>Mystiques allemands</emph>)</ref><note place="bottom" resp="editor">Cet ouvrage a également fait l’objet d’une <hi rend="bg_00ff00">chronique de Rougemont dans les <emph>Nouvelles littéraires</emph></hi>. </note>. J’espère vous voir à Paris fin septembre ou début d’octobre.</p>
+        <salute>Amitiés.</salute>
+        <signed>DR</signed>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19350910">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_023.tif/full/full/0/default.jpg"/>
+        <head>1935-09-10, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Areuse
+          <lb/>Le 10 septembre [1935]</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Voici deux notes — pas trop longues j’espère ? Je suis un peu embarrassé pour parler du numéro Kierkegaard de <ref target="https://www.unige.ch/rougemont/articles/fv"><emph>Foi et Vie</emph></ref>, que j’ai confectionné. Je comptais faire une courte note sur les petits traités publiés par Tisseau. Faut-il combiner les deux ? Ou quelqu’un d’autre — Wahl, <hi rend="bg_00ff00">Breuil</hi>… — pourrait-il parler de <ref target="https://www.unige.ch/rougemont/articles/fv"><emph>Foi et Vie</emph></ref> ?</p>
+        <p>Merci de ce que vous me dites au sujet de mes dialogues. Et merci de m’avoir fait écrire le troisième, cela m’a vraiment été utile.</p>
+        <p>Ci-joint quelques passages de <emph>L’Homme de désir</emph>, que j’avais recopiés pour moi. Il y en a une masse d’autres sur la parole, épars dans ces trois cents chapitres. Je me demande si Bonald n’a pas pris là sa théorie du langage révélé ?</p>
+        <p><hi rend="bg_00ff00">Schmidt</hi> devait rentrer à Paris aujourd’hui. C’est donc trop tard pour qu’il copie les passages de Paracelse pour <emph>Mesures</emph>. Peut-on remettre au prochain numéro ? Il me propose des gloses et une introduction. Je crois que ça pourrait être assez pittoresque. Mais je vous en reparlerai.</p>
+        <salute>Bien amicalement à vous.</salute>
+        <signed>D. de Rougemont</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-193509">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_026.tif/full/full/0/default.jpg"/>
+        <head>1935-09, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Areuse
+          <lb/>Samedi [septembre 1935]</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Je suis bien fâché que mon retard vous ait obligé à télégraphier. J’avais mis mes notes à la poste le 10, pensant qu’elles iraient en vingt-quatre heures à Port-Cros, vos lettres ne prenant guère plus de temps pour arriver ici. Pourvu que l’enveloppe n’ait pas été égarée ?</p>
+        <p>J’ai été un peu sévère pour <ref target="https://www.unige.ch/rougemont/articles/nrf/193510">Chuzeville</ref>, mais à vrai dire son introduction et ses notes sont énervantes au possible, et fourmillent d’erreurs de fait, de préjugés primaires, — comme d’ailleurs presque tout ce qui a paru l’an dernier sur le <num>xvi<hi rend="sup">e</hi></num> siècle, les Érasme, More, Luther de Funck-Brentano ! Une véritable conspiration.</p>
+        <salute>Mille regrets encore, et bien amicalement à vous.</salute>
+        <signed>D. de Rougemont</signed>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19351106">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_024.tif/full/full/0/default.jpg"/>
+        <head>1935-11-06, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Liebigstrasse 6
+          <lb/>Frankfurt a. M.
+          <lb/>Le 6 novembre 1935</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Il m’a fallu un peu de temps pour reprendre mes esprits, et je n’ai pas pu vous envoyer à temps ma note sur Kierkegaard. Elle en a profité pour s’allonger. Si ces six pages sont trop pour une note, peut-être cela ferait-il une courte chronique<note place="bottom" resp="editor">Rougemont n’a publié aucune chronique sur Kierkegaard dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> en 1935, mais un « <ref target="https://www.unige.ch/rougemont/articles/nrf/193606">Kierkegaard en France</ref> » en juin 1936.</note> ? Joints, deux airs du mois<note place="bottom" resp="editor">On n’a trouvé qu’une chronique, « <ref target="https://www.unige.ch/rougemont/articles/nrf/193602">Sur l’esprit incarné</ref> », publiée sous cette rubrique en février 1936.</note>. (Citations garanties authentiques.)</p>
+        <p>Nous sommes bien installés. Il y a fort peu d’étudiants cette année — environ le dixième de ce qu’il y en avait en 1932 — et cela me laissera du temps pour travailler, je l’espère. J’attends avec impatiences des livres français ; et aussi la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> de novembre<note place="bottom" resp="editor">Note manuscrite de Rougemont en marge : « Reçue à l’instant, 7.XI ».</note>. Puis-je vous demander le <emph>Voltaire</emph> de Maurois (pour mes cours) et le dernier <emph>Jouhandeau</emph> (dont je parlerai dans <emph>Vendredi</emph><note place="bottom" resp="editor">On n’a pu identifier le texte en question.</note>), et le <emph>Breuil</emph> que je n’ai pas reçu, et un ou deux autres dont je pourrais parler dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> ? Il n’y a pas un livre français dans toutes les librairies d’ici. Et <emph>Mesures</emph> d’octobre<note place="bottom" resp="editor">Tous ces titres ont été soulignés par Paulhan, qui note en marge « à lui envoyer », « fait », « adresse notée ».</note> ? Pardonnez cette avidité d’exilé !</p>
+        <p>Quelle a été la décision finale de Church ? Question d’argent à part, j’aime autant la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> que <emph>Mesures</emph>. J’aurai une correction à faire vers la fin du troisième dialogue, il y a un raisonnement faux sur « l’obscurité » des paraboles. Faute d’orthographe.</p>
+        <p><pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_025.tif/full/full/0/default.jpg"/> Rien à <emph>écrire</emph> sur ce pays.</p>
+        <p>Les <emph>Nouvelles Nourritures</emph> ont-elles paru ?</p>
+        <salute>Toutes mes amitiés à vous et à Madame Paulhan.</salute>
+        <signed>[Denis de Rougemont]</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19351220">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_025.tif/full/full/0/default.jpg"/>
+        <head>1935-12-20, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Liebigstrasse 6
+          <lb/>Francfort
+          <lb/>Le 20 décembre 1935</dateline>
+        <salute>Cher ami,</salute>
+        <p>Je joins à ces épreuves un court P.-S. qui me paraît utile pour situer exactement <ref target="https://www.unige.ch/rougemont/articles/nrf/193606">mon point de vue <emph>chrétien</emph> sur Kierkegaard</ref>. L’article de Fondane auquel je fais allusion mérite bien, d’ailleurs, qu’on le signale. Mais si la chronique doit passer en janvier et que ce P.-S. la retarde, laissez-le tomber.</p>
+        <p>Merci pour les livres, bien reçus. Un premier exemplaire du Gide qu’on m’avait réexpédié d’Anduze a été arrêté et confisqué par la douane !</p>
+        <p>Je ne puis rien vous envoyer pour l’Air du mois sur ce qu’il se passe ici, mais je me rattraperai plus tard. Vous aurez d’ici quelques jours la <ref target="https://www.unige.ch/rougemont/articles/nrf/193603">note sur Aron</ref>. Que paraît-il de « notable » ?</p>
+        <p>Et <emph>Mesures</emph> ?</p>
+        <salute>Tous nos vœux de Noël et Nouvel An déjà ! Et bien amicalement à vous.</salute>
+        <signed>D. de Rougemont</signed>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19360610">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_027.tif/full/full/0/default.jpg"/>
+        <head>1936-06-10, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Liebigstr. 6 Francfort Main
+          <lb/>Le 10 juin 1936</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Dujardin insistant, j’ai lu son livre, et voici ce que j’en pense, ci-joint. (Avec les formes qui conviennent, pour un vieillard.)</p>
+        <p>Quel dommage que vous ne donniez que si peu à la fois de vos <emph>Fleurs de Tarbes</emph>. Votre analyse est certainement exacte, mais je ne distingue pas encore, dans ces premières pages, votre opinion sur la Terreur, — si vous en êtes ou pas. J’aurais aimé vous lire avant de terminer <ref target="https://www.unige.ch/rougemont/livres/ddr1936pm"><emph>Penser avec les mains</emph></ref>, où j’ai tout un chapitre sur la « <ref target="https://www.unige.ch/rougemont/livres/ddr1936pm/8#go8">décadence des lieux communs</ref> », — qui en effet, tend à nous réduire au silence. Ne croyez-vous pas que le succès du surréalisme vient de ce qu’il a violé le tabou, et mis en liberté non tant les mots que la « vieillerie poétique » ? Preuve de plus de la nécessité, du besoin qu’on en a plutôt, permanente d’une rhétorique. — Mais le « purisme » actuel naît-il d’une critique des <emph>intentions</emph> de l’écrivain, ou au contraire d’une critique quasi philologique de l’œuvre en soi ? Je simplifie : est-ce un moralisme ou un esthétisme ? — Jusqu’à votre page 867, je pensais que vous décriviez les méfaits d’un certain esthétisme, ou snobisme de « l’original ». Mais ensuite, vous semblez vous en prendre à une critique dogmatique… Pour ma part, je ne suis pas <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_028.tif/full/full/0/default.jpg"/> disposé à négliger la chaise pour le menuisier, mais non plus à juger la chaise jolie ou laide « en soi », comme semblent faire MM. Schwob, Albalat et Gourmont. Je la juge bien ou mal adaptée à son usage, c’est-à-dire à l’intention du menuisier et à l’anatomie des usagers. Est-ce un jugement secrètement terroriste ? — Enfin, une critique « rhétorique », telle que vous la définissez p. 867, je la regrette et l’espère à nouveau, mais ne suppose-t-elle pas d’abord une certaine unanimité spirituelle — une commune mesure vivante en tous — que notre temps ne paraît plus capable de
+          concevoir autre que politique, — et c’est affreux… Pardonnez ce bavardage dans vos marges, et le désordre de ces remarques. — Ceci encore : <emph>L’Art poétique</emph> de Claudel ne serait-il pas un 4<hi rend="sup">e</hi> « art d’écrire » ?<note place="bottom" resp="editor">Rougemont publiera « <ref target="https://www.unige.ch/rougemont/articles/nrf/193612"><emph>L’Art poétique</emph> ou Qu’il faut penser avec les mains</ref> » dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> de décembre 1936.</note> — J’attends la suite avec impatience.</p>
+        <p>Nous serons à Francfort jusqu’au 30 juin, et ensuite à Areuse (Neuchâtel) pour l’été. Je compte bien passer l’hiver prochain à la Celle-Saint-Cloud, où un ami me prête sa maison.</p>
+        <salute>Bien amicalement à vous.</salute>
+        <signed>D. de Rougemont</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19360809">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_029.tif/full/full/0/default.jpg"/>
+        <head>1936-08-09, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Areuse (Neuchâtel)
+          <lb/>Le 9 août 1936</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Vous pensez bien que je me réjouis de vous voir venir au « système du pétrole », — mais convenez en attendant que vos <emph>Fleurs</emph> jettent le lecteur en plein « souci du langage », dans tous les sens de cette expression ambiguë. J’avoue que pour ma part je m’y plonge avec délices et ne souhaite qu’à moitié m’en voir guéri, — si vous avez le remède.</p>
+        <p>J’aurais un gros volume de questions à poser, à vous poser, à propos des trois premières livraisons. Votre dialectique est assez vertigineuse : l’on se sent tout le temps d’accord avec vous, dans le détail, et en fin de compte l’on est plus très sûr d’être d’accord avec soi-même, avec ses <emph>a priori</emph> les plus tenaces.</p>
+        <p>Le style des <emph>Fleurs</emph> m’apparaît complètement « terrorisé », — comme il arrive je crois chaque fois que l’on écrit de choses difficiles, résistantes et neuves. La Terreur s’institue en fait pendant la révolution, après tout. C’est-à-dire dans les littératures de révolte et de recherche constructives. Il y a toute une sociologie historique <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_030.tif/full/full/0/default.jpg"/> de la Terreur, à constituer. Et pour la <emph>Völkerpsychologie</emph>, quel beau prétexte ! Les Allemands ne comprendraient rien à votre essai, je crois, tandis qu’il touche au cœur tout écrivain français</p>
+        <p rend="center">(à suivre)</p>
+        <ab type="ornament">⁂</ab>
+        <p>Il se peut que ma note sur Dujardin vous ait paru peu sérieuse. Je n’ai pas d’opinion très nette là-dessus — sur le « sérieux » du livre et de la note. Il insistait…</p>
+        <p>Je vais essayer de faire une note sur les Lagerlöf, mais je ne sais si j’aurai quelque chose d’intéressant à dire, et ne m’engage pas trop<note place="bottom" resp="editor">Rougemont publiera <ref target="https://www.unige.ch/rougemont/articles/nrf/19371101">une note sur <emph>Gösta Berling</emph></ref> en novembre 1937.</note>.</p>
+        <ab type="ornament">⁂</ab>
+        <p>À Francfort, la situation n’était guère brillante au moment où nous sommes partis. J’ai demandé un congé, qui sera sans doute refusé et se transformera en démission. Une année là-bas suffit, et tant qu’à manquer d’argent — faute d’étudiants — je préfère me rapprocher de Paris, où j’ai du moins l’espoir de trouver quelques traductions, collaborations, etc.</p>
+        <p>Je ne vous cache pas que je serais bien content de voir paraître <ref target="https://www.unige.ch/rougemont/livres/ddr1947df/2#go2">mes dialogues</ref>
+          <pb n="p. 3" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_031.tif/full/full/0/default.jpg"/> — <emph>la Carte Postale</emph> — avant novembre ou décembre : cela me faciliterait beaucoup le retour. Aurez-vous de la place prochainement ? Vous voyez que je suis sans vergogne… Mais aussi ce Church est inqualifiable : aller demander l’avis d’un bridgeur de Lausanne !</p>
+        <ab type="ornament">⁂</ab>
+        <p>Il m’est arrivé une aventure comique : <ref target="https://www.unige.ch/rougemont/livres/ddr1936pm"><emph>Penser avec les mains</emph></ref> et le <ref target="https://www.unige.ch/rougemont/livres/ddr1937jic"><emph>Journal d’un intellectuel en chômage</emph></ref>, destinés à Grasset, m’ont été soufflés au passage par Sabatier, qui ayant passé chez <hi rend="bg_00ff00">Albin Michel</hi> y a fait prendre les 2 manuscrits. Je me laisse faire, trop heureux de n’avoir pas d’autres démarches à faire pour caser ces 2 livres. Mais c’est un peu hardi de paraître entre un Pierre Benoît et un Dorgelès. <ref target="https://www.unige.ch/rougemont/livres/ddr1936pm"><emph>Penser avec les mains</emph></ref> sortira sans doute en novembre, l’autre au printemps. J’aimerais beaucoup vous faire lire les manuscrits, peut-être des <ref target="https://www.unige.ch/rougemont/articles/nrf/19370701">fragments du <emph>Journal</emph></ref> pourraient-ils paraître dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>.</p>
+        <ab type="ornament">⁂</ab>
+        <p>Nous comptons aller à Paris fin septembre. Un ami me prête sa maison à La Celle-Saint-Cloud. Irez-vous à Port-Cros cette année ?</p>
+        <p>Je m’occupe beaucoup de mon fils, qui prospère glorieusement. Il articule quelques mots inconnus, et je vérifie la théorie de Pierre Janet : parler c’est commander.</p>
+        <pb n="p. 4" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_032.tif/full/full/0/default.jpg"/>
+        <ab type="ornament">⁂</ab>
+        <p>À propos de Terreur : avez-vous lu <ref target="https://www.unige.ch/rougemont/articles/espr/193605">un article sur Ramuz, dans <emph>Esprit</emph> de mai</ref>, où je propose à un futur dictateur de nommer Ramuz président d’un tribunal destiné à châtier le langage. Je ne vous avais pas encore lu, les dates le prouvent !</p>
+        <salute>Tous nos messages pour Madame Paulhan et vous, et toutes mes amitiés.</salute>
+        <signed>D. de Rougemont</signed>
+        <postscript>
+          <p>Ce fragment de <emph>Manalive</emph> est-il une allusion <emph>perfide</emph> à <ref target="https://www.unige.ch/rougemont/livres/ddr1936pm"><emph>Penser avec les mains</emph></ref> ? Je n’ai pas lu le livre<note place="bottom" resp="editor">Traduit en juin 1936 sous le titre de <emph>Supervivant, Manalive</emph> est un roman de G. K. Chesterton. On n’a pas retrouvé le fragment mentionné.</note>.</p>
+          <p>L’article de Jean Grenier était très bien.</p>
+        </postscript>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19360822">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_033.tif/full/full/0/default.jpg"/>
+        <head>1936-08-22, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Le 22 août 1936</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Ce que je voulais dire — je crois — c’est que la critique terroriste n’existe, en Allemagne, que dans quelques ouvrages universitaires (et il me semble, dus surtout à des romanistes). On n’en trouve pas dans les revues littéraires. Qu’il arrive à un critique de reprocher à tel auteur ce que nous appelons cliché, — il ne trouvera pas d’autre mot que « cliché » précisément, en italique et entre <del>parenthèses</del> guillemets. En somme, je me bornais à une observation banale : que les Allemands ne posent pas la question, qu’ils sont bien plus naïfs que nous vis-à-vis du langage, — rencontrant beaucoup de difficultés de vocabulaire, et cherchant beaucoup moins à faire les malins avec des tours de phrase. Ils ont derrière eux la mystique et le romantisme, et nous, la cour et la Révolution.</p>
+        <p>Ils craignent les « machines de langage », certes, mais parce qu’elles viennent de France. Et aussi, ils les aiment, pour cette raison. Ils ne les craignent guère dans leur langue, elles y sont moins rigides, elles ne tirent pas l’œil, et n’interrompent point le courant de compréhension. En tout cas, c’est à quoi j’attribue mes échecs répétés, lorsque j’essayais d’attirer et de fixer l’attention de mes étudiants sur les « tours », clichés ou originaux, chez Mallarmé, ou Verlaine ; chez Valéry surtout. Les <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_034.tif/full/full/0/default.jpg"/> notes de Valéry sur la <emph>Littérature</emph> les exaspèrent, tout simplement. Refusant de voir aucune poésie dans les « accidents heureux du langage », ils se soucient peu des accidents malheureux. Mais pensent : voilà encore un de ces Français qui pensent aux mots plutôt qu’au sens, etc.</p>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19361014">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_035.tif/full/full/0/default.jpg"/>
+        <head>1936-10-14, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>La Celle-Saint-Cloud
+          <lb/>Le 14 octobre 1936</dateline>
+        <salute>Cher ami,</salute>
+        <p>Merci de votre lettre. Vos critiques viennent assez tôt pour que j’en tienne compte. Je suis de votre avis sur presque toutes<note place="bottom" resp="editor">Note de Denis de Rougemont dans la marge : « une seule qui me gêne vivement : mon “moralisme”. Les autres, je les accepte avec résignation. »</note>. Sauf sur « la pensée en groupe », mais je vous en reparlerai. Certes, je bouscule un tas de problèmes : soit que je les croie insolubles à tout jamais hors d’un certain ensemble spirituel que je voudrais faire pressentir, soit que je les refuse, par hygiène intellectuelle. <ref target="https://www.unige.ch/rougemont/livres/ddr1936pm">Mon livre</ref> ne vaut certes pas le détail de sa déduction. À cet égard, la conscience fanatique dont vous faites preuves dans vos <emph>Fleurs</emph> me remplit de confusion, si je compare. Je vous dirai l’admiration que j’ai pour votre ouvrage, et les questions qu’il me pose. Je viens de lire ceci dans un <emph>Essai des merveilles de nature et des plus nobles artifices</emph> du père François (<num>xvi<hi rend="sup">e</hi></num>) : « Je ne veux pas tout dire, car d’un jardin de fleurs je ferais un labyrinthe de discours, et je n’en sortirais jamais. »</p>
+        <p>Je regrette beaucoup qu’un chapitre de <ref target="https://www.unige.ch/rougemont/livres/ddr1936pm">mon livre</ref> ne puisse paraître dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>. J’aurais facilement écrit l’article dont vous me parlez. <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_036.tif/full/full/0/default.jpg"/> Peut-être aussi aurais-je plus de chance avec le <ref target="https://www.unige.ch/rougemont/livres/ddr1937jic"><emph>Journal d’un intellectuel en chômage</emph>,</ref> vers ce printemps ?</p>
+        <p><ref target="https://www.unige.ch/rougemont/articles/nrf/193701">L’air du mois sur Law</ref> n’est-il pas trop hors de saison ? Sinon, je ne demande pas mieux.</p>
+        <p>Il faut que je gagne ma vie, ça n’en finit pas.</p>
+        <salute>À bientôt je pense ? Et toutes mes amitiés.</salute>
+        <signed>D. de Rougemont</signed>
+        <p rend="center"/>
+        <p>P.-S. Quelqu’un parlera-t-il du <hi rend="bg_00ff00">roman de Max Brod que j’ai préfacé à « Je sers »</hi> ? C’est une sorte de biographie — très exacte bien que mêlée à une histoire bizarroïde — de Kafka.</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19361220">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_037.tif/full/full/0/default.jpg"/>
+        <head>1936-12-20, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Le 20 décembre 1936</dateline>
+        <salute>Cher ami,</salute>
+        <p>Je me suis un peu noyé dans mon essai contre le roman<note place="bottom" resp="editor">On n’a pu identifier ce texte. </note>, mais j’en viens à bout tout de même. Si je vous l’apporte mardi, sera-ce encore assez tôt pour <emph>Mesures</emph> ? Le tout a quarante pages, mais il est très facile d’en détacher un ou deux courts chapitres « sur une rhétorique profonde ». J’ai retrouvé à propos du roman à peu près toute la dialectique des <emph>Fleurs de Tarbes</emph> (rhétorique-terreur). Sans le vouloir, bien sûr !</p>
+        <p>Ce mot pour retenir ma place dans <emph>Mesures</emph>, s’il se peut. J’en aurai bien besoin en janvier.</p>
+        <salute>Amicalement à vous.</salute>
+        <signed>D. de Rougemont</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19370426">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_038.tif/full/full/0/default.jpg"/>
+        <head>1937-04-26, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Lundi, le 26 avril [1937]</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Nous viendrons avec grand plaisir au déjeuner <emph>Mesures</emph>. Nous prendrons le train à Saint-Cloud, c’est facile.</p>
+        <p>Le numéro du 15 avril est très bien, très « jeune », et parfaitement dans la ligne que j’attendais de <emph>Mesures</emph>. Le Cingria contient deux pages admirables. Quel art de l’adjectif.</p>
+        <p>Tout à fait de votre avis sur les numéros 2 et 3 des <hi rend="bg_00ff00"><emph>Nouveaux Cahiers</emph></hi>. Je crois qu’on peut faire beaucoup mieux, et j’y travaille avec Petitjean et Souvarine. Il y a des possibilités.</p>
+        <p>La chronique de Schlumberger était très bien<note place="bottom" resp="editor">Jean Schlumberger a recensé <ref target="https://www.unige.ch/rougemont/livres/ddr1936pm"><emph>Penser avec les mains</emph></ref> dans le numéro d’avril 1937 de la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>.</note>. Mais il est étrange qu’on se trouve d’accord avec tout — sauf l’essentiel.</p>
+        <salute>À samedi, et bien amicalement.</salute>
+        <signed>D. de Rougemont</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19370506">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_039.tif/full/full/0/default.jpg"/>
+        <head>1937-05-06, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Jeudi 6 mai [1937]</dateline>
+        <salute>Cher ami,</salute>
+        <p>Avez-vous encore entre les mains le manuscrit de mon <ref target="https://www.unige.ch/rougemont/livres/ddr1937jic"><emph>Journal</emph></ref> ? Je n’en ai plus de copie complète. L’une est chez l’imprimeur, l’autre à la <emph>Revue de Paris</emph>, qui n’a pas encore fait son choix<note place="bottom" resp="editor">Un extrait du <ref target="https://www.unige.ch/rougemont/livres/ddr1937jic"><emph>Journal d’un intellectuel en chômage</emph></ref> paraîtra effectivement dans la <emph>Revue de Paris</emph> en juin 1937, sous le titre « <hi rend="bg_00ff00">Paysans de l’Ouest</hi> ».</note>. Vous pourriez me l’envoyer aux <hi rend="u">Portes-en-Ré</hi> (Charente inf.) où je serai dès demain pour trois semaines. J’en tirerais une quinzaine de pages pour la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> et vous les renverrais pour mardi au plus tard. Si c’est trop tard, deux solutions :</p>
+        <p>ou bien cela passerait le 1<hi rend="sup">er</hi> juillet, ce qui est encore possible puisque le livre est censé paraître vers le 25 juin, et sera à peine en librairie ;</p>
+        <p>ou bien vous pourriez faire vous-même un choix dans la seconde partie, à partir de la page 90 environ. Il y a encore de quoi faire un ensemble qui se tienne, <emph>Mesures</emph> n’ayant publié que le tiers de cette partie. — Mais alors il faudrait ajouter une sorte d’introduction. Titre possible : « <ref target="https://www.unige.ch/rougemont/articles/nrf/19370701">N’habitez pas les villes</ref> » ou « Vivre de peu ». Ou pour les dix dernières pages : « Dépaysement parisien » (mais alors j’ajouterais deux à trois pages).</p>
+        <p>C’était bien sympathique, ce déjeuner de <emph>Mesures</emph>. J’envoie aux Church les adresses de propagande, en guise de petit remerciement.</p>
+        <p>Tarde me dit que vous lui proposez une communication sur le Pouvoir des mots<note place="bottom" resp="editor">Il s’agit d’une rubrique des <hi rend="bg_00ff00"><emph>Nouveaux Cahiers</emph></hi>, dont Rougemont était alors le rédacteur en chef. Paulhan devait y donner quelques textes, qui paraîtront dans les numéros d’avril et mai 1938, et seront repris dans <emph>Les Fleurs de Tarbes</emph>.</note>. Je suis sûr que cela donnerait lieu à un débat passionnant. Il faudrait aussi que Caillois vienne parler sur la « liberté de la pensée ». Une soirée d’autocritique serrée.</p>
+        <salute>Bien amicalement à vous.</salute>
+        <signed>D. de Rougemont</signed>
+        <p rend="center"/>
+        <p>Puis-je vous demander pour lire à Ré le <emph>Lawrence</emph> de Frieda, le Breton et les <emph>Riens philosophiques</emph> de Kierkegaard ? C’est aussi pour en parler quelque part. Mille mercis.<note place="bottom" resp="editor">Note en marge de Paulhan : « Fait ».</note></p>
+        <p rend="left"/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19370617">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_041.tif/full/full/0/default.jpg"/>
+        <head>1937-06-17, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Le 17 juin 1937</dateline>
+        <salute>Cher ami,</salute>
+        <p>Un mot seulement pour vous demander de ne pas négliger les corrections que j’ai faites de mon côté au <ref target="https://www.unige.ch/rougemont/articles/nrf/19370701"><emph>Journal</emph></ref>. Il y avait des erreurs ennuyeuses, qui n’ont pas l’air de fautes de typo. (<emph>Conversations</emph> pour <emph>conversions</emph>, etc.)</p>
+        <p>Merci encore.</p>
+        <p>Schmidt ne pourrait-il parler du <emph>Serf Arbitre</emph> de Luther<note place="bottom" resp="editor">L’ouvrage a été publié en 1937 aux Éditions « Je sers », traduit et préfacé par Rougemont. Albert-Marie Schmidt en rendra compte dans le numéro de janvier 1938 de la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>.</note> ? Je crois que cela vaut d’être mentionné, et il le ferait très bien.</p>
+        <salute>Très amicalement.</salute>
+        <signed>D. de Rougemont</signed>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19371120">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_042.tif/full/full/0/default.jpg"/>
+        <head>1937-11-20, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Le 20 novembre 1937</dateline>
+        <salute>Cher ami,</salute>
+        <p>J’espère que cette épreuve<note place="bottom" resp="editor">On n’a pu identifier le texte en question.</note>, que je vous renvoie par retour du courrier, arrivera à temps. Je tiens beaucoup aux corrections.</p>
+        <p>Je vois qu’il y a une ligne tombée dans <ref target="https://www.unige.ch/rougemont/articles/nrf/193711012">mon air du mois sur Benda</ref>. Cela rend incompréhensible le premier sophisme de la <emph>Logique de Port-Royal</emph>. Voici le texte exact, au cas où vous jugeriez qu’un erratum est utile :</p>
+        <p>« <emph>Si on agit bien, [on offensera les hommes. Si on y agit mal,] on offensera les dieux ; donc on ne s’en doit point mêler</emph>. »<note place="bottom" resp="editor">Note de Rougemont en marge : « la partie entre crochets est tombée ».</note> (Je cite de mémoire, mais c’est exact. Tout au plus y aurait-il « mécontentera les hommes » ou bien « offensera ».)</p>
+        <salute>Bien amicalement à vous.</salute>
+        <signed>D. de Rougemont</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-193712">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_043.tif/full/full/0/default.jpg"/>
+        <head>1937-12, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>La Celle-Saint-Cloud
+          <lb/>Samedi [décembre 1937]</dateline>
+        <salute>Cher ami,</salute>
+        <p>Est-il encore temps de modifier la fin de la <ref target="https://www.unige.ch/rougemont/articles/nrf/19380101">note</ref> — un peu hâtive je le crains — que je vous ai donnée hier ? Ci-dessous la nouvelle version.</p>
+        <p>C’est le <emph>Château</emph> que « Je sers » voudrait donner. Mais Grasset le veut aussi. Et je crains que Lauga ne perde beaucoup d’argent dans l’aventure.</p>
+        <p>Voulez-vous que je fasse <ref target="https://www.unige.ch/rougemont/articles/nrf/19380201">une note sur le <emph>Waterloo</emph> d’Aron</ref>, qui me paraît très bien ?</p>
+        <salute>Bien amicalement.</salute>
+        <signed>D. de Rougemont</signed>
+        <p rend="center"/>
+        <p>Fin de ma note :</p>
+        <p>« C’est le cauchemar du <num>xx<hi rend="sup">e</hi></num> siècle. Le triomphe de l’État sur l’homme.</p>
+        <p>D’ailleurs, on peut aussi ne rien voir de tout cela dans le livre de Kuncz : il nous apporte un <emph>document</emph> bien assez émouvant comme tel. Et une preuve supplémentaire de ce que l’homme d’aujourd’hui ne se connaît jamais mieux qu’à la faveur des circonstances qui le rabattent à l’élémentaire. »<note place="bottom" resp="editor">Note de Paulhan en marge : « <hi rend="u">à ajouter</hi> ».</note></p>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19380121">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_044.tif/full/full/0/default.jpg"/>
+        <head>1938-01-21, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Le 21 janvier 1938</dateline>
+        <salute>Cher ami,</salute>
+        <p>Ci-joint des épreuves.</p>
+        <p>Vos notes sur le Pouvoir des mots sont-elles imprimables sans retard ? Ce serait très bien si nous pouvions y compter pour le numéro en cours (1<hi rend="sup">er</hi> février) mais il faudrait que nous les ayons mardi au plus tard.</p>
+        <p>Pardonnez-moi d’avoir eu l’air de vous presser, au sujet de mon manuscrit. Ce n’est pas si urgent. C’est l’anxiété qui m’a fait vous en parler.</p>
+        <salute>Bien amicalement.</salute>
+        <signed>D. de Rougemont</signed>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-193801">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_020.jp2/full/full/0/default.jpg"/>
+        <head>1938-01, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Lundi [fin janvier 1938]</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Je vous donnerai sûrement le Pouvoir des mots. Mais quand ? Je n’en sais rien encore. (Il me faut reprendre deux ou trois points.)</p>
+        <p>La <hi rend="bg_00ff00"><emph>Folle vertu</emph></hi> me préoccupe, et m’attache. Peut-être aurais-je voulu qu’il y eût une « suite » plus précise à certaines réflexions de la première partie. (Mais il est certain que le <emph>roman</emph> n’existe qu’au prix d’une distraction.)</p>
+        <p>La 3<hi rend="sup">e</hi> partie n’est-elle pas un peu gratuite, un peu immotivée ? (Je m’assure que tel est aussi votre sentiment, si vous l’étayez de deux épigraphes <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_021.jp2/full/full/0/default.jpg"/> — dont je n’aime pas beaucoup le ton sensationnel. Et après tout, <emph>à ce moment-là</emph>, vous nous en avez plus dit que ne font C. ou B. C.) Ou simplement : un peu « légère » ?</p>
+        <salute>Mais c’est une très belle œuvre, à laquelle je n’ai pas fini de songer.</salute>
+        <salute>Votre ami.</salute>
+        <signed>Jean P.</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-1938">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_022.jp2/full/full/0/default.jpg"/>
+        <head>1938, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Lundi [1938]</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Je voudrais mieux comprendre la réflexion de Jean Wahl. Ai-je jamais vu dans <emph>pouvoir-des-mots</emph> un mot, qui aurait du pouvoir ? Non pas, mais une illusion : une pensée. Alors ?</p>
+        <p>Il serait fou de récrire votre roman à la première personne. Aussi, ce serait lâche. (J’aimerais bien cette carrure, ou cette audace. En tout cas, à elle tient le <emph>piquant</emph>, et aussi la force du récit.)</p>
+        <salute>Votre ami.</salute>
+        <signed>J. P.</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19380729">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_045.tif/full/full/0/default.jpg"/>
+        <head>1938-07-29, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Chez M. Paulding
+          <lb/>Ferney-Voltaire (Ain)
+          <lb/>Le 29 juillet 1938</dateline>
+        <salute>Cher ami,</salute>
+        <p>Je suis en train de rassembler et de compléter quelques dialogues et autres morceaux dont je voudrais faire <ref target="https://www.unige.ch/rougemont/livres/ddr1947df">un petit volume</ref> (pour <hi rend="bg_00ff00">Gallimard</hi>). Les trois dialogues que je vous avais donnés pour <emph>Mesures</emph>, qui les a refusés, doivent y figurer. Mais je m’aperçois que je n’ai pas de copie du <ref target="https://www.unige.ch/rougemont/livres/ddr1947df/3#go3">second</ref>. Les avez-vous conservés ? Je l’espère vivement. Je serais incapable de rien refaire. Un mot de vous me rassurerait. Je n’ai pas besoin du manuscrit avant l’automne, mais seulement de savoir s’il existe. Merci d’avance. Et pardon de vous ennuyer avec cela pendant vos vacances !</p>
+        <p>Peut-être certains fragments de <ref target="https://www.unige.ch/rougemont/livres/ddr1947df">ce recueil</ref> pourraient-ils passer dans <emph>Mesures</emph> ou la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> — avec un peu de chance<note place="bottom" resp="editor">Une flèche pointe le nom de <emph>Mesures</emph> à la fin de cette phrase.</note>.</p>
+        <p>Je vous les donnerai à la rentrée, si vous le voulez bien, — et si vous me pardonnez <hi rend="bg_00ff00">mon roman</hi> retiré malgré votre avis. (C’était pour des raisons d’ordre privé et aussi d’ordre commercial, et je n’en persiste pas moins à croire que votre opinion était juste.)</p>
+        <salute>Bien amicalement à vous.</salute>
+        <signed>D. de Rougemont</signed>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-193808">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_036.jp2/full/full/0/default.jpg"/>
+        <head>1938-08, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Hautes-Pyrénées
+          <lb/>[Août 1938]</dateline>
+        <salute>Cher ami, </salute>
+        <p>J’ai toujours les trois dialogues et vous les rendrai (ou vous les enverrai) sitôt revenu à Paris. Je suis impatient de voir <ref target="https://www.unige.ch/rougemont/livres/ddr1947df">le livre</ref>. Prêtez-le moi bientôt. À vous, très amicalement.</p>
+        <signed>J. P.</signed>
+        <postscript>
+          <p>Ne me donneriez-vous pas une note sur les<emph> Secrets de la République</emph> de Fabre-Luce ? Ou encore : <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_035.jp2/full/full/0/default.jpg"/>
+            <emph>Tom Jones</emph> ou les <emph>Camarades</emph> de Remarque<note place="bottom" resp="editor">Aucun de ces titres, tous parus en 1938, n’a été chroniqué par Rougemont.</note> ? J’y tiendrais. <emph>Alice</emph> a paru<note place="bottom"> [NdE] <emph>Alice au pays des merveilles</emph> a été <ref target="https://www.unige.ch/rougemont/articles/nrf/19380801">chroniquée par Rougemont dans la <emph>NRF</emph> d’août 1938</ref>.</note> ; et a été lue le 3 août à la TSF (Radio 37) : très bien accueillie.</p>
+        </postscript>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-193901">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_024.jp2/full/full/0/default.jpg"/>
+        <head>1939-01, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Samedi [début janvier 1939]</dateline>
+        <salute>Cher ami,</salute>
+        <p>Je donnerais très volontiers <ref target="https://www.unige.ch/rougemont/articles/nrf/19390701"><emph>Don Juan</emph> dans la <emph>NRF</emph></ref>. Dites-moi quel est le dernier délai.</p>
+        <ab type="ornament">⁂</ab>
+        <p><emph>Mesures</emph> refuse, et je renonce à comprendre pourquoi.</p>
+        <salute>Votre ami.</salute>
+        <signed>J. P.</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19390113">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_046.tif/full/full/0/default.jpg"/>
+        <head>1939-01-13, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>La Celle-Saint-Cloud
+          <lb/>Le 13 janvier [1939]</dateline>
+        <salute>Cher ami,</salute>
+        <p>J’aurais aimé parler de Ramuz, mais je n’ai rien reçu, ni l’<emph>Hommage</emph> ni cette <emph>Province</emph>. Les avez-vous ?<note place="bottom" resp="editor">En haut de la lettre, Paulhan note « à faire <emph>envoyer</emph> » ; une tierce main note en marge des deux titres « fait ».</note> Je ferai quelque chose pour le prochain numéro<note place="bottom" resp="editor"><ref target="https://www.unige.ch/rougemont/articles/nrf/19400501">Rougemont chroniquera un <emph>Hommage à C. F. Ramuz</emph></ref> dans le numéro de mai 1940 de la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>.</note>. Incapable de rien trouver pour l’Air du Mois… Je viens de terminer un grand <hi rend="bg_00ff00">drame pour l’Exposition suisse de Zurich</hi> (septembre 1939) en collaboration avec Honegger, et je dois faire quatre conférences en Suisse dès la semaine prochaine. Fatiguant. Excusez-moi pour cette fois-ci.</p>
+        <p>Si mon « <ref target="https://www.unige.ch/rougemont/articles/nrf/19390701">Don Juan</ref> » pouvait passer en mars, ce serait bien : il se rattache à <ref target="https://www.unige.ch/rougemont/livres/ddr1939ao">l’<emph>Amour</emph></ref> qui paraît dans quelques jours.</p>
+        <salute>En toute amitié.</salute>
+        <signed>D. de Rougemont</signed>
+        <p rend="center"/>
+        <p>Vous devriez bien continuer vos airs du mois sur la politique. Personne d’autre que vous n’a su faire ces distinctions <emph>dans ce domaine</emph>.</p>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-193903">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_023.jp2/full/full/0/default.jpg"/>
+        <head>1939-03, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Samedi [fin février-mars 1939]</dateline>
+        <salute>Cher ami,</salute>
+        <p>Votre <hi rend="bg_00ff00">article du <emph>Figaro</emph><note place="bottom" resp="editor">L’article en question, « <hi rend="bg_00ff00">L’Ère des religions</hi> », est effectivement abondamment cité dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> d’avril 1939.</note></hi> est vraiment admirable. Nous le citerons (et je voudrais bien l’avoir écrit). Amicalement.</p>
+        <p rend="right">J. P.</p>
+        <p rend="center"/>
+        <p>Les <hi rend="bg_00ff00"><emph>N. C.</emph></hi> ne sont pas seulement assommants (depuis quelques temps). Ils ont je ne sais quoi d’empêché, de contraint. Pourquoi ?</p>
+        <p>Je voudrais bien avoir votre avis sur la note ci-jointe.<note place="bottom" resp="editor">Cette note n’a pas été conservée.</note></p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19390716">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_047.tif/full/full/0/default.jpg"/>
+        <head>1939-07-16, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Paris
+          <lb/>Le 16 juillet 1939</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Je n’avais plus de papier sous la main pour joindre un mot à l’envoi de <ref target="https://www.unige.ch/rougemont/articles/nrf/19400101">mon article sur Gide</ref>. Je voulais vous demander de m’en envoyer une épreuve au plus tôt, pensant bien que je désirerais très vite le modifier. Et en effet, je vois maintenant qu’il faut absolument que j’atténue certaines critiques, ou que je les situe mieux, surtout dans les trois ou quatre dernières pages. Et si possible avant que Gide en ait connaissance. Je ne sais si vous aurez reçu mon envoi assez tôt pour que l’article passe le 1<hi rend="sup">er</hi> août. Je crains que non. De toute façon, je me hâterai de vous retourner l’épreuve. Je serai dès après-demain soir à :</p>
+        <p rend="center"/>
+        <p rend="center"><hi rend="u">Areuse</hi> (Neuchâtel) Suisse</p>
+        <p rend="center">jusqu’à fin septembre.</p>
+        <p rend="center"/>
+        <p>Jouhandeau m’a écrit, mystérieusement, que <ref target="https://www.unige.ch/rougemont/articles/nrf/19390701">mon Don Juan</ref> « fait des miracles ». Est-ce une canonisation ?</p>
+        <p>J’ai entrepris une suite de petits traités sur les sujets touchés par <ref target="https://www.unige.ch/rougemont/livres/ddr1939ao"><emph>L’Amour et l’Occident</emph></ref>. Ce sera le tome II, si Hitler nous prête vie.</p>
+        <salute>Toutes nos meilleures amitiés et souhaits de belles vacances.</salute>
+        <signed>Denis de Rougemont</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19390804">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_048.tif/full/full/0/default.jpg"/>
+        <head>1939-08-04, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Areuse (Neuchâtel)
+          <lb/>Le 4 août 1939</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Vous aurez reçu mes corrections un ou deux jours trop tard. Tant pis. Gide, à qui j’avais parlé de <ref target="https://www.unige.ch/rougemont/articles/nrf/19400101">ma chronique</ref>, insistait vivement pour que j’en revoie l’épreuve. J’avais eu le malheur de lui dire que je comptais corriger certaines choses et il craignait que mes corrections n’arrivent trop tard. D’où qu’il m’ait envoyé ses bonnes feuilles à tout hasard, pour gagner du temps. Il était très content des quatre premières pages, et trouvait les dernières riches en sujets de discussion… Il comptait y répondre un jour par une lettre ouverte, — qui m’intéresserait fort.</p>
+        <p>Puis-je espérer que la note de Cingria sur <ref target="https://www.unige.ch/rougemont/livres/ddr1939ao">mon livre</ref> passera en septembre ?<note place="bottom" resp="editor">Charles-Albert Cingria a effectivement rendu compte de <ref target="https://www.unige.ch/rougemont/livres/ddr1939ao"><emph>L’Amour et l’Occident</emph></ref> dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> de septembre 1939.</note></p>
+        <p>Ci-joint l’épreuve de la <ref target="https://www.unige.ch/rougemont/articles/nrf/19390901">note sur Schmidt</ref>.</p>
+        <salute>Et toutes mes bonnes amitiés.</salute>
+        <signed>D. de Rougemont</signed>
+        <p rend="center"/>
+        <p>Serait-il possible que je revoie une épreuve de <ref target="https://www.unige.ch/rougemont/articles/nrf/19400101">ma chronique modifiée</ref> ? J’ai fait certaines coupures pour éviter de dépasser les six ou sept pages, et je crains que le sens en souffre.<note place="bottom" resp="editor">Note en marge (de Paulhan ?) : « <hi rend="u">attention</hi> ».</note></p>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19390807">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_029.jp2/full/full/0/default.jpg"/>
+        <head>1939-08-07, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Mercredi [7 août 1939]</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Oui, nous ferons décidément un « hommage à Gide ». Dites-moi, je vous en prie :</p>
+        <p>1. Si je dois y mettre telle quelle votre chronique (ou si vous désirez la modifier).</p>
+        <p>2. À qui vous me conseillez de m’adresser. J’ai déjà un excellent Jean Hytier sur « G. romancier ». Je songe à Jean Wahl, Kl. Haedens, J. Giraudoux.</p>
+        <p>(Il me semble qu’il faudrait surtout des « jeunes » qui ne se fussent pas encore prononcés.)</p>
+        <p>3. Quel titre donner à l’hommage ? <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_030.jp2/full/full/0/default.jpg"/> (Pour Claudel, c’était « grandeur de P. C. »)</p>
+        <salute>Amitié.</salute>
+        <signed>Jean P.</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19390811">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_049.tif/full/full/0/default.jpg"/>
+        <head>1939-08-11, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Areuse (Neuchâtel)
+          <lb/>Le 11 août 1939</dateline>
+        <salute>Cher ami,</salute>
+        <p>Je suis bien embarrassé par votre lettre. Je n’ai pas d’air du mois, à moins qu’il ne m’en soit soufflé un d’ici quelques jours. Je ne me sens pas du tout capable d’écrire sur Du Bos, n’ayant pas un seul de ses livres ici, — et puis, je suis trop hésitant, trop plein de réserves de toute espèce… Je suis certain que Schlumberger écrirait cela très bien. Ou Massignon. Bref, il faut un catholique, ou un ami plus intime que moi.</p>
+        <p>Enfin, je ne crois pas que <ref target="https://www.unige.ch/rougemont/articles/nrf/19400101">ma chronique</ref> puisse figurer dans un <emph>Hommage</emph> à Gide. Ou alors il faudrait la modifier considérablement. Je préférerais de beaucoup qu’elle passe en septembre, quitte à la compléter en novembre par deux pages d’un ton très différent.</p>
+        <p>Désolé de n’avoir pu vous répondre plus vite : mais votre lettre du 7 ne m’est parvenue qu’hier soir 10, je ne sais pourquoi. Je crains de vous mettre à votre tour dans l’embarras…</p>
+        <salute>Bien amicalement à vous.</salute>
+        <signed>D. de Rougemont</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19390815">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_050.tif/full/full/0/default.jpg"/>
+        <head>1939-08-15, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Areuse
+          <lb/>Le 15 août 1939</dateline>
+        <salute>Cher ami,</salute>
+        <p>Ce qui m’ennuie, c’est que <ref target="https://www.unige.ch/rougemont/articles/nrf/19400101">ma chronique</ref> est du genre vêtement de travail, et qu’il faudrait en faire un habit de fête. Je préférerais écrire quelque chose d’autre pour l’hommage — sur le côté protestant de Gide, par exemple<note place="bottom" resp="editor">En novembre 1951 Rougemont publiera « <ref target="https://www.unige.ch/rougemont/articles/nrf/19511101">Un complot de protestants</ref> », dans un numéro spécial de la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> consacré à Gide.</note> — et que la chronique passe seule en septembre. Mais est-ce possible ?</p>
+        <p>Pour l’hommage, il ne me vient à l’esprit que deux noms : Mounier et Simenon. J’ai vu du dernier une lettre assez curieuse adressée à Gide, — et Gide l’admire beaucoup. Th. Maulnier ne serait-il pas mieux que son ombre Haedens ?</p>
+        <p>Le titre <emph>Grandeur</emph> de Claudel rend bien difficile le choix d’un équivalent pour Gide. Dimensions ? Ce serait farce. Visages ? Positions ? Points de vue sur ? Je ne trouve rien de bien neuf ! Gide n’est pas « grand » comme Claudel, mais peut-être plus « important ». <emph>Importance de A. G.</emph> ne serait pas si mal ?</p>
+        <salute>Toutes nos amitiés.</salute>
+        <signed>D. de Rougemont</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19390818">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_041.jp2/full/full/0/default.jpg"/>
+        <head>1939-08-18, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 18 août [1939]</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Mais justement. Je voudrais un « hommage » de jeunes, décidément, et sans apprêt, avec quelque chose d’« au petit bonheur » : Jean Wahl, Jouhandeau, Sartre, Grenier… Enfin, <ref target="https://www.unige.ch/rougemont/articles/nrf/19400101">votre étude sur le <emph>Journal</emph></ref> y sera tout à fait à sa place*.</p>
+        <p>« Jeunesse de G. », peut-être ?</p>
+        <salute>Amitiés.</salute>
+        <signed>J. P.</signed>
+        <p rend="center"/>
+        <p>* mais je puis vous la renvoyer, si vous désirez la remanier.</p>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19390824">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_051.tif/full/full/0/default.jpg"/>
+        <head>1939-08-24, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Areuse
+          <lb/>Le 24 août [1939]</dateline>
+        <salute>Cher ami</salute>
+        <p>J’ai ajouté à <ref target="https://www.unige.ch/rougemont/articles/nrf/19400101">ma chronique</ref> quatre pages importantes sur la contradiction entre l’esthétique et l’éthique de Gide — l’une puritaine, l’autre « libérée » — contradiction où réside sa <emph>tension</emph> personnelle, sa « personne » au sens où je l’entends. Voulez-vous me renvoyez une <emph>épreuve</emph><note place="bottom" resp="editor">Note de Paulhan en marge : « à lui envoyer ».</note>, et j’ajouterai ces pages.</p>
+        <p>On s’agite en Europe. Je lis Athanase. Ce Père disait, au plus fort des persécutions, sous Julien l’Apostat, quand tout espoir semblait perdu pour les chrétiens : <emph>Nubila est, transibit</emph><note place="bottom" resp="editor">« C’est un petit nuage, il passera. » Voir aussi le <ref target="https://www.unige.ch/rougemont/livres/ddr1968jde/24#body-7-5-15"><emph>Journal d’une époque</emph>, p. 419-420</ref>.</note>.</p>
+        <p>Voilà <hi rend="bg_00ff00">mon air du mois</hi>.</p>
+        <salute>En toute amitié.</salute>
+        <signed>D. de Rougemont</signed>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19390928">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_027.jp2/full/full/0/default.jpg"/>
+        <head>1939-09-28, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Jeudi 28 [septembre 1939]<note place="bottom" resp="editor">L’indication de l’année est de la main de Rougemont. Nous précisons le mois sur la base du contenu de la lettre, faisant référence au « drame » <hi rend="bg_00ff00"><emph>Nicolas de Flue</emph></hi> et à la mobilisation de Rougemont en Suisse.</note></dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Je voudrais avoir de vos nouvelles. Donnez-m’en quelque jour.</p>
+        <p>Vous devriez bien m’envoyer aussi des notes ou des airs du mois. Sur ce qu’il vous plaira.</p>
+        <salute>Votre ami.</salute>
+        <signed>J. P.</signed>
+        <p rend="center"/>
+        <p>Mais êtes-vous très pris ? est-ce une vie très accablante, inattendue ?</p>
+        <p>Je vous parlerai quelque jour de <hi rend="bg_00ff00">votre drame</hi> (et pardonnez-moi de <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_028.jp2/full/full/0/default.jpg"/> l’avoir pas encore fait. Il m’embarrasse. Il me paraît extrêmement <emph>juste</emph> (mais d’une justesse, d’une justice qui me semble plutôt exactement réfléchie qu’elle n’est émouvante, emportante).</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19391220">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_052.tif/full/full/0/default.jpg"/>
+        <head>1939-12-20, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>61 Kramgasse, <hi rend="u">Berne</hi>
+          <lb/>Le 30 décembre 1939</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Je suis dans un état-major, depuis le début du mois, et dispose de mes soirées. Auparavant, il m’était pratiquement impossible d’écrire. Du 15 au 25 novembre, j’ai fait une tournée de conférences en Hollande. Vu Huizinga, qui m’a donné la traduction allemande de son dernier livre : <emph>Homo Ludens</emph>, ou le jeu comme élément de culture<note place="bottom" resp="editor">Note de Rougemont en marge : « Pantheon Akademische Verlasanstalt <hi rend="u">Amsterdam</hi>. »</note>. Cela me paraît très digne d’être traduit en France. <hi rend="bg_00ff00">Gallimard</hi> s’y intéresserait sans doute, pour la Bibliothèque des Idées. Il faudrait trouver un traducteur du hollandais.</p>
+        <p>Vous me demandiez des notes. Je vous en enverrai en janvier sur <emph>Incertitudes</emph> du même Huizinga, <emph>Homo Ludens</emph> ; et une chronique peut-être sur les <emph>Considérations</emph> de Burckhardt, parues chez Alcan l’an dernier<note place="bottom" resp="editor">Aucune de ces notes n’a paru dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>.</note>.</p>
+        <p>J’ai un livre terminé pour <hi rend="bg_00ff00">Gallimard</hi>, les <ref target="https://www.unige.ch/rougemont/livres/ddr1944persdram"><emph>Personnes du drame</emph></ref>, dont vous lûtes il y a quelques années une première version<note place="bottom" resp="editor">Note de Paulhan en marge : « G. G. ». Les Éditions Gallimard publieront le livre en 1947, après <ref target="https://www.unige.ch/rougemont/livres/ddr1944persdram">Pantheon Books en 1944</ref> et La Baconnière en 1945.</note>. Je l’ai refait et corsé de quatre chapitres nouveaux, dont un <emph>Kafka</emph>, un <emph>Gide</emph> et un <emph>Luther</emph>. C’est sans doute mon livre le plus « personnel », encore qu’il ne parle que d’autrui, ou à cause de cela. Si vous y trouvez quelque chose pour la revue, tant mieux<note place="bottom" resp="editor">La <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> ne publiera pas ces textes.</note>.</p>
+        <p><pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_053.tif/full/full/0/default.jpg"/> J’admire beaucoup dans le dernier numéro le sérieux et le sentiment d’Aragon, qui réussit à survivre à la débâcle communiste en faisant du Coppée sans virgules. Pas plus malin que ça ! Mais nous y sommes en plein, dans le temps des mots croisés ! Molotov nous a même expliqué que les définitions étaient interchangeables (par exemple pour le mot « agression »). C’est un perfectionnement sublime. Et qu’en dit Malraux ? S’est-il engagé quelque part ? Colonel en Finlande ?</p>
+        <p>J’ai peu de nouvelles de France.</p>
+        <p>Ici, nous préparons une résistance « finlandaise », pour le printemps ou avant. Persuadés d’ailleurs que ceux qui gagneront la guerre seront ceux qui la feront comme ne la faisant pas, — si j’ose parodier S. Paul. Mais nous serons forcés de la faire.</p>
+        <p>Pourquoi le numéro d’hommage à Gide n’a-t-il point paru ? Si vous y renoncez, ne serait-il pas possible de publier seul <ref target="https://www.unige.ch/rougemont/articles/nrf/19400101">mon article sur le <emph>Journal</emph></ref> ? Bien inactuel, sans doute… Mais il en faut de l’inactuel. Surtout que l’actuel n’a pas de nom, et qu’on n’a guère envie de lui en trouver un.</p>
+        <salute>Tous mes vœux de bonne année, pour vous et Madame Paulhan. Et très amicalement vôtre.</salute>
+        <signed>D. de Rougemont</signed>
+        <p rend="center"/>
+        <p>Mon adresse à Berne : <hi rend="u">61 Krammgasse</hi> est aussi permanente que les événements le permettront.</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19400121">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_025.jp2/full/full/0/default.jpg"/>
+        <head>1940-01-21, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 21 [janvier 1940]</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Quels sont les chapitres des <ref target="https://www.unige.ch/rougemont/livres/ddr1944persdram"><emph>Personnes du drame</emph></ref>, qui demeurent inédits, et que la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> peut donner ? Vous seriez gentil de me le dire, assez vite.</p>
+        <p>Je le lis avec beaucoup de passion.</p>
+        <ab type="ornament">⁂</ab>
+        <p>G. G. vous demande deux choses : l’une qui lui paraît (et à moi) absolument nécessaire : ce serait de traduire (au moins en note) <emph>tous</emph> les textes allemands que vous citez.</p>
+        <p>L’autre (vous en ferez ce que vous voudrez) : l’introduction n’est-elle pas très <emph>difficile</emph> pour un lecteur français, et parfois (Kassner, etc.) inutilement difficile ? Ne pourriez-vous <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_026.jp2/full/full/0/default.jpg"/> pas l’éclairer, l’éclaircir un peu ?</p>
+        <salute>Votre ami.</salute>
+        <signed>J. P.</signed>
+        <signed/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19400122">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_048.jp2/full/full/0/default.jpg"/>
+        <head>1940-01-22, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 22 janvier [1940]</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Vous l’avez vu, j’ai pris le parti de donner <ref target="https://www.unige.ch/rougemont/articles/nrf/19400101">votre <emph>Gide</emph></ref> le 1<hi rend="sup">er</hi> janvier. (Vraiment, l’<emph>Hommage</emph> tardait trop, et je ne sais plus du tout quand j’obtiendrai les articles promis.)</p>
+        <p>Ramuz m’a envoyé quelques pages, infiniment curieuses. Ne voulez pas me donner des <emph>Airs du mois</emph> ? Sur la Suisse, sur la guerre. Je vous en prie<note place="bottom" resp="editor">Hormis la <ref target="https://www.unige.ch/rougemont/articles/nrf/19400501">recension d’un <emph>Hommage à C. F. Ramuz</emph></ref>, paru dans le numéro de mai 1940, Rougemont ne donnera plus aucun texte à la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> pendant la guerre.</note>.</p>
+        <p>J’attends impatiemment le <emph>Huizinga</emph>.</p>
+        <p>On a communément trouvé, je n’exagère pas du tout, <ref target="https://www.unige.ch/rougemont/articles/nrf/19400101">votre <emph>Gide</emph></ref> admirable.</p>
+        <salute>Avec tous nos vœux pour vous deux, et mon amitié.</salute>
+        <signed>Jean P.</signed>
+        <p rend="center"/>
+        <p>Malraux <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_049.jp2/full/full/0/default.jpg"/> va entrer, me dit-il, dans l’armée tchèque — (comme officier de chars). Aragon, absolument convaincu, et Groeth ne l’est pas moins, que la Finlande a lâchement attaqué l’URSS. C’est singulier.<note place="bottom" resp="editor">Ce paragraphe, ainsi que la citation de Lie-Tseu plus loin, sont cités par Rougemont dans le <ref target="https://www.unige.ch/rougemont/livres/ddr1968jde/24#body-7-5-8"><emph>Journal d’une époque</emph></ref>.</note></p>
+        <p>Gide travaille à sa pièce « sociale », n’a pas encore dit un mot de la guerre.</p>
+        <p>Petitjean, légèrement blessé (une balle au doigt) aujourd’hui guéri. Toujours dans l’avant-front. Son <emph>Courrier</emph> continue, malgré tout.</p>
+        <p>R. Martin du Gard désespérerait de l’Europe et du reste, si les <hi rend="bg_00ff00"><emph>N. C.</emph></hi> n’existaient pas.</p>
+        <p>Lie-Tseu a dit aussi : « Qui se refuse à faire la guerre, la faisant pourtant, gagne la guerre. »</p>
+        <p>N’oubliez pas la chronique sur les <emph>Considérations</emph><note place="bottom" resp="editor">On ne connaît aucune recension par Rougemont d’un ouvrage intitulé <emph>Considérations.</emph></note>. Ni les <ref target="https://www.unige.ch/rougemont/livres/ddr1944persdram"><emph>Personnes du drame</emph></ref>.</p>
+        <p rend="left"/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19400427">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_054.tif/full/full/0/default.jpg"/>
+        <head>1940-04-27, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>146 Bellevuestrasse
+          <lb/>Berne-Wabern
+          <lb/>Le 27 avril 1940</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Je reçois à l’instant votre lettre du 21 et me hâte d’y répondre.</p>
+        <p>1. J’ai déjà corrigé les épreuves et renvoyé à Arnault, à Tours.</p>
+        <p>2. J’ai ajouté en note la traduction des textes de Goethe.</p>
+        <p>3. L’<emph>Introduction</emph> est évidemment trop difficile, votre avis et celui de <hi rend="bg_00ff00">Gallimard</hi> achèvent de m’en persuader. Est-il encore possible de la refaire ? Si oui, pourriez-vous écrire un mot à Arnault pour qu’il m’en renvoie l’épreuve corrigée, et sursoie à la mise en page ? Cela gagnerait du temps si vous pouviez le faire, la poste est si lente. Je récrirai l’<emph>Introd</emph>. en attendant.</p>
+        <p>4. Les parties inédites sont <emph>Pureté de Kierkegaard, Kafka</emph> (sauf 1 page, parue comme note sur le <emph>Procès</emph>, mais remaniée), et le chapitre sur <emph>Ramuz</emph> sur un croquis de Stravinsky.<note place="bottom" resp="editor">Un trait de crayon souligne en marge ces deux paragraphes, accompagnés de la mention « 1 jeu pour moi ».</note></p>
+        <p>Si vous vouliez publier l’un ou l’autre de ces 3 chapitres, il faudrait prendre le texte que j’ai corrigé sur épreuves. Il y a des changements, rares mais importants. Avec le Ramuz, il faudrait donner le croquis de Stravinsky, qui figure dans <emph>Six Cahiers</emph>.</p>
+        <p>Je n’ai pas eu le temps de le rechercher pour <ref target="https://www.unige.ch/rougemont/livres/ddr1944persdram">le livre</ref>.</p>
+        <p>Si je refais l’Introduction, cela me permettra de me le procurer pendant ce temps.</p>
+        <p rend="center"/>
+        <p>J’aimerais rentrer en France pour travailler. Ici, je perds mon temps, si nous ne sommes pas attaqués. J’aurais facilement un congé de 6 mois ou 1 an, si quelque « employeur »<note place="bottom" resp="editor">Ces deux lignes sont marquées d’un trait de crayon dans la marge, accompagné d’un point d’interrogation.</note>
+          <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_055.tif/full/full/0/default.jpg"/> pouvait me réclamer en France, sous un prétexte quelconque, même en me payant très peu (j’ai quelques réserves). Pensez-vous qu’il y aurait une possibilité de ce genre chez <hi rend="bg_00ff00">Gallimard</hi>, à Paris ou à [Illisible] ?</p>
+        <p>J’essaye d’écrire une chronique sur Huizinga, Jung, Burckhardt… Mais j’ai si peu de temps, les soirées seulement. Et je lis trop de journaux.</p>
+        <salute>Toutes mes amitiés.</salute>
+        <signed>D. de Rougemont.</signed>
+        <p rend="left"/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19460912">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_050.jp2/full/full/0/default.jpg"/>
+        <head>1946-09-12, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 12 septembre [1946]</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>À peine rentré à Paris, je dois repartir : Groeth est mourant, à Colpach. Sans doute le savez-vous déjà : le cancer tient les deux poumons, et gagne l’omoplate.</p>
+        <p>Je reçois un mot de M<hi rend="sup">e</hi> Gillet qui m’invite à entrer en rapport avec vous, et avec M. Ferrand<note place="bottom" resp="editor">Au crayon, note en marge de Rougemont : « Ouverture des valises de St Ex ? »</note>. Voulez-vous que nous prenions rendez-vous pour le <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_051.jp2/full/full/0/default.jpg"/> samedi 21, ou le lundi 23 ? (Je serai sûrement rentré à cette date.) Et voulez-vous bien en aviser, pour nous deux, M. Ferrand ?</p>
+        <salute>À vous, très amicalement.</salute>
+        <signed>Jean Paulhan.</signed>
+        <dateline rend="center"/>
+        <dateline>Chez M<hi rend="sup">me</hi> Mayrisch
+          <lb/>Colpach
+          <lb/>p. Redange s. Attert
+          <lb/>(G<hi rend="sup">d</hi> Duché de Luxembourg)</dateline>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19470717">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_056.tif/full/full/0/default.jpg"/>
+        <head>1947-07-17, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Hôtel du Palais d’Orsay
+          <lb/>9 Quai d’Orsay
+          <lb/>Le 17 juillet 1947</dateline>
+        <salute>Cher ami,</salute>
+        <salute>Merci encore d’être venu ici, et merci pour ce que vous m’avez apporté, que j’ai lu aussitôt après votre départ avec une vraie joie. Votre visite a illustré pour moi, très exactement, ce que je voulais vous dire sur patrie ou nation (définitions à revoir). Tout d’un coup, je me suis aperçu que vos textes <emph>sont</emph> ce que le mot France représente quand je me le dis ou le pense, — parce qu’ils le sont sans le dire, comme invisiblement, donc sans me gêner un seul instant. Toutes les « manifestations françaises » m’éloignent, faussent la France à mes yeux, me font douter de (ou m’interroger sur) mes raisons de l’aimer. Dans vos textes, je me sens rassuré. Voilà exactement ce pays qui pour moi — comme pour les Français — va de soi, est cet ensemble à ne pas définir de valeurs à partir de quoi l’on juge, partout où il y a de la culture, si bien qu’on n’a plus à voir que les personnes, à discuter que leurs idées, leurs variations individuelles. La question de confiance étant constamment <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_057.tif/full/full/0/default.jpg"/> écartée parce que la confiance est accordée comme la vie même. (Chez Aragon, non.)</salute>
+        <p>La citation des « mystiques » que vous m’avez écrite en dédicace, je la fais mienne autant que vous l’avez faite (ou recréée). C’est dans ce sens que je me suis opposé à Benda, à Genève l’an dernier<note place="bottom" resp="editor">Rougemont fait ici référence aux premières Rencontres internationales de Genève, dont il fut l’un des participants aux côtés de Julien Benda entre autres. Il y prononça le 8 septembre une conférence sur « <ref target="https://www.unige.ch/rougemont/livres/ddr1948ej/1#body-1-1">Les maladies de l’Europe</ref> ».</note>. Cela résume pour moi tout le fédéralisme opposé aux nationalismes, mais aussi à la manie unificatrice, — jacobine, rationaliste, totalitaire.</p>
+        <p>Les conclusions de <emph>La Paille et le Grain</emph> me paraissent ce que l’on a écrit de plus sensé, de plus digne, de plus opportun, sur l’état présent de la France et le rôle qu’elle tient dans le monde, modeste et capital (l’un à cause de l’autre).</p>
+        <salute>Affectueusement à vous.</salute>
+        <signed>Denis de Rougemont</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19470808">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_052.jp2/full/full/0/default.jpg"/>
+        <head>1947-08-08, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Chalet de Barthe, par Brassac (Tarn)
+          <lb/>Le 8 août 1947</dateline>
+        <salute>Bien cher ami,</salute>
+        <p>Nous voudrions composer (à l’image de <emph>Mesures</emph>) un petit « hommage à Henry Church ». Ne voudrez-vous pas être des nôtres. Je tiendrais beaucoup à avoir une page de vous, un souvenir, un jugement…<note place="bottom" resp="editor">L’hommage paraîtra dans un numéro spécial de la revue <emph>Mesures</emph>, paru en avril 1948. Rougemont ne devait pas y participer.</note></p>
+        <ab type="ornament">⁂</ab>
+        <p>Merci de votre lettre, qui m’est précieuse. Est-ce que tous les temps ont ressemblé au nôtre ? Ou bien, est-ce que l’événement vraiment <emph>nouveau</emph>, ce serait, plutôt que le four crématoire ou la bombe atomique, certaine façon de mythifier à propos de tout et de <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_053.jp2/full/full/0/default.jpg"/> rien. (Surtout, de rien, comme l’ont, somme toute, très bien senti les surréalistes &amp; les existentialistes. Mais les politiques vont plus loin.) Comme si, tout à la fois, nous savions qu’il n’est pas de vrai — ni de vraisemblable — sans un certain fabuleux central — mais que ce fabuleux nous parût pouvoir être, au petit bonheur, <emph>n’importe quoi</emph>.</p>
+        <ab type="ornament">⁂</ab>
+        <p>C’est très juste et très beau, ce que vous dites de la question de confiance « à écarter constamment ».</p>
+        <salute>Êtes-vous à présent tout à fait remis ? avez-vous rejoint Ferney ? Je suis à vous, affectueusement.</salute>
+        <signed>Jean P.</signed>
+        <p rend="center"/>
+        <p><pb n="p. 3" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_054.jp2/full/full/0/default.jpg"/> P.-S. Ce qu’il est difficile de dire, ce qu’il faut tout de même arriver à faire entendre, c’est qu’il n’a tenu qu’à un léger hasard historique que Rebatet, Drieu, Maurras ne fussent les résistants ; et Benda, Éluard, Thorez, les collaborateurs (et Aragon, le directeur de la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>). À ce simple hasard que l’Allemagne, non la Russie, nous a conquis.</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19480112">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_057.jp2/full/full/0/default.jpg"/>
+        <head>1948-01-12, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 12 [janvier 1948]</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Vous écrivez, à la page 2 de <hi rend="bg_00ff00">la <emph>Voie clandestine</emph></hi> :</p>
+        <p>« … c’est New York dont la somme donne 6 et le produit 9… »</p>
+        <p>N’y a-t-il pas là une erreur<note place="bottom" resp="editor">C’est en tout cas ainsi que parut le texte.</note> ? Si oui, écrivez <emph>d’urgence</emph>, je vous prie, un mot de rectification à Festy.</p>
+        <salute>Avec les meilleurs vœux de</salute>
+        <signed>Jean Paulhan</signed>
+        <p rend="center"/>
+        <p>N’avez-vous pas reçu vos épreuves ? Je suis un peu inquiet.</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19480117">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_058.tif/full/full/0/default.jpg"/>
+        <head>1948-01-17, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Ferney-Voltaire
+          <lb/>Le 17 janvier 1948</dateline>
+        <salute>Cher ami,</salute>
+        <p>Je trouve votre mot du 12 en rentrant d’une tournée en Suisse. J’espère qu’il n’est pas trop tard pour que Festy me renvoie une épreuve. Je lui en ai retourné une, dûment corrigée, il y a plus de trois semaines, et il l’aura égarée, — ou la poste. Il y avait beaucoup de petites fautes fort gênantes, virgules et mots substitués, déformés, etc.</p>
+        <p>Virgules (page 2 <hi rend="bg_00ff00"><emph>Voie clandestine</emph></hi>) : « au croisement de deux rues, c’est New York, dont la somme donne 6 et le produit 9… » Si ce n’est pas clair, il faudrait mettre « c’est N. Y. » entre parenthèses.</p>
+        <p>Mais il y a <emph>beaucoup</emph> d’autres erreurs.</p>
+        <p>Puisse cette lettre vous parvenir à temps.</p>
+        <p>Je reviens de Neuchâtel où j’ai vu Gide en bonne forme. Je travaille beaucoup dans la paix et la solitude, — vous enverrai bientôt <ref target="https://www.unige.ch/rougemont/livres/ddr1948sn">une plaquette sur Neuchâtel, mon père, le lac</ref>, qui m’a rappris à « écrire ».</p>
+        <salute>Affectueusement.</salute>
+        <signed>Denis de Rougemont</signed>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19480610">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_060.jp2/full/full/0/default.jpg"/>
+        <head>1948-06-10, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 10 juin [1949]<note place="bottom" resp="editor">Rougemont a daté par erreur cette lettre de 1950. Nous avons rectifié d’après la lettre suivante du 21 août 1949.</note></dateline>
+        <salute>Cher ami,</salute>
+        <p>Je voudrais que le prochain numéro des <emph>Cahiers de la Pléiade</emph> pût s’ouvrir sur un hommage à Saint-John Perse. Léger m’a donné un grand poème. Ne voudrez-vous pas être présent à cet hommage ? J’y tiendrais beaucoup, je suis sûr que Léger y serait très sensible.</p>
+        <p>Je serais tout à fait content de recevoir 3 ou 4 pages de vous avant le 20 juillet. Laissez-moi vous remercier d’avance.<note place="bottom" resp="editor">Cet hommage paraîtra en 1950. Rougemont y contribuera : « <hi rend="bg_00ff00">Saint‑John Perse et l’Amérique</hi> ».</note></p>
+        <salute>Et sachez-moi affectueusement vôtre</salute>
+        <signed>Jean Paulhan</signed>
+        <p rend="center"/>
+        <p>Très beaux, vos articles sur l’Europe. Tout de même, ne nous faites pas la part trop facile. Montrez-nous aussi à quelle sorte de pensées nous devrons renoncer, à quelles surveillances nous soumettre…</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19490821">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_055.jp2/full/full/0/default.jpg"/>
+        <head>1949-08-21, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 21 août 1949</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Ah j’aurais tout à fait besoin du <hi rend="bg_00ff00"><emph>Saint-John Perse</emph></hi> avant le 10 septembre ! Est-ce trop vous demander ? Je vous en prie.</p>
+        <p>On vous la donne, votre Europe. Tout de même, j’imagine vaguement que vous êtes déçu. Et moi, je serais plus tranquille si vous étiez à Strasbourg, à la place de ces 87 parlementaires.</p>
+        <salute>Affectueusement à vous.</salute>
+        <signed>Jean P.</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19491012">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_056.jp2/full/full/0/default.jpg"/>
+        <head>1949-10-12, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Paris
+          <lb/>Le 12 octobre 1949</dateline>
+        <salute>Cher ami,</salute>
+        <p>Merci. Je suis ravi de <hi rend="bg_00ff00">ces pages</hi>.</p>
+        <p>J’attends la circulaire<note place="bottom" resp="editor">Sans doute une allusion à la circulaire que Rougemont envoie alors à de nombreux écrivains européens, exposant les buts de la <hi rend="bg_00ff00">Conférence européenne de la culture</hi> qu’il organise à Lausanne, du 8 au 12 décembre 1949.</note>.</p>
+        <salute>Bien amicalement.</salute>
+        <signed>Jean P.</signed>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19500126">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_059.tif/full/full/0/default.jpg"/>
+        <head>1950-01-26, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Paris, en passant
+          <lb/>Le 26 janvier 1950</dateline>
+        <salute>Cher ami,</salute>
+        <p>J’espérais vous voir, et l’on me dit que vous êtes absent, et souffrant des yeux, ce qui me peine pour vous, pour moi, et aussi parce que j’aurais voulu vous montrer une réponse que j’ai faite à <hi rend="bg_00ff00">votre attaque contre les fédéralistes dans <emph>Liberté de l’Esprit</emph></hi>. Je crains que vos reproches se soient trompés d’adresse, — j’en suis même sûr, et j’aurais voulu vous convaincre, plus encore que vous réfuter sur tel ou tel point de fait. Je remets <hi rend="bg_00ff00">ma lettre-réponse à Claude Mauriac</hi>. Il faut que vous soyez avec nous.</p>
+        <p>J’essayerai de vous voir lors de mon prochain passage ici en février, et souhaite que vous guérissiez bien vite vos yeux pour lire ces trois pages et m’écrire un mot.</p>
+        <salute>Bien amicalement à vous.</salute>
+        <signed>Denis de Rougemont</signed>
+        <p/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19500314">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_073.jp2/full/full/0/default.jpg"/>
+        <head>1950-03-14, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 14 [mars 1950]</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Voici une lettre qui me parvient par erreur. Faisons l’échange.</p>
+        <p>Sera-t-il très utile que je vous réponde :</p>
+        <p>1. que ma lettre avait trait à l’« Europe », non précisément au fédéralisme. De sorte que j’étais en droit d’y traiter « à égalité » : 1/ le Conseil de l’Europe, 2/ Benda, 3/ les fédéralistes.</p>
+        <p>2. que le tort des Fédéralistes est certainement de nous dissimuler tous les inconvénients (et les sacrifices) de leur projet.</p>
+        <p>3. qu’enfin je vous préférais mondialiste. (Mais vous ne l’êtes pas resté très longtemps.)</p>
+        <salute>Votre ami.</salute>
+        <signed>J. P.</signed>
+        <p rend="center"/>
+        <p>Je souffre toujours des yeux.</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19500324">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_063.tif/full/full/0/default.jpg"/>
+        <head>1950-03-24, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Genève
+          <lb/>Le 24 mars 1950</dateline>
+        <salute>Cher ami,</salute>
+        <p>En rentrant de voyage, je trouve votre mot et la lettre de Claude Mauriac qui m’était destinée. Ci-joint celle qu’il vous adressait.</p>
+        <p>En effet, je ne vois pas très bien l’utilité d’une duplique de votre part. Mon but est essentiellement de rappeler que le terme de fédéralisme désigne une tendance très définie parmi ceux qui veulent unir les peuples européens, et qu’il est dangereux et injuste de l’étendre à tous ceux qui, pour une raison ou pour une autre, ont un jour, et vaguement, parlé d’union.</p>
+        <salute>J’espère beaucoup vous revoir fin avril à Paris. Très amicalement à vous.</salute>
+        <signed>Le Directeur
+          <lb/>Denis de Rougemont<note place="bottom" resp="editor">La lettre, dactylographiée, est à l’en-tête du Bureau d’études pour un Centre européen de la culture, que Rougemont dirige depuis sa création en février 1949.</note></signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19500426">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_061.jp2/full/full/0/default.jpg"/>
+        <head>1950-04-26, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Paris
+          <lb/>Le 26 avril 1950</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>L’<emph>Hommage à Perse</emph> a été retardé par diverses circonstances (la principale est que j’ai reçu les articles avec d’assez grands retards). Il paraîtra dans deux à trois mois.</p>
+        <p>C’est un peu en désespoir de cause que je vous parlais du manuscrit politique de Brugmans<note place="bottom" resp="editor">Nous ne savons à quel « manuscrit politique » précis d’Henri Brugmans se réfère ici Jean Paulhan.</note>. Le manuscrit a également été égaré à la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> dans des circonstances si paradoxales que je me demande si par extraordinaire… (ne lui en dites rien).</p>
+        <salute>Bien amicalement à vous.</salute>
+        <signed>Jean P.</signed>
+        <p rend="center"/>
+        <p>Franchement, je crois (et je suis navré de croire) que votre Europe est chaque jour plus dépassée par les événements. Pour les raisons que je donnais. Et ce n’est pas l’(extraordinaire) appel de Bidault à l’Amérique qui me fera changer de sentiment.</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19500910">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_058.jp2/full/full/0/default.jpg"/>
+        <head>1950-09-10, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 10 septembre 1950<note place="bottom" resp="editor">Cette lettre est également publiée dans Jean <hi rend="sc">Paulhan</hi>, <emph>Choix de lettres (1946-1968)</emph>, Paris, Gallimard, 1996, p. 85-86.</note></dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Merci de votre <ref target="https://www.unige.ch/rougemont/livres/ddr1950lde"><emph>Lettre</emph></ref>. Vous avez affaire à de drôles de traîtres, et je ne sais vraiment pas comment vous vous débarrasserez d’eux : Pas un des hommes de Strasbourg ne <emph>veut</emph> l’Europe. (À vrai dire, je crois que les peuples non plus ne la veulent pas.)</p>
+        <p>Au lieu qu’en exigeant une souveraineté mondiale — et voilà une idée qui peut soulever des foules — vous vous trouveriez faire l’Europe innocemment, sans l’avoir cherché, chemin faisant.</p>
+        <p>Bonne <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_059.jp2/full/full/0/default.jpg"/> chance tout de même !</p>
+        <ab type="ornament">⁂</ab>
+        <p>Notre <emph>Cahier</emph>-Perse a été retardé par toute sorte d’embarras — &amp; jusqu’à des menaces de procès. Pardonnez-nous. Vous l’aurez dans trois à quatre semaines.</p>
+        <salute>Avec amitié.</salute>
+        <signed>Jean Paulhan</signed>
+        <p rend="center"/>
+        <p>On ne s’accorde pas, parce qu’on se dit « nous allons bien nous accorder, ce sera très utile, etc. » Non, on a une foi commune, on est prêt à mourir pour une même cause — et il se trouve <emph>aussi</emph> que l’on s’est accordé (sans l’avoir fait exprès).</p>
+        <p>Or la souveraineté mondiale peut être une <emph>cause</emph>, l’Europe — à tort ou à raison — n’en est pas une : ce n’est pour le moment qu’une affaire d’armée et de généraux.</p>
+        <p rend="left"/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19510918">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_064.tif/full/full/0/default.jpg"/>
+        <head>1951-09-18, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Ferney-Voltaire (Ain)
+          <lb/>Le 18 septembre 1951</dateline>
+        <salute>Cher ami,</salute>
+        <p>On ne m’a pas invité, c’est sans doute un oubli, mais je vous envoie <ref target="https://www.unige.ch/rougemont/articles/nrf/19511101">ces quelques pages sur Gide</ref>, parce que je l’ai connu, aimé et pas aimé, aimé de nouveau, et que je lui dois beaucoup.</p>
+        <p>Dites-moi si c’est trop indiscret. Votre avis m’a toujours importé plus qu’un autre.</p>
+        <salute>Affectueusement à vous.</salute>
+        <signed>Denis de Rgt</signed>
+        <p rend="center"/>
+        <p>Si j’arrive trop tard, vous seriez gentil de me le faire savoir, je donnerai ce petit texte ailleurs.</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19520302">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_062.jp2/full/full/0/default.jpg"/>
+        <head>1952-03-02, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 2 mars [1952]<note place="bottom" resp="editor">Cette datation approximative est d’une tierce main. Elle paraît juste au vu de la « <emph>Lettre »</emph> mentionnée, en l’espèce la <emph>Lettre aux directeurs de la Résistance</emph>.</note></dateline>
+        <salute>Mon cher ami, </salute>
+        <p>Je ne trouve qu’aujourd’hui en rentrant de Guinée, votre carte du 2 février. Voilà une bonne nouvelle, dont je suis enchanté, et je vous dis à tous deux mille et mille vœux.</p>
+        <signed>Jean Paulhan</signed>
+        <p rend="center"/>
+        <p>Vous avez dû recevoir, il y a un mois, ma petite <emph>Lettre</emph>. Chose étrange, elle n’a pas plu à tout le monde. Cela me semblait <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_063.jp2/full/full/0/default.jpg"/> pourtant assez rigoureux.</p>
+        <p>La Guinée a ceci de particulier qu’on n’y voit jamais le soleil. Mais ce seul ciel gris étincelant.</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19551208">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_065.jp2/full/full/0/default.jpg"/>
+        <head>1955-12-08, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Paris
+          <lb/>Le 8 décembre 1955</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Nous sommes-nous si mal exprimés ? Il ne viendrait à l’esprit d’aucun homme sensé de dire : « X écrit mal <emph>parce qu</emph>’il est engagé. » Au lieu qu’écrire : « Tâchons de faire de la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> un lieu pur où les bons écrivains seront admis <emph>quelle que soit</emph> la nature de leur engagement » : en fait « qu’ils soient politiques de droite ou de gauche, croyants ou incroyants », me semble sage et juste. Il n’est rien là-dedans de nature à écarter notre ami Calvin<note place="bottom" resp="editor">Gallimard avait publié en novembre 1939 un <emph>Tableau de la littérature française : de Corneille à Chénier</emph>. Le premier volume, <emph>De Rutebeuf à Descartes</emph>, ne parût qu’en 1962, le projet ayant vraisemblablement été interrompu par la guerre. Paulhan se réfère à ce projet, pour lequel Rougemont devait précisément rédiger le <hi rend="bg_00ff00">chapitre consacré à Calvin</hi>.</note>.</p>
+        <p>C’est aussi bien là très précisément ce que nous avons écrit. Soyez assez gentil pour relire notre petite introduction.</p>
+        <p>J’ai été content de vous revoir.</p>
+        <salute>À bientôt, j’espère. Et très amicalement.</salute>
+        <signed>Jean Paulhan</signed>
+        <p rend="center"/>
+        <p>J’espère que tout s’arrangera pour <hi rend="bg_00ff00">le <emph>Calvin</emph></hi>. Je vous tiendrai bien sûr au courant.</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19561206">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_067.tif/full/full/0/default.jpg"/>
+        <head>1956-12-06, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Ferney-Voltaire (Ain)
+          <lb/>Le 6 décembre 1956</dateline>
+        <salute>Cher ami,</salute>
+        <p>Vous souvenez-vous de notre conversation sur un chapitre de mon dernier livre, <ref target="https://www.unige.ch/rougemont/livres/ddr1957aoh"><emph>L’Aventure occidentale de l’homme</emph></ref> ? Je devais vous envoyer le <ref target="https://www.unige.ch/rougemont/articles/nrf/19570301">chapitre sur le temps historique</ref>. Le voici, avec un bien grand retard : je n’avais plus de copie, les quatre existantes étant chez des traducteurs et chez l’éditeur en France (choisi par Harper, de New York, qui a le copyright du livre).</p>
+        <p>Voici donc <ref target="https://www.unige.ch/rougemont/articles/nrf/19570301">ce chapitre</ref>, et un autre sur l’Espace<note place="bottom" resp="editor">Ce dernier, le <ref target="https://www.unige.ch/rougemont/livres/ddr1957aoh/6">chapitre VI de <emph>L’Aventure occidentale de l’homme</emph></ref>, ne sera pas publié par la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>.</note>. Si l’un ou l’autre vous va pour la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>, pourriez-vous le passer le 1<hi rend="sup">er</hi> février ? Le livre doit paraître en février ou début mars au plus tard.</p>
+        <p>Vraiment, je suis confus de vous envoyer cela si tard, mais c’est aujourd’hui seulement que je reçois les épreuves et mon texte. D’ailleurs je n’aurais pas trouvé le temps de m’occuper de mes petites affaires depuis des semaines, il y avait d’autres « priorités » par malheur.</p>
+        <p>Comment allez-vous ? À quand la suite de vos lettres à un militant ? Je suis militant moi aussi, non d’un parti, il est vrai, et puis cependant vous approuver. N’est-ce pas plutôt le partisan qui mérite vos questions, et la plus grande sévérité ?</p>
+        <salute>Vous savez ma fidèle amitié.</salute>
+        <signed>Denis de Rgt<note place="bottom" resp="editor">En marge, Paulhan note un brouillon de sa réponse, version abrégée de sa <hi rend="bg_00ff00">lettre du 18 janvier 1957</hi> : « Cher ami, merci. Tout est parfait ainsi et j’envoie l’article à la composition. Il est bien entendu, n’est-ce pas, que le livre ne paraît pas avant le 10 mars. À vous très amicalement. »</note></signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19561209">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_066.jp2/full/full/0/default.jpg"/>
+        <head>1956-12-09, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 9 décembre [1956]</dateline>
+        <salute>Cher ami,</salute>
+        <p>D’accord, et j’aime beaucoup ces deux chapitres. Mais :</p>
+        <p>1. il serait nécessaire que vous en fassiez <emph>un</emph> seul article. Il y suffirait de peu de retouches ; mais il faudrait ajouter une introduction indiquant le sens général de votre œuvre, et une brève conclusion.</p>
+        <p>2. il serait nécessaire que <ref target="https://www.unige.ch/rougemont/livres/ddr1957aoh">le livre</ref> ne parût pas avant le 4 ou le 5 mars. (La <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> donnerait votre étude le 1<hi rend="sup">er</hi> mars.)</p>
+        <p>Si la chose vous semble possible (comme je l’espère très vivement), répondez-moi vite.</p>
+        <salute>Avec amitié.</salute>
+        <signed>Jean P.</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19561218">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_067.jp2/full/full/0/default.jpg"/>
+        <head>1956-12-18, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 18 décembre 1956</dateline>
+        <salute>Cher ami,</salute>
+        <p>C’est donc entendu. <ref target="https://www.unige.ch/rougemont/articles/nrf/19570301">L’article</ref> paraîtra le 1<hi rend="sup">er</hi> mars. J’attends (impatiemment) l’introduction et les remaniements qui en feront <emph>un</emph> article autonome. Merci. Ce sont des pages bien fortes.</p>
+        <p>En France, où paraîtra <ref target="https://www.unige.ch/rougemont/livres/ddr1957aoh">le livre</ref>, et puis-je en parler à G. G. ?</p>
+        <salute>Très amicalement.</salute>
+        <signed>Jean P.</signed>
+        <p rend="center"/>
+        <p>Dois-je vous renvoyer le texte que vous m’aviez remis ?</p>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19570103">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_065.tif/full/full/0/default.jpg"/>
+        <head>1957-01-03, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Ferney (Ain)
+          <lb/>Le 3 janvier [1957]<note place="bottom" resp="editor">Note de Paulhan à côté de la date : « <hi rend="u">mardi</hi> ». Rougemont a daté par erreur cette lettre du 1<hi rend="sup">er</hi> janvier 1956. Nous corrigeons d’après le contexte.</note></dateline>
+        <salute>Cher ami,</salute>
+        <p>Je crois que cette brève introduction situera les deux chapitres que je vous ai envoyés, dans le cadre de la recherche dont ils sont détachés. Le début et la fin du deuxième chapitre le relient expressément au premier. Et je ne sens pas bien nécessaire une conclusion, <ref target="https://www.unige.ch/rougemont/livres/ddr1957aoh">l’Aventure</ref> même n’en ayant pas.</p>
+        <p><ref target="https://www.unige.ch/rougemont/livres/ddr1957aoh">Le livre</ref> doit paraître chez <hi rend="bg_00ff00">Albin Michel</hi>, en mars. Il m’avait été commandé par un éditeur américain, Harper, qui a donné les droits français à Sabatier sans que j’aie été consulté. Mais cela m’allait très bien, <hi rend="bg_00ff00">Albin Michel<note place="bottom" resp="editor">Phrase soulignée par Paulhan et commentée de deux points d’interrogation dans la marge.</note></hi> ayant publié deux de mes premiers livres. D’ailleurs, Gallimard a soldé mes deux derniers parus chez lui, je ne pense pas qu’il aurait vraiment tenu à celui-là.</p>
+        <p>Je serai à Paris vers le 13 janvier pour quelques jours, j’espère bien vous voir et vous téléphonerai en arrivant.</p>
+        <salute>Beaucoup de vœux et d’amitiés.</salute>
+        <signed>Denis de Rgt</signed>
+        <p rend="left"/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19570118">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_068.jp2/full/full/0/default.jpg"/>
+        <head>1957-01-18, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Paris
+          <lb/>Le 18 janvier 1957</dateline>
+        <salute>Cher ami,</salute>
+        <p>Tout est parfait ainsi et j’envoie <ref target="https://www.unige.ch/rougemont/articles/nrf/19570301">l’article</ref> à la composition. Il est bien entendu, n’est-ce pas, que le livre ne paraît pas avant le 10 mars.</p>
+        <salute>À vous, très amicalement.</salute>
+        <signed>Jean Paulhan</signed>
+        <p rend="left"/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19571030">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_069.tif/full/full/0/default.jpg"/>
+        <head>1957-10-30, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Ferney
+          <lb/>Le 30 octobre 1957</dateline>
+        <salute>Cher ami,</salute>
+        <salute>Marthe de Fels me dit que des Américains ont acheté une maison pour Léger sur la presqu’île de Giens. Mais qu’il lui manque 1 ½ million par an pour y vivre. Le prix Nobel eût tout arrangé, mais il est tombé ailleurs et que faire ?</salute>
+        <salute>La somme ne paraît pas immense, mais la difficulté est moins de la réunir que de la faire accepter. Il faut s’ingénier, inventer quelque don d’<emph>honneur</emph>, pour rester dans le vocabulaire de notre ami. Auriez-vous une idée ? Je voudrais beaucoup vous en parler. Je viens chaque semaine à Paris, ma femme ayant été opérée (blocage de la hanche et trois mois de plâtre). J’y serai de samedi 2 novembre à lundi soir 4 novembre et vous téléphonerai dès mon arrivée, vers midi.</salute>
+        <salute><pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_070.tif/full/full/0/default.jpg"/> Si vous n’étiez pas là, seriez-vous assez gentil pour me dire où je puis vous joindre, à l’adresse suivante : </salute>
+        <salute rend="left lmarg1">M<hi rend="sup">me</hi> D. de R. c/o Mrs Simaika
+          <lb/>33 Champs-Élysées
+          <lb/><del>Tel. Balzac 11-85</del></salute>
+        <salute>Merci, et très amicalement à vous.</salute>
+        <signed>D. de Rougemont<note place="bottom" resp="editor">Sous ces mots, Paulhan note en brouillon sa réponse — version abrégée de sa <hi rend="bg_00ff00">lettre du 7 novembre 1957</hi> : « Mon cher ami, oui, Léger m’a parlé de ces difficultés. Mais je crois qu’il est tout prêt à accepter <del>la somme</del> le “don d’honneur” qui <del>sera réuni</del> serait constitué. Quand vous verrai-je ? Je rentre du fond de la Bretagne, où m’avait appelé la mort d’un cousin. Mais faites-moi signe à votre prochain voyage. »</note></signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19571107">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_069.jp2/full/full/0/default.jpg"/>
+        <head>1957-11-07, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Paris
+          <lb/>Le 7 novembre 1957</dateline>
+        <salute>Cher ami,</salute>
+        <p>Oui, Léger m’a parlé de ces difficultés. Mais je crois qu’il est tout prêt à accepter le « don d’honneur » qui serait constitué.</p>
+        <p>Quand vous verrai-je ? Je rentre du fond de la Bretagne, où m’avait appelé la mort d’un cousin. Mais faites-moi signe à votre prochain voyage.</p>
+        <salute>Très amicalement.</salute>
+        <signed>Jean Paulhan</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-1959">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_064.jp2/full/full/0/default.jpg"/>
+        <head>1959, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Mardi [automne 1959]</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Nous avons parlé de vous justement à Giens, chez Saint-John Perse. Et je n’ai pas oublié cette <ref target="https://www.unige.ch/rougemont/articles/nrf/193110">première note sur Kassner</ref> (ni <ref target="https://www.unige.ch/rougemont/articles/preuv/195906">l’admirable K</ref> que vous avez donné plus récemment à <ref target="https://www.unige.ch/rougemont/articles/preuv"><emph>Preuves</emph></ref> : je crois qu’il faut en effet attaquer un texte obscur <emph>de tous les côtés</emph> à la fois<note place="bottom" resp="editor">Paulhan donna quelques extraits de cette étude sous le titre « Rudolf Kassner » dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> d’août 1959.</note>).</p>
+        <p>Que devenez-vous, et quand m’enverrez-vous un texte pour la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref> ? Bientôt, n’est-ce pas ? Et où en est l’Europe ? Je n’ai pas le sentiment qu’elle ait fait de grands progrès, depuis notre discussion. Mais là-dessus vous en savez plus que moi.</p>
+        <salute>À vous, avec amitié.</salute>
+        <signed>Jean P.</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19610225">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_072.tif/full/full/0/default.jpg"/>
+        <head>1961-02-25, Denis de Rougemont à Jean Paulhan</head>
+        <dateline>Ferney-Voltaire (Ain)
+          <lb/>Le 25 février 1961</dateline>
+        <salute>Cher ami,</salute>
+        <p>Voici quelques chapitres d’un livre que je viens de terminer et qui s’intitule <ref target="https://www.unige.ch/rougemont/livres/ddr1961ctm"><emph>Comme toi-même</emph></ref>. Il doit paraître au début de mai chez <hi rend="bg_00ff00">Albin Michel</hi>.</p>
+        <p>Je me dis que le chapitre sur les Cartes — « <ref target="https://www.unige.ch/rougemont/livres/ddr1961ctm/17#go17">L’amour même</ref> » — pourrait être joué dans la <ref target="https://www.unige.ch/rougemont/articles/nrf"><emph>NRF</emph></ref>. Celui sur « <ref target="https://www.unige.ch/rougemont/articles/nrf/19610401">La Personne, l’Ange et l’Absolu</ref> » est un peu long, je le crains. <ref target="https://www.unige.ch/rougemont/livres/ddr1961ctm/14">Celui sur Gide</ref> : <ref target="https://www.unige.ch/rougemont/articles/nrf/19511101">Le début en a paru dans l’Hommage de 1951</ref>, et devrait être réduit à la page 3.</p>
+        <p>Ce livre prend la suite de <ref target="https://www.unige.ch/rougemont/livres/ddr1939ao"><emph>L’Amour et l’Occident</emph></ref> mais n’en déplaira que mieux à ceux qui avaient trop aisément admis l’opposition éros-agapé. En vingt-deux ans, j’ai bougé et sinon je me tairais.</p>
+        <p>Je passerai quelques jours à Paris, du 4 au 9 mars. J’espère beaucoup vous voir — vous téléphonerai.</p>
+        <salute>Votre ami.</salute>
+        <signed>Denis de Rgt</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19610303">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_070.jp2/full/full/0/default.jpg"/>
+        <head>1961-03-03, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Le 3 mars [1961]<note place="bottom" resp="editor">Daté par erreur « 1960 » par Rougemont.</note></dateline>
+        <salute>Cher ami,</salute>
+        <p>Justement, je songeais beaucoup à vous ces jours-ci. <ref target="https://www.unige.ch/rougemont/articles/preuv/195906">Votre remarquable <emph>Kassner</emph> de <emph>Preuves</emph></ref> m’intrigue par certains côtés et me comble par d’autres. Nous en reparlerons.</p>
+        <p>C’est décidément <ref target="https://www.unige.ch/rougemont/articles/nrf/19610401"><emph>La Personne, l’ange et l’absolu</emph> que je prends pour la <emph>NRF</emph> du 1<hi rend="sup">er</hi> avril</ref>. Non sans regretter <ref target="https://www.unige.ch/rougemont/livres/ddr1961ctm/17#go17"><emph>L’amour même</emph></ref> — (mais l’« illustration » m’y semble par trop gratuite, peu probante).</p>
+        <p>Ne repasserez-vous <pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_071.jp2/full/full/0/default.jpg"/> pas bientôt par Paris ? J’aimerais vous revoir.</p>
+        <salute>Avec amitié.</salute>
+        <signed>Jean Paulhan</signed>
+        <p rend="left"/>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19610322">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_072.jp2/full/full/0/default.jpg"/>
+        <head>1961-03-22, Jean Paulhan à Denis de Rougemont</head>
+        <dateline>Paris
+          <lb/>Le 22 mars 1961</dateline>
+        <salute>Cher Denis,</salute>
+        <p>Marthe de Fels désire réunir de temps à autre les amis de Saint-John Perse. Voulez-vous bien que nous nous retrouvions chez elle (31 rue Octave-Feuillet) autour d’un dîner froid, le 18 avril au soir ?</p>
+        <p>Nous serons (assez probablement) quinze ou seize.</p>
+        <salute>Tâchez de venir. Affectueusement.</salute>
+        <signed>Jean P.</signed>
+      </div>
+      <div type="letter" xml:id="ddr-paulhan-19681018">
+        <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/imec-paulhan/imec-paulhan_001.tif/full/full/0/default.jpg"/>
+        <head>1968-10-18, Denis de Rougemont à Dominique Aury</head>
+        <dateline>La Maison des Bois
+          <lb/>Ferney-Voltaire
+          <lb/>Le 18 octobre 1968</dateline>
+        <salute>Chère Dominique,</salute>
+        <signed>Je vous envoie <hi rend="bg_00ff00">un petit texte</hi> qui paraît dans la <hi rend="bg_00ff00"><emph>Gazette littéraire</emph> de Lausanne</hi>. Depuis dix jours, je sens chaque jour s’approfondir en moi l’image de Jean, l’amitié, le chagrin, la joie à le relire, la gratitude pour ce qu’il a été — et qu’il demeure. Je crains n’avoir jamais su lui dire assez ce qu’il a représenté pour moi dans mes années de formation, et combien il me manquait depuis que je vis loin de Paris, — combien souvent il jouait un rôle dans ce que je pensais, écrivais, me remémorais. Toujours la même histoire, bête à pleurer. Que je vous dise au moins, aujourd’hui, avec quelle sympathie chaque jour je pense à vous et vous unis à lui en gratitude profonde.</signed>
+        <signed>Denis de Rgt</signed>
+      </div>
+    </body>
+  </text>
+</TEI>
