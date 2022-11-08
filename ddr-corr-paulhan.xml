@@ -858,7 +858,7 @@
       <div type="letter" xml:id="ddr-paulhan-19390928">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2256_paulhan-ddr/bpun-ddr1-id2256_027.jp2/full/full/0/default.jpg"/>
         <head>1939-09-28, Jean Paulhan à Denis de Rougemont</head>
-        <dateline>Jeudi 28 [septembre 1939]<note place="bottom" resp="editor">L’indication de l’année est de la main de Rougemont. Nous précisons le mois sur la base du contenu de la lettre, faisant référence au « drame » <hi rend="bg_00ff00"><emph>Nicolas de Flue</emph></hi> et à la mobilisation de Rougemont en Suisse.</note></dateline>
+        <dateline>Jeudi 28 [septembre 1939]<note place="bottom" resp="editor">L’indication de l’année est de la main de Rougemont. Nous précisons le mois sur la base du contenu de la lettre, faisant référence au « drame » <ref target="https://www.unige.ch/rougemont/livres/ddr1939nf"><hi rend="i">Nicolas de Flue</hi></ref> et à la mobilisation de Rougemont en Suisse.</note></dateline>
         <salute>Mon cher ami,</salute>
         <p>Je voudrais avoir de vos nouvelles. Donnez-m’en quelque jour.</p>
         <p>Vous devriez bien m’envoyer aussi des notes ou des airs du mois. Sur ce qu’il vous plaira.</p>
