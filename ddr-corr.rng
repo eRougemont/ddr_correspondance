@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <include href="http://oeuvres.github.io/Teinte/teinte.rng">
+  <include href="http://oeuvres.github.io/teinte/teinte.rng">
     <start>
       <element name="TEI">
         <ref name="xml.id"/>
@@ -33,8 +33,8 @@
     </start>
     <define name="pb">
       <element name="pb">
-        <ref name="facs-att"/>
-        <ref name="n-att"/>
+        <ref name="att.facs"/>
+        <ref name="att.n"/>
       </element>
     </define>
     <define name="hi.rend.more">
