@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?>
+<?xml-model href="ddr-corr.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="ddr-corr-beguin" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance avec Albert Béguin (1933-1950)</title>
+        <author>Rougemont, Denis de (1906-1985)</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/deed.fr"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>[Source numérisée]</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date from="1933" to="1950"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" xml:id="ddr-beguin-19330605" when="1933-06-05">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/bpun-ddr1-id1465_002.jp2/full/full/0/default.jpg" n="p. 1"/>
+        <head>1933-06-05, Albert Béguin à Denis de Rougemont</head>
+        <dateline>Halle/Saale
+          <lb/>Kaiserpl. 20
+          <lb/>Le 5 juin 1933</dateline>
+        <salute>Mon cher Rougemont,</salute>
+        <p>Pouvez-vous me donner les tuyaux suivants : <ref target="https://www.unige.ch/rougemont/articles/on">le mouvement de l’Ordre nouveau a-t-il lancé sa revue</ref> ? Si oui, que coûte l’abonnement en France ? Je m’abonnerais à Paris, chez M<hi rend="sup">me</hi> Droz, libraire, 25 rue du Tournon, qui ne fera parvenir les livraisons.</p>
+        <p>Puis ceci : pouvez-vous me procurer les numéros de <ref target="https://www.unige.ch/rougemont/articles/hn"><hi>Hic et Nunc</hi></ref> déjà parus, et les faire remettre à mon nom chez ladite libraire ? Merci d’avance.</p>
+        <p>Avez-vous entendu les conférences du Roi de Suisse<note place="foot" resp="editor">Nous n’avons pu identifier la personne désignée par cette appellation.</note> ?</p>
+        <p>Je serai content d’avoir de vos nouvelles.</p>
+        <salute>Meilleures amitiés.</salute>
+        <signed>Béguin </signed>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19360531" when="1936-05-31">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-720-01-1.jpg/full/full/0/default.jpg" n="p. 1"/>
+        <head>1936-05-31, Denis de Rougemont à Albert Béguin</head>
+        <dateline>Liebigstr. 6
+          <lb/>Franfkurt. Main
+          <lb/>Le 31 mai 1936</dateline>
+        <salute>Cher ami,</salute>
+        <p>Votre lettre m’a fait plaisir, ainsi que l’envoi des <hi>Annales suisses</hi>. J’aurais dû vous en remercier beaucoup plus tôt. Je suis très inexact dans ma correspondance, et c’est sans excuses, car mon lectorat me prend bien peu de temps. J’ai été à Paris en mars et votre lettre est d’avant, c’est vieux ! Vous avez bien fait de donner mon adresse à Liehburg, c’est le seul homme intéressant que j’aie vu ici — du point de vue littéraire ou idéologique. Je n’ai [rien lu]<note place="foot" resp="editor">Conjecture, le manuscrit portant ici un défaut.</note> de lui. Si « l’exécution » de ses drames répond à la grandeur de ses conceptions, ce doit être très fort. Et enfin, voilà quelqu’un qui a le sens de la mission des Suisses, je dirais presque qu’il me la révèle. Il faudra que nous en parlions : j’espère vous rencontrer une fois cet été. Je serai pour trois mois à <hi>Areuse</hi>, dès le 1<hi rend="sup">er</hi> juillet.</p>
+        <p>À propos de Suisse, Mounier m’a parlé en mars du projet de numéro spécial d’<hi>Esprit</hi>, et m’a montré le projet élaboré par les Lausannois. Une bouillabaisse. À présent, il paraît que tout est renvoyé. Si vous pouviez m’en parler, j’en serais content. Mounier viendra ici pour quelques jours en juin, et nous pourrions faire avancer les choses. À mon avis, il faudrait cinq à six articles au maximum, et une communauté sinon de ton, du moins de <hi>but</hi> manifeste, c’est-à-dire pas d’articles sur la Nouvelle Société helvétique et autres archéologies sentimentales, mais : une déclaration
+          <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-720-01-2.jpg/full/full/0/default.jpg" n="p. 2"/>
+           d’ensemble sur le rôle de la Suisse et sa raison d’être ; une étude sur le fédéralisme, une sur la culture, une sur l’enseignement, une sur la politique intérieure, et des notes sur des points plus particuliers et sensibles. Objectif : orienter les partis et les jeunes gens vers une création <hi>commune</hi>, dégager ce qui est valable de ce qui est périmé dans nos débats actuels, enfin : agir <hi>sur les Suisses</hi>, et non pas présenter aux Français un prospectus plus ou moins alléchant de nos spécialités locales. C’est ce que Lausanne ne paraît pas avoir bien compris…</p>
+        <p>J’ai entendu parler depuis quatre ans au moins du numéro « Romantisme » des <hi>Cahiers du Sud</hi>. Jaloux m’avait demandé un article sur Heinse (<hi>Ardinghello</hi>). Si cela doit se faire, j’aurais quelque chose d’à peu près terminé sur l’« <ref target="https://www.unige.ch/rougemont/articles/1936-1938/ddr193705cs">ombre perdue</ref> » dans les littératures allemandes et voisines (Chamisso, Andersen, Hofmannsthal, etc.). Ça irait-il ?</p>
+        <p><ref target="https://www.unige.ch/rougemont/articles/pres"><hi>Présence</hi></ref> reparaît ? C’est plutôt triste. Tous nos défauts romands réunis. Pas d’élan, pas d’imprudences, pas de simplicité (sauf Pierre Girard !) et pas même de sérieux réel. J’aime mieux les <hi>Annales</hi> tout hérissées de concept et d’ismes. On ferait pourtant une belle revue avec des Ramuz, Cingria, Girard, Simond et ses amis, vous et moi, Dami, Burckardt, Bopp, etc., dans le genre éclectique qui convient au pays. En n’écartant que les fabricants de mélasse du genre Bonifas, Perrochon, Miéville, etc., etc.</p>
+        <p>Pour l’échange avec <hi>Hermès</hi>, écrivez directement à René Baërt, 2 quai des Péniches, Bruxelles, de ma part. (Ils ne paraissent qu’une ou deux fois l’an.)</p>
+        <p>J’assiste de loin, avec un sourire sardonique, à la résurrection des vertus bourgeoises par les humanistes du Front populaire : tout y passe, Raison, Bonheur, Progrès, Richesse surtout ! C’est la fin des haricots. Ou en tout cas de « l’élite » des écrivains parisiens qui faisaient florès vers 1925.
+          <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-720-01-3.jpg/full/full/0/default.jpg" n="p. 3"/>
+           Avez-vous remarqué que le F. P. ne compte que des plus de quarante ans ? (À part un ou deux comparses.) C’est la génération faible, dilettante, vaniteuse et sans culture, qui se raccroche. Vu d’<hi>ici</hi> surtout, cela paraît si débile et confus. Songez qu’on fait <hi>Vendredi</hi> dans un monde où il y a Hitler, Staline, le Japon, le racisme africain, les formidables soulèvements physiques et spirituels que cela trahit… Et ils en sont à ronger les os que leur jette le Komintern, en se foutant d’eux d’ailleurs (il n’y a que Malraux qui le sait). Le comique de l’affaire, c’est que les « anti-fascistes » français ne se doutent pas un instant que le national-socialisme est bien plus près qu’eux du soviétisme. Vous aurez sans doute pu le soupçonner il y a trois ans. Depuis lors, cela s’est terriblement précisé. Mais de cela aussi nous reparlerons, je m’oublie à pérorer. Vous seriez gentil de me dire quelquefois ce qui se passe en Suisse, dont je ne sais rien.</p>
+        <salute>Toutes mes amitiés pour vous et votre femme, et à bientôt j’espère.</salute>
+        <signed>D. de Rougemont </signed>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19361001" when="1936-10-01">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-720-02-1.jpg/full/full/0/default.jpg" n="p. 1"/>
+        <head>1936-10-01, Denis de Rougemont à Albert Béguin</head>
+        <dateline>129, bd Masséna, Paris 13<hi rend="sup">e</hi>
+          <lb/>Le 1<hi rend="sup">er</hi> octobre 1936</dateline>
+        <salute>Cher ami,</salute>
+        <p>Quand j’ai voulu reprendre mon « <ref target="https://www.unige.ch/rougemont/articles/1936-1938/ddr193705cs">ombre perdue</ref> », je me suis aperçu que ce n’était pas publiable. Il me manquait un grand nombre de renseignements que je ne pouvais retrouver à Francfort. Puis j’ai pensé qu’il était trop tard, et ne m’en suis plus occupé cet été, le délai que vous m’indiquiez étant écoulé. Et maintenant je m’installe près de Paris dans une maison assez détachée où je dois faire un peu tous les métiers, et où je ne puis travailler au mieux avant quinze jours. Je suis fâché de rater ce numéro qui s’annonce assez bien. Mais décidément, ça tombe mal.</p>
+        <p>
+          <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-720-02-2.jpg/full/full/0/default.jpg" n="p. 2"/>
+           Je viens de passer quatre jours au congrès d’<ref target="https://www.unige.ch/rougemont/articles/espr">Esprit</ref>. <ref target="https://www.unige.ch/rougemont/articles/on">L’ON</ref> m’absorbe aussi pas mal. Nous allons fonder un mouvement d’action commun aux deux revues, et à quelques autres. Tout démarre en beauté. J’ai passé 24 heures à Ferney chez Paulding, et n’a pu vous voir, ce que je regrette vraiment beaucoup. J’ai causé un moment avec Kohler, qui vous en parlera sans doute.</p>
+        <p>Allez-vous remplacer Raymond à Bâle ? On m’a pressé de poser ma candidature, mais j’avais trop de choses à faire ici. J’ai deux livres terminés qui vont paraître, et deux autres à faire dans un délai assez court. Il faut que je travaille sérieusement.</p>
+        <p>Je reprends le plan du numéro romantique : non, personne à <hi>Hermès</hi> à part Renéville. Mais c’est désastreux qu’il n’y ait rien sur F. Schlegel ni sur Hölderlin. Si mon <ref target="https://www.unige.ch/rougemont/livres/ddr1932paysan"><hi>Paysan du Danube</hi></ref> n’avait pas paru, je vous aurais donné <ref target="https://www.unige.ch/rougemont/livres/ddr1932paysan/6">le chapitre sur Hölderlin</ref> ! Ah ! si j’avais deux mois !</p>
+        <salute>Amicalement.</salute>
+        <signed>D. de Rougemont </signed>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19370305" when="1937-03-05">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-720-03.jpg/full/full/0/default.jpg" n="p. 1"/>
+        <head>1937-03-05, Denis de Rougemont à Albert Béguin</head>
+        <dateline>La Celle-Saint-Cloud
+          <lb/>Le 5 mars 1937</dateline>
+        <salute>Cher ami,</salute>
+        <p>C’est entendu avec le <ref target="https://www.unige.ch/rougemont/articles/jg/ddr19370323jg"><hi>Journal de Genève</hi></ref>. Il prendra un article de 700 mots. J’espère pouvoir le faire pour le numéro de lundi prochain, quoique je sois accablé de travaux urgents, ayant enfin trouvé une situation à peu près convenable, mais qui me prend du temps. Je m’excuse de ce retard qui risque de vous gêner. Mais la série de 3 articles en cours de publication eût empêcher de même manière que l’article sur vous paraisse plus tôt.</p>
+        <p>J’ai presque terminé la lecture de vos livres. Je suis plein d’admiration pour la manière si sûre et juste dont vous avez traité les rapports du rêve et de la réalité. Votre attitude « classique » à l’intérieur du romantisme me fait un plaisir très particulier et personnel. Dès le chapitre sur Hamman j’ai senti que j’étais en plein accord avec vous sur le point qui m’importe avant tout, et que j’avais rapidement indiqué <ref target="https://www.unige.ch/rougemont/articles/nrf/ddr193612nrf">dans le numéro Claudel de la <hi>Nouvelle Revue française</hi></ref> et <ref target="https://www.unige.ch/rougemont/articles/1936-1938/ddr193601herm">dans <hi>Hermès</hi></ref>. Et vos traductions sont excellentes ! Dans l’ensemble, j’estime que votre thèse doit faire date dans l’évolution littéraire française : elle met au point les questions essentielles posées par le surréalisme ; et quelques autres. Et je la trouve plus substantielle que celle de Monglond.</p>
+        <p rend="i">Qui novi de re Basilea ?</p>
+        <p>J’ai été très content de vous revoir. Tenez-moi au courant de ce qui se passe en Suisse.</p>
+        <salute>Amicalement à vous.</salute>
+        <signed>D. de Rougemont</signed>
+        <p>Je ferai une note dans <hi>Esprit</hi> numéro d’avril. </p>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19390406" when="1939-04-06">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/bpun-ddr1-id1465_015.jp2/full/full/0/default.jpg" n="p. 1"/>
+        <head>1939-04-06, Albert Béguin à Denis de Rougemont</head>
+        <dateline>Paris
+          <lb/>Le 6 avril [1939]</dateline>
+        <salute>Mon cher Rougemont,</salute>
+        <p>Merci de vos lignes. Je vous réponds en hâte à la veille de quitter Paris pour le Berry (Laleuf, par <hi>St-Maur</hi>, Indre, jusqu’au 18 avril).</p>
+        <p>Mon <ref target="https://www.letempsarchives.ch/page/JDG_1939_05_26/2">papier pour le <hi>Journal de Genève</hi></ref> a été retardé par une immense fatigue, mais je l’écrirai cette semaine. Vous verrez bientôt <ref target="https://gallica.bnf.fr/ark:/12148/bd6t595176j/f3.item">une interview de moi dans les <hi>Nouvelles littéraires</hi></ref>, où j’espère qu’on aura bien reproduit ce que je disais de <ref target="https://www.unige.ch/rougemont/livres/ddr1939ao">votre livre</ref>.</p>
+        <p>Je quitte Marcel Thiébaut, qui est tout prêt à accueillir <ref target="https://www.unige.ch/rougemont/articles/rpar/ddr193908rpar">un article de vous</ref> (10 à 12 pages de revue) sur ou à propos de mon livre. Pour moi, j’en serais enchanté, et pour vous <ref target="https://www.unige.ch/rougemont/articles/rpar"><hi>La Revue de Paris</hi></ref> a cet avantage, au moins, qu’elle paie… Si donc vous voulez bien me consacrer quelques instants, ou plutôt, en partant de mon bouquin, dire ce qu’il vous plaira de dire, faites-le, et envoyez à Thiébaut. Il est très bien disposé à votre endroit.</p>
+        <p>J’espère que votre exil provincial sera bref et s’achèvera sans le versement de 20 mille francs. C’est beaucoup !</p>
+        <p>
+          <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/bpun-ddr1-id1465_016.jp2/full/full/0/default.jpg" n="p. 2"/>
+           [Illisible], à Paris, on a quelque chance de vous rencontrer. Tandis que Pardigon est un peu en dehors de mes itinéraires.</p>
+        <salute>Bien amicalement, et saluez M<hi rend="sup">me</hi> de Rougemont.</salute>
+        <signed>Béguin</signed>
+        <p>Thiébaut est très alléché par votre « Réforme ». </p>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19390521" when="1939-05-21">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/bpun-ddr1-id1465_003.jp2/full/full/0/default.jpg" n="p. 1"/>
+        <head>1939-05-21, Albert Béguin à Denis de Rougemont</head>
+        <dateline>Bâle, Feierabendstrasse 6
+          <lb/>Le 21 mai [1939]</dateline>
+        <salute>Mon cher Rougemont,</salute>
+        <p>Enfin je puis vous écrire sans trop de honte : je viens d’envoyer au <hi>Journal de Genève</hi> un article sur vous. J’ai tâché de donner une idée du livre, et de tourner mes réserves de façon à ce qu’elles puissent être comprises comme un appoint aux éloges que je ne vous ménage pas.</p>
+        <p>Ce que vous répondiez l’autre jour aux objections glissées dans une interview m’a intéressé. Cependant, cette conversation avec M<hi rend="sup">me</hi> Bouissounouse m’obligeait à une brièveté qui faussait un peu mon intention, quoique la journaliste (qui est votre admiratrice la plus enthousiaste) ait reproduit assez exactement mes dires. Pour Chrétien de Troyes, vos objections historiques n’ont pas grand poids, je crois : qu’il ait subi l’<hi>influence</hi> des troubadours, de même que les auteurs du Tristan, c’est l’évidence même. Mais, au-delà de l’influence, et <hi>toujours</hi> plus importante, il y a la différence personnelle, le ton, la couleur. Ce que je voulais dire, c’est qu’à vous lire on ne se douterait pas qu’en passant du Tristan (et même des versions les plus courtoises) aux troubadours, ou à Chrétien, on change totalement de climat. Et cela importe beaucoup. D’ailleurs, vous n’ignorez pas les vers de <hi>Cligès</hi> où Chrétien se présente, en somme, comme un anti-Tristan et condamne cet amour-là pour sa violence fatale (vers 3145 et ssqq.) :
+          <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/bpun-ddr1-id1465_004.jp2/full/full/0/default.jpg" n="p. 2"/>
+           c’est, vous vous rappelez, Fénice qui se fait enlever pour ne pas être à 2 hommes. Et la nourrice donne un <hi>breuvage</hi> à l’époux pour que F. reste vierge (le contraire du breuvage de Tristan, c’est voulu) :</p>
+        <quote>
+          <l>Mieux voudrais être démembrée
+            <lb/>Que de nous fut remembrée
+            <lb/>L’amour d’Iseut et de Tristan
+            <lb/>Dont tant de folies dit an
+            <lb/>Que honte m’est à raconter…
+            <lb/>…
+            <lb/>Amour en li trop vilene
+            <lb/>…
+            <lb/>Cette amour ne fut pas rais(onn)able
+            <lb/>Mais la moie (mienne) est toujours estable<note place="foot" resp="editor">Béguin cite ici le <hi>Cligès</hi> de Chrétien de Troyes, v. 3105-3110, 3112 et 3117-3118. Rougemont a noté en marge : « Éloge de la fidélité ». On conserve l’orthographe donnée par le critique.</note>
+            <lb/>Etc.</l>
+        </quote>
+        <p>Rien ne subsiste, dites-vous, de la légende celtique ? Rien, sinon ce qu’on sent dans Tristan, à travers le ton courtois, qui a une finalité tellement différente.</p>
+        <p>Excusez ce cours. Je n’attache qu’une importance très secondaire à ces détails et même à toute votre démonstration historique. Votre livre me semble valable en soi, comme une mise en lumière de <hi>notre</hi> situation psychologique, et — vous ne m’en voudrez pas — je pense que l’histoire ne vous est qu’un moyen de vous exprimer. Vous prenez vos personnages là, au lieu de les affubler de noms fictifs. Et je trouve cela très bien. À mon avis, vous avez même pris trop de soin de vous garantir contre les objections des Sorbonnagres. Qu’est-ce que cela peut vous faire ?</p>
+        <p>
+          <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/bpun-ddr1-id1465_005.jp2/full/full/0/default.jpg" n="p. 3"/>
+           Je n’ai pas pu, hélas, vous envoyez un papier pour <hi>Micromégas</hi>. J’ai une besogne de chiens, vous connaissez ça ! Sept conférences à préparer pour le mois de juin, tournée dans les universités allemandes et à Jena où je parlerai chez M<hi rend="sup">me</hi> Diederichs — encore une de vos admiratrices<note place="foot" resp="editor">Rougemont a souligné cette incise, et la commente de deux points d’exclamation dans la marge.</note> (elle est Française), et de plus charmante.</p>
+        <p>J’espère que je pourrais lire bientôt <ref target="https://www.unige.ch/rougemont/articles/jg/ddr19370323jg">votre article sur mon bouquin</ref> et peu après cela j’aurai à mon tour des objections à rejeter. Car c’est vrai, nous nous définissons mutuellement de façon si semblable qu’il est assez heureux que nous découvrions nos divergences. Entre gens de la même « école », comme vous dites, les oppositions deviennent fécondes.</p>
+        <salute>Mes meilleurs messages à Madame de Rougemont.</salute>
+        <salute>Bien cordialement à vous, mon cher romantico-classique</salute>
+        <salute>Votre classico-romantique</salute>
+        <signed>A. Béguin </signed>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19390704" when="1939-07-04">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-720-04.jpg/full/full/0/default.jpg" n="p. 1"/>
+        <head>1939-07-04, Denis de Rougemont à Albert Béguin</head>
+        <dateline>1 bis rue Vaneau, Paris VII<hi rend="sup">e</hi>
+          <lb/>Le 4 juillet 1939</dateline>
+        <salute>Cher ami,</salute>
+        <p>Je n’arrive pas à retrouver <ref target="https://www.letempsarchives.ch/page/JDG_1939_05_26/2/">votre article du <hi>Journal de Genève</hi></ref> pour vous en remercier congrument. Deux déménagements, des dossiers oubliés à La Celle… Je ne voulais vous écrire qu’après avoir envoyé <ref target="https://www.unige.ch/rougemont/articles/rpar/ddr193908rpar">l’article promis à Thiébaut</ref>. C’est fait. (16 pages !) Vous avez été d’une gentillesse et d’une précision admirables ! Je ne puis vous parler que de l’impression globale que me laisse le papier, mais je sais que je n’avais pas d’objections à y faire. Et que vous auriez pu m’en faire, à moi, beaucoup plus ! Vous êtes l’un des très rares qui n’ait pas profité de ma « naïveté » historique pour m’écraser à peu de frais. Vraiment, merci !!</p>
+        <p>Puisse mon article — s’il est accepté par Thiébaut — vous intéresser. J’ai digressé, à propos de votre livre, dans la direction romantisme-mysticisme → vulgarisation des deux → national-socialisme. J’y reviendrai (à propos de la mystique et du problème de <hi>l’expression de l’Indicible</hi>) dans une suite que je médite à <ref target="https://www.unige.ch/rougemont/livres/ddr1939ao"><hi>L’Amour et l’Occident</hi></ref>. Votre livre est un merveilleux excitant. Je regrette seulement les coupures : beaucoup portaient justement mes notes marginales dans la 1<hi rend="sup">re</hi> édition ! Mais c’est commode d’avoir le tout dans un format réduit.</p>
+        <p>Vous verrai-je cet été ? Serai en Suisse en septembre. Ici — chez Gide — jusqu’à fin juillet. Faites signe si vous passez.</p>
+        <salute>Très cordialement à vous.</salute>
+        <signed>D. de Rougemont </signed>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19390816" when="1939-08-16">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/bpun-ddr1-id1465_006.jp2/full/full/0/default.jpg" n="p. 1"/>
+        <head>1939-08-16, Albert Béguin à Denis de Rougemont</head>
+        <dateline>Laleuf, par Saint-Maur (Indre)
+          <lb/>Le 16 août 1939<note place="foot" resp="editor">Cette lettre a été publiée dans un numéro d’hommage à Albert Béguin de la <ref><hi>Revue de Belles-Lettres</hi></ref>, paru en novembre-décembre 1958, p. 21-23.</note></dateline>
+        <salute>Mon cher Rougemont,</salute>
+        <p>J’espère que ce mot vous parviendra, mais où ? Je viens de recevoir et de lire <ref target="https://www.unige.ch/rougemont/articles/rpar/ddr193908rpar">votre article de la <hi>Revue de Paris</hi></ref>. Il est excellent, et je vous remercie d’être parti de mon livre pour aboutir à ces belles analyses. Vous y mettez bien en lumière — non seulement dans vos dernières pages, touchant au sujet qui était nécessairement exclu de mon bouquin, mais aussi dans la première partie — les aspects essentiels du romantisme, qui sont peut-être suggérés dans mes pages, mais simplement suggérés, alors que vous leur donnez un tout autre relief. « Plus proches des mystiques que des psychanalystes », c’est bien là ce qu’il importe de dire à propos des romantiques, par simple souci de justesse, et aussi parce que les freudiens de toute sorte ont abusé de la confusion. Tout ce que vous dites de l’« expression de l’indicible » va très loin, et je crois que là vous êtes absolument à ce que Du Bos appelait un point crucial. On pourrait, à partir de là, refaire
+          <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/bpun-ddr1-id1465_007.jp2/full/full/0/default.jpg" n="p. 2"/>
+           l’histoire des littératures, et redéfinir les diverses voies de l’esprit vers ses fins. J’ai seulement un peu peur que vous n’alliez trop vite, lorsque vous concluez si présomptueusement à une « profonde identité » entre la mystique et la poésie romantique. Comme vous, je vois leurs ressemblances, leur parallélisme très étendu, et les mêmes symptômes. Mais je crains qu’en dépassant cette constatation flagrante, en concluant à l’effacement des différences, on n’oublie précisément ce qui demeure indicible, indéfinissable, dans chacune des deux expériences. Il y a un point, assez proche en somme, où l’on est bien forcé d’avouer qu’il reste une part inanalysable dans la « poésie » comme dans la « mystique ». Et il me semble que cette part-là, si nous ne pouvons la définir, nous en sentons la qualité, et que c’est cette qualité dernière qui n’est plus tout à fait la même. Nous savons bien, n’est-ce pas, que sainte Thérèse ou Novalis, ce ne sont pas seulement deux personnes originales, mais aussi que ce sont sans doute deux aventures typiquement diverses. Je m’attacherais volontiers, pour essayer d’y voir plus clair, à cette notion de <hi>passivité</hi> que vous mettez à sa juste place. Passifs l’un et l’autre devant le message surpris et l’expérience « donnée » à eux, reçue par eux, le mystique et le romantique redeviennent, à un moment
+          <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/bpun-ddr1-id1465_008.jp2/full/full/0/default.jpg" n="p. 3"/>
+           quelconque, actifs (c’est encore un parallélisme des deux « voies » que celui du « retour au jour » après la plongée nocturne. Cf. Novalis et saint Jean de la Croix). Cette <hi>activité</hi> à quoi ils sont appelés, est-ce la même ? Vous-même, après avoir montré le mystique verbeux, tenté de dire, vous avez une excellente pas sur la vocation, orientée vers cette vie-ci et vers l’action <hi>pratique</hi>. Les mystiques sont donc des fondateurs d’institutions, des bâtisseurs de murs, des législateurs de règles. Les poètes ? Leur « retour » n’est pas vers cette action-là : ils restent, si l’on veut, ou bien ils parviennent, au stade verbeux. Paradoxe inouï que le leur, puisqu’ils s’obstinent à dire leur conscience de l’impossibilité à dire. Il est vrai que le romantique échoue dans sa tentative vers l’œuvre, pour les raisons que vous dites. Mais il tend à l’œuvre, à la parole, il y voit un acte, le seul acte.</p>
+        <p>Au fait, vous marquez une distinction de ce genre, mais à mon avis vous la marquez un peu tard, après avoir trop identifié. D’ailleurs, je ne suis pas sûr que la voie de l’expérience poétique, menée dans le sens du romantisme, contienne en elle-même, comme une conséquence essentielle, cette perte de la personne que vous apercevez avec justesse. L’expérience a été tentée dans d’aussi
+          <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/bpun-ddr1-id1465_009.jp2/full/full/0/default.jpg" n="p. 4"/>
+           piteuses conditions que celle de la poésie scientifique — chère à Schmidt, et par des êtres également menacés. Il y a pourtant Novalis, qui arrive à une sorte de victoire, et pour qui « dire » a abouti à « surmonter » et à rentrer dans la vie. Il y a aussi Baudelaire, et là, peut-on dire encore qu’il n’y ait pas « œuvre », et que l’œuvre ne soit pas un « acte » ?</p>
+        <p>Ceci, simple suggestion. Ce serait à reprendre. Mais je crois, pour ma part, que la négation de la vie, que le vœu de mort, ne s’attachent qu’à une tentative « romantique » imparfaite ; qu’ils peuvent être transcendés sans que pour autant soit renié l’essentiel de l’expérience romantique. On pourrait montrer cela chez Claudel, de <hi>Tête d’or</hi>, qui est son Tristan, au <hi>Repos du septième jour</hi>, où la descente chez les <hi>morts</hi> aboutit à un merveilleux retour à la vie, — à la <hi>Cantate</hi>, ensuite, qui est une traversée de la nuit — est à la grande trilogie, qui est aussi une lumière confuse dans les ténèbres et une lumière pour ici-bas.</p>
+        <p>Je me réjouis fort de lire cette suite à <ref target="https://www.unige.ch/rougemont/livres/ddr1939ao"><hi>L’Amour et l’Occident</hi></ref> dont vous me parlez. Vous devez être content du succès de votre livre. Je regrette de ne pouvoir entendre votre <ref target="https://www.unige.ch/rougemont/livres/ddr1939nf">Nicolas de Flue</ref> en septembre.</p>
+        <p>Quand vous saurez votre adresse dites-la moi, — car je pense que La Celle<note place="foot">La Celle-Saint-Cloud, où Rougemont logeait dans une propriété de Charles Du Bos (« Charlie »), que ce dernier revint habiter peu avant sa mort en août 1939.</note> c’est fini, puisque ce pauvre Charlie, que nous prenions tous pour un malade sinon imaginaire du moins volontaire, est mort.
+          <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/bpun-ddr1-id1465_010.jp2/full/full/0/default.jpg" n="p. 5"/>
+           Qui représentera désormais la lenteur féconde, le courage d’appuyer sur les textes jusqu’à ce leur surface craque, et le courage de la solennité ?</p>
+        <p>Pour moi, je suis ici jusqu’au 15 octobre. Ensuite, à Bâle.</p>
+        <p>Merci encore de <ref target="https://www.unige.ch/rougemont/articles/rpar/ddr193908rpar">votre bel article</ref>. Vous avez raison aussi dans ce que vous dites de l’hitlérisme. J’ai passé quinze jours à faire des conférences dans le Reich en juin. Ce pays est plus malade, plus déconcerté, qu’avant Hitler. Les gens, usés, à bout de nerfs, n’ayant plus de force que pour la haine réciproque, seule unanimité sincère. Quel remède, quelle issue ? Pour moi, je ne crois possible (mais peu probable) qu’une renaissance catholique. Il n’y a que cela, ou alors la totale anarchie en une suite de régimes policiers à programmes délirants.</p>
+        <salute>Mes compliments à votre femme. Et bien amicalement à vous.</salute>
+        <signed>Albert Béguin </signed>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19391103" when="1939-11-03">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-720-05.jpg/full/full/0/default.jpg" n="p. 1"/>
+        <head>1939-11-03, Denis de Rougemont à Albert Béguin</head>
+        <dateline>Lt de Rougemont
+          <lb/>Cp. Fus. III/20, <hi>Poste de campagne</hi>
+          <lb/>Le 3 novembre 1939</dateline>
+        <salute>Cher ami,</salute>
+        <p>Je parlerai volontiers à Bâle au début de janvier 1940 — si je ne suis plus mobilisé, ou si je puis obtenir un congé. En décembre, c’est difficile. J’ai un congé du 12 au 26 novembre, pour aller parler 15 fois, en Hollande. Puis des offres pour Zurich, Lausanne et Genève, tôt après. J’ignore si tout cela pourra se faire. Pour le moment, je suis immobilisé par un bête d’accident (genou distordu) et prépare mes conférences hollandaises. L’une d’elles pourrait être redite à Bâle. Sujets possibles : <ref target="https://www.unige.ch/rougemont/articles/cp/ddr194001cp"><hi>La bataille de la culture</hi></ref>, <hi>L’amour et la guerre</hi>, <hi>Le prochain</hi>.</p>
+        <p>Le service anesthésie l’intellect. On se laisse glisser dans le quotidien le plus élémentaire. Temps perdu… Ce serait bien de revoir Bâle, de se réveiller un peu.</p>
+        <salute>Bien amicalement à vous.</salute>
+        <signed>D. de Rougemont. </signed>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19391128" when="1939-11-28">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-720-06-1.jpg/full/full/0/default.jpg" n="p. 1"/>
+        <head>1939-11-28, Denis de Rougemont à Albert Béguin</head>
+        <dateline>Adjudance générale de l’armée
+          <lb/>Sektion <hi>Heer &amp; Haus</hi>, Berne
+          <lb/>Le 28 novembre 1939</dateline>
+        <salute>Cher ami,</salute>
+        <p>Rentré hier soir seulement de Hollande, je trouve votre lettre du 8 ! C’est consternant ! Pour qui m’avez-vous pris ! J’aurais très bien pu parler demain soir à Bâle, mais c’est trop tard pour l’annoncer. On n’a pas fait suivre mon courrier par suite de divers malentendus et votre lettre a été se balader dans le Jura avant de venir ici — où j’ai été transféré avant mon départ pour Rotterdam. Il nous faut donc remettre à janvier je pense ? À moins que ça ne puisse s’arranger pour un jour de la 1<hi rend="sup">re</hi> quinzaine de décembre ?</p>
+        <p>Mes « conditions » sont d’ordinaire de 200 fr. plus les frais de déplacement. Mais depuis que je vis en Suisse et vois les dépenses fabuleuses que l’on fait pour des stupidités, je suis enclin à exiger davantage toutes les fois qu’une organisation <hi>peut</hi> le faire, de notoriété publique. Voudriez-vous proposer de ma part
+          <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-720-06-2.jpg/full/full/0/default.jpg" n="p. 2"/>
+           250 fr. pour cette conférence ? Je sais qu’il y a quelques années, on donnait facilement 500 fr. à Zurich. Depuis la crise, c’est tombé de moitié. Enfin, voyez cela et défendez un peu mes intérêts, au nom de la corporation. S’ils offrent <hi>d’ordinaire</hi> davantage, je ne ferai pas la petite bouche.</p>
+        <p>Sujet : j’ai une conférence sur <hi>Le Roman de l’Europe</hi>, synthèse <hi>facile</hi> de <ref target="https://www.unige.ch/rougemont/livres/ddr1939ao"><hi>L’Amour et l’Occident</hi></ref>. Très « conférence ». Je l’ai faite entre autres à La Haye, devant un public qui doit ressembler à celui de Bâle (280 personnes et le ministre de France, mais dormant) et ça a très bien marché. Je préférais cela à <hi>l’amour et la guerre</hi>, un peu — délicat. Ça se recouvre en partie d’ailleurs. Mon autre sujet hollandais : <ref target="https://www.unige.ch/rougemont/articles/cp/ddr194001cp"><hi>La bataille de la culture</hi></ref>. (Thèses de <ref target="https://www.unige.ch/rougemont/livres/ddr1936pm"><hi>Penser avec les mains</hi></ref>.) Plus évidemment actuel, mais sévère… On me la demande au Lesezirkel de Zurich.</p>
+        <p>C’est bien, la Hollande. Je vous en parlerai. Un pays solide et actif. Vu Huizinga, très remarquable.</p>
+        <p>À bientôt donc ? Écrivez-moi provisoirement à l’adresse [de] dessus, en attendant que j’aie trouvé ici un appartement.</p>
+        <salute>Bien amicalement à vous.</salute>
+        <signed>D. de Rougemont</signed>
+        <p> </p>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-1939" when="1939">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-720-12-1.jpg/full/full/0/default.jpg" n="p. 1"/>
+        <head>1939, Denis de Rougemont à Albert Béguin</head>
+        <dateline>Berne, vendredi [1939]</dateline>
+        <p>Je ne trouve qu’une seule unité à vous indiquer pour <hi>L’Illustration</hi> : Cp. Fus. III/20 <hi>en campagne</hi>. Mais à Genève on vous donnera d’autres adresses, certainement.</p>
+        <p>Relisez <ref target="https://www.unige.ch/rougemont/livres/ddr1932paysan/5">les pages de mon <hi>Paysan du Danube</hi> sur Debrecen</ref> pour pouvoir me dire si c’est encore juste, et <ref target="https://www.unige.ch/rougemont/livres/ddr1932paysan/5">celles sur le Rózsadomb de Budapest</ref>, pour ne point oublier d’y aller. Et voyez à Budapest mon ami Albert Gyergyai-Szegoe, collège Eötvös, Ménesi-ut 11-13. Dites-lui que je pense à lui et qu’il aura de mes nouvelles s’il vous en donne des siennes pour moi.</p>
+        <p>Je crève de jalousie en vous
+          <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-720-12-2.jpg/full/full/0/default.jpg" n="p. 2"/>
+           voyant partir pour l’une de mes patries les plus secrètement aimées — paradis perdus, je le crains.</p>
+        <salute>Amitiés.</salute>
+        <signed>D. de Rougemont </signed>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19400102" when="1940-01-02">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-720-07.jpg/full/full/0/default.jpg" n="p. 1"/>
+        <head>1940-01-02, Denis de Rougemont à Albert Béguin</head>
+        <dateline>61 Kramgasse Berne
+          <lb/>Le 2 janvier 1940</dateline>
+        <salute>Cher ami,</salute>
+        <p>J’ai reçu une aimable lettre de Madame Grossmann-Simon, qui m’attend pour le 26 janvier et me logera. Silence pudique quant aux « conditions ». J’admets donc qu’elles sont acceptées au maximum, soit 250 fr. Mais peut-être serait-il prudent que vous vous assuriez de la chose incidemment ? Vous me rendriez service. Je m’attends aux surprises les plus désagréables dans ce domaine. Lausanne m’avait promis 200 et 50 % du bénéf. Et ne m’a donné que 150 en tout, bien qu’il y eût 200 auditeurs payants — et contents. L’écrivain en Suisse est un peu moins qu’un balayeur, socialement, mais on exige qu’il soit poli.</p>
+        <p>Comme je dois parler à Tavannes le 28 janvier, avec Barth, je compte passer la journée du 27 à Bâle, et vous voir. Tâchez de réserver un moment.</p>
+        <p>Si vous connaissez de beaux textes « patriotiques » romands, envoyez-m’en : je dois composer un petit « bréviaire suisse » à l’usage des troupes…</p>
+        <salute>À bientôt et bons vœux !</salute>
+        <signed>D. de Rougemont </signed>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19460410" when="1946-04-10">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/bpun-ddr1-id1465_011.jp2/full/full/0/default.jpg" n="p. 1"/>
+        <head>1946-04-10, Albert Béguin à Denis de Rougemont</head>
+        <dateline>Paris XVI<hi rend="sup">e</hi>
+          <lb/>32 rue Duret
+          <lb/>Le 10 avril 1946</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Julien Green, l’autre jour, me signalait votre passage parisien, mais je n’ai pas su où vous saisir. Quand vous reviendrez, ne manquez pas de me faire signe.</p>
+        <p>De Bâle, on me demande mon avis sur votre éventuelle candidature à ma succession. Mon avis, vous vous en doutez, sera favorable. Mais j’aimerais savoir si vous <hi>désirez</hi> aller à Bâle, ou si c’est Bâle qui vous désire (et dans ce cas, ce que vous en pensez). Car, selon votre vœu, je mettrai plus ou moins d’ardeur à vaincre les obstacles (titres universitaires, etc.) que certains susciteront. Et si ce n’est pas un désir à vous d’aller enseigner là-bas, je ne voudrais pas compromettre, en vous soutenant en vain, d’autres solutions qui étaient les miennes jusqu’ici — et que j’abandonnerais en votre faveur, mais point au profit d’autres éventualités.</p>
+        <p>Ceci dit, j’ai hâte de savoir qui vous êtes devenus durant ces années.</p>
+        <salute>Et je vous serre la main.</salute>
+        <signed>Albert Béguin </signed>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19460415" when="1946-04-15">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-720-08.jpg/full/full/0/default.jpg" n="p. 1"/>
+        <head>1946-04-15, Denis de Rougemont à Albert Béguin</head>
+        <dateline>Areuse/Neuchâtel
+          <lb/>Le 15 avril 1946</dateline>
+        <salute>Cher ami,</salute>
+        <p>Je ne savais pas que vous étiez déjà à Paris, sinon j’aurais essayé de vous joindre pendant les 3 jours que j’y ai passés. Mais c’est partie remise car je compte y passer les mois de mai et juin. Ceci n’est qu’un mot rapide, avant de reprendre vraiment contact, pour répondre à vos questions concernant Bâle. Non, je n’ai pas posé ma candidature, et ne la poserai pas pour plusieurs raisons, dont la plus décisive est que j’ai un contrat avec une fondation américaine, qui m’empêche pendant deux ou trois ans encore d’occuper aucun poste régulier. Je vous autorise à répondre cela de ma part, si besoin est, et je souhaite bonne chance à votre successeur.</p>
+        <p>À très bientôt donc, j’aurai des masses de choses à vous dire, et je vous félicite en attendant, de grand cœur, pour vos <hi>Cahiers du Rhône</hi> que je trouve épatants !</p>
+        <p>Bonnes amitiés pour vous et pour Raymonde Vincent.</p>
+        <signed>Denis de Rougemont </signed>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19460417" when="1946-04-17">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/bpun-ddr1-id1465_012.jp2/full/full/0/default.jpg" n="p. 1"/>
+        <head>1946-04-17, Albert Béguin à Denis de Rougemont</head>
+        <dateline>Paris XVI<hi rend="sup">e</hi>
+          <lb/>32 rue Duret
+          <lb/>Le 17 avril 1946</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Merci de votre mot. J’enregistre votre intention de ne pas accepter ma succession (je ne vous la souhaitais qu’à moitié, puisque je ne me la souhaite pas à moi-même).</p>
+        <p>Je suis content de vous savoir dans un rayon accessible, et me réjouis de vous voir bientôt à Paris. Content aussi que mes <hi>Cahiers du Rhône</hi> trouvent votre agrément. Il leur manque pourtant quelque chose, et j’espère que cette lacune est réparable encore. Cela dépend de vous, puisque je veux dire qu’il est nécessaire à leur santé que quelque ouvrage de vous s’habille de leur couverture. Pensez-y sérieusement, et examinez cela avec votre voisin et éditeur Hauser, que vous verrez sans doute. Je vous parlerai de mes prochains cahiers collectifs (sur la liberté, sur le langage) et vous demanderai de vous asseoir à l’un de ces conviviums. Mais je ne serai comblé que quand vous signerez un volume de la collection.</p>
+        <salute>À bientôt, et croyez-moi votre</salute>
+        <signed>Albert Béguin </signed>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19460515" when="1946-05-15">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-720-11.jpg/full/full/0/default.jpg" n="p. 1"/>
+        <head>1946-05-15, Denis de Rougemont à Albert Béguin</head>
+        <dateline>Hôtel du Palais d’Orsay
+          <lb/>9, quai d’Orsay
+          <lb/>Lit 59-04</dateline>
+        <dateline>Le 15 mai [1946]</dateline>
+        <salute>Cher ami,</salute>
+        <p>Je ne trouve pas votre numéro de téléphone, et je n’ai pas d’encre, mais voudrais vous voir. On m’a pris que vous étiez très près de votre départ pour la Suisse. J’espère ne pas arriver trop tard ?</p>
+        <p>Voulez-vous me téléphoner entre 10 et 11 le matin ?</p>
+        <salute>À un de ces jours, j’espère.</salute>
+        <signed>D. de Rougemont</signed>
+        <p> </p>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19460708" when="1946-07-08">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-720-10.jpg/full/full/0/default.jpg" n="p. 1"/>
+        <head>1946-07-08, Denis de Rougemont à Albert Béguin</head>
+        <dateline>5 rue Corneille
+          <lb/>Littré 08.07</dateline>
+        <dateline>Mardi [8 juillet 1946]</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Je vous en prie, ne me prenez pas pour un vulgaire lâcheur, je ne suis pas si Parisien… Les deux jours que je vous avais dit, ont été pris d’assaut par des gens de passage ici — puis j’ai eu une de ces écœurantes histoire de ce que vous pensez, qui vous rendent inaptes à la vie sociale — ah les femmes ! —, puis un tas de travaux urgents dont je ne viens pas à bout. Je ne pourrai savoir pour demain matin si j’ai le temps de faire le voyage de Versailles. Si oui, je vous téléphone pour que nous y allions ensemble — ou bien vous me téléphonez si vous n’êtes pas à votre hôtel vers 1 heure.</p>
+        <p>Peut-être que j’irai me « changer les idées » à la Coupole ce soir vers 11 heures, je serais content de vous y trouver. Pardonnez-moi et croyez-moi cordialement à vous</p>
+        <signed>Denis de Rougemont </signed>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19461009" when="1946-10-09">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-1850.jpg/full/full/0/default.jpg" n="p. 1"/>
+        <head>1946-10-09, Denis de Rougemont à Albert Béguin</head>
+        <dateline>Areuse/Neuchâtel
+          <lb/>Le 9 octobre 1946</dateline>
+        <salute>Cher ami,</salute>
+        <p>Un mot seulement pour vous dire que je n’ai pas oublié ma promesse d’un texte pour votre <hi>Cahier</hi> sur le langage. J’attends seulement pour vous l’envoyer qu’on me l’expédie d’Amérique, car il se trouve que je n’en ai plus de copie. Serait-ce assez tôt que je vous l’apporte à Paris dans une dizaine de jours ?</p>
+        <p>Au sujet de l’introduction à Claudel, décidément non, j’ai déjà quatre volumes à terminer, et ce serait de la folie furieuse de prendre le moindre engagement en plus.</p>
+        <p>Je compte passer une quinzaine de jours à Paris, et vous donne rendez-vous d’avance au bar du Pont-Royal que j’imagine que vous fréquentez toujours ?</p>
+        <salute>Bien cordialement vôtre</salute>
+        <signed>Denis de Rougemont </signed>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19461016" when="1946-10-16">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/bpun-ddr1-id4968_001.jp2/full/full/0/default.jpg" n="p. 1"/>
+        <head>1946-10-16, Albert Béguin à Denis de Rougemont</head>
+        <dateline>Paris XVI<hi rend="sup">e</hi>
+          <lb/>32 rue Duret
+          <lb/>Le 16 octobre 1946</dateline>
+        <salute>Mon cher ami,</salute>
+        <p>Merci de votre mot. Je compte donc sur votre texte pour mon cahier sur le langage. Vous me trouverez à Paris jusqu’à la fin du mois, et m’atteindrez à l’Hôtel du Pont-Royal, où loge une partie de ma famille. Je pars le 1<hi rend="sup">er</hi> novembre pour Bâle et l’Allemagne.</p>
+        <p>Vous n’êtes pas le dernier pour ce cahier, je n’ai encore qu’une faible partie des contributions promises.</p>
+        <p>Je viens de lire vos <ref target="https://www.unige.ch/rougemont/livres/ddr1946lba1"><hi>Lettres sur la bombe</hi></ref>, et j’en parlerai bientôt, avec les éloges qu’elles me paraissent mériter, et certaines réserves que je ne précise pas encore, mais qui s’agitent en moi et demandent à s’exprimer…</p>
+        <salute>Croyez-moi votre</salute>
+        <signed>Albert Béguin </signed>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19461029" when="1946-10-29">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-720-09.jpg/full/full/0/default.jpg" n="p. 1"/>
+        <head>1946-10-29, Denis de Rougemont à Albert Béguin</head>
+        <dateline>Areuse/Neuchâtel
+          <lb/>Le 29 octobre 1946</dateline>
+        <salute>Cher ami,</salute>
+        <p>Voici mon texte sur le langage, que je viens de recevoir d’Amérique. J’espère que vous l’aurez avant votre départ pour l’Allemagne.</p>
+        <p>Si vous avez déjà fait l’article dont vous me parlez sur la <ref target="https://www.unige.ch/rougemont/livres/ddr1946lba1"><hi>Bombe atomique</hi></ref>, je vous serais très reconnaissant de me le faire envoyer, car j’ignore tout de l’accueil réservé à ce petit livre jusqu’ici, à part les quelques mots d’André Breton dans le <hi>Littéraire</hi>.</p>
+        <p>Jusqu’à quand restez-vous en Allemagne ? Je compte être à Paris la semaine prochaine, peut-être jusqu’à la fin du mois.</p>
+        <salute>Amicalement.</salute>
+        <signed>D. de Rougemont </signed>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19500519" when="1950-05-19">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/bpun-ddr1-id1465_013.jp2/full/full/0/default.jpg" n="p.1"/>
+        <head>1950-05-19, Albert Béguin à Denis de Rougemont</head>
+        <dateline>Paris, le 19 mai 1950</dateline>
+        <salute>Cher ami,</salute>
+        <p>La circulaire que nous vous envoyons ci-joint vous mettra au courant de nos projets. Nous comptons vivement que vous pourrez répondre à cet appel dont il est inutile de souligner l’importance étant donné les liens qui vous ont attaché à Emmanuel Mounier et à <ref target="https://www.unige.ch/rougemont/articles/espr"><hi>Esprit</hi></ref>.</p>
+        <salute>Croyez, cher ami, à l’assurance de nos meilleurs sentiments.</salute>
+        <signed>Albert Béguin</signed>
+        <p>Je compte beaucoup sur vous, et si vous passiez par Paris, serais content de vous voir.</p>
+        <signed>A. B.</signed>
+        <p>
+          <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/bpun-ddr1-id1465_017.jp2/full/full/0/default.jpg" n="p. 2"/>
+          <hi>Numéro Mounier</hi>
+        </p>
+        <p>Une première note vous a été adressée, par laquelle nous vous demandions votre témoignage, vos souvenirs ou vos suggestions pour le numéro consacré à Mounier.</p>
+        <p>La rédaction de cette note ayant pu prêter à des confusions, nous en précisons aujourd’hui les points essentiels.</p>
+        <p>Ce que nous attendons de tous ceux qui ont approché Mounier à différents moments de sa vie, est de deux ordres :</p>
+        <p>1° <hi>des notes</hi>, même non rédigées, précisant tous les faits connus de vous qui peuvent être utiles à celui qui rédigera un aperçu biographique. En particulier : actes importants de Mounier, son comportement à telle ou telle occasion, les personnes qui l’entouraient à ces dates ou qu’il a rencontrées, etc.</p>
+        <p>2° <hi>des textes</hi> plus développés, sur tel point qui vous semble capital, textes qui seraient publiés comme tels ou insérés par larges parties dans le récit biographique.</p>
+        <p>Il nous paraît que votre témoignage pourrait être particulièrement précieux sur :</p>
+        <p>Rapports <ref target="https://www.unige.ch/rougemont/articles/espr">Esprit</ref>-<ref target="https://www.unige.ch/rougemont/articles/on">Ordre nouveau</ref></p>
+        <p>Mais <hi>le temps presse</hi>. Ne tardez pas à nous répondre.</p>
+        <p>Le ralentissement inévitable de l’été nous contraint à rassembler toute la documentation avant le <hi>15 juillet</hi>, si nous voulons paraître en octobre.</p>
+        <signed>Albert Béguin.</signed>
+        <p><hi>N.B.</hi> Pour la bibliographie de Mounier, nous cherchons l’indication de <hi>tous les articles</hi> qu’il a publiés <hi>ailleurs qu’à</hi> <ref target="https://www.unige.ch/rougemont/articles/espr"><hi>Esprit</hi></ref>. Pouvez-vous nous aider à les retrouver pour la période où vous avez suivi de plus près son activité ? </p>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19501109" when="1950-11-09">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-2120-1.jpg/full/full/0/default.jpg" n="p. 1"/>
+        <head>1950-11-09, Denis de Rougemont à Albert Béguin</head>
+        <dateline>Ferney
+          <lb/>Le 9 novembre 1950</dateline>
+        <salute>Cher ami,</salute>
+        <p>Je suis vraiment triste de rien vous voir envoyé pour le numéro d’<ref target="https://www.unige.ch/rougemont/articles/espr"><hi>Esprit</hi></ref> sur Mounier. Le fait est que je n’ai pas <hi>pu</hi>. J’ai une grande quantité de lettres de Mounier, je sais où, mais aucun moyen de les récupérer avant plusieurs mois. Vous me demandiez des notes sur les rapports <ref target="https://www.unige.ch/rougemont/articles/espr">Esprit</ref>-<ref target="https://www.unige.ch/rougemont/articles/on">Ordre nouveau</ref>. Je n’ai même plus les numéros des deux revues où je pourrais rafraîchir et documenter ma mémoire. Tout s’est perdu à Paris pendant la guerre. D’ailleurs ces rapports étaient assez tendus. Mounier nous considérait comme des doctrinaires rigides du personnalisme ; à <ref target="https://www.unige.ch/rougemont/articles/on">l’Ordre nouveau</ref> on le considérait comme trop souple, comme l’homme des distinctions et des nuances plus que de l’action (au sens où nous entendions ce mot). Double injustice, sans doute, qui n’excluait pas le travail en commun à <ref target="https://www.unige.ch/rougemont/articles/espr">Esprit</ref>, dès le 1<hi rend="sup">er</hi> numéro. J’ai été le seul de <ref target="https://www.unige.ch/rougemont/articles/on">l’Ordre nouveau</ref>, cependant, à faire vraiment partie de l’équipe de direction d’<ref target="https://www.unige.ch/rougemont/articles/espr">Esprit</ref> de 1933 à 1938, sauf erreur.</p>
+        <p>C’est sans doute à cela qu’il faut attribuer le fait que dans son dernier petit livre
+          <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/AB-102-2120-2.jpg/full/full/0/default.jpg" n="p. 2"/>
+           sur <hi>Le Personnalisme</hi>, Mounier ait réduit à presque rien la part de <ref target="https://www.unige.ch/rougemont/articles/on">l’Ordre nouveau</ref> (Dandieu, Aron, Marc et moi) dans l’édification de la doctrine personnaliste. Cela m’avait peiné, et puis il nous a quittés avant que j’aie pu lui en parler.</p>
+        <p>Après la guerre, à mon retour des US en 1946, je ne me suis plus retrouvé chez moi à <ref target="https://www.unige.ch/rougemont/articles/espr"><hi>Esprit</hi></ref>. Je disais du bien et du mal des US. Le bien semblait mal vu. On a écrit dans la revue que j’avais été « faire carrière » là-bas, « comme Bernstein et Charles Boyer »… Je n’aime la polémique dans le plan des idées. Je me suis tu. <ref target="https://www.unige.ch/rougemont/articles/espr"><hi>Esprit</hi></ref> avait été pour moi la revue du personnalisme. Je n’ai pas le préjugé de la gauche-à-tout-pris, et je ne pense pas du tout que le stalinisme soit de gauche. Je suis resté personnaliste, la revue allait ailleurs. Si elle en revient, nous nous retrouverons.</p>
+        <p>Tout cela — le défaut de documents, le malaise évident dans mes relations avec la revue, trop de silences — que je me reproche — a fait que je ne suis pas arrivé à écrire ce que vous me demandiez. Pour ne rien dire du manque de temps, excuse heureuse. Et de circonstances personnelles.</p>
+        <p>Je voulais simplement vous dire que mon abstention me chagrine, et ne résulte pas d’une décision de me taire ou de quelque incroyable négligence. J’ai essayé de vous joindre à Paris, lors de mon dernier passage, en septembre ou octobre, vous étiez absent, m’a-t-on dit à la revue. Peut-être repasserai-je en décembre.</p>
+        <salute>Bien cordialement.</salute>
+        <signed>D. de Rougemont </signed>
+      </div>
+      <div type="letter" xml:id="ddr-beguin-19501114" when="1950-11-14">
+        <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ddr-corr-beguin/bpun-ddr1-id1465_014.jp2/full/full/0/default.jpg" n="p. 1"/>
+        <head>1950-11-14, Albert Béguin à Denis de Rougemont</head>
+        <dateline>Le 14 novembre 1950</dateline>
+        <salute>Cher ami,</salute>
+        <p>Merci de votre lettre. Je regrette que vous n’ayez rien pu me donner pour le numéro Mounier, qui va paraître le 1<hi rend="sup">er</hi> décembre. Je n’ai pas insisté sur les rapports avec <ref target="https://www.unige.ch/rougemont/articles/on">l’O.N.</ref>, ayant finalement composé beaucoup plus une histoire intérieure de la vocation de notre ami qu’une histoire d’<ref target="https://www.unige.ch/rougemont/articles/espr"><hi>Esprit</hi></ref>. Les documents en ma possession m’y menaient naturellement, ainsi que mon inclination personnelle. Car <ref target="https://www.unige.ch/rougemont/articles/espr"><hi>Esprit</hi></ref> n’a pas, Dieu merci, à faire sa propre histoire quand l’histoire en cours ne cesse de nous requérir.</p>
+        <p>J’ai regretté de vous avoir manqué : vous êtes passé à la revue lorsque j’étais à Londres. Et j’espère vous voir en décembre.</p>
+        <salute>Amicalement.</salute>
+        <signed>Albert Béguin</signed>
+      </div>
+    </body>
+  </text>
+</TEI>
