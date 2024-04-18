@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="letter" xml:id="ddr-corbin-1931">
+      <div type="letter" xml:id="ddr-corbin-19310000" when="1931">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_003.jpg/full/full/0/default.jpg"/>
         <head>1931, Denis de Rougemont à Henry Corbin</head>
         <dateline>132 av. de Clamart
@@ -46,7 +46,7 @@
         <p>P.-S. Si vous êtes empêché, voulez-vous me donner un autre rendez-vous jeudi ou vendredi ?</p>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-1931b">
+      <div type="letter" xml:id="ddr-corbin-19310000b" when="1932">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_004.jpg/full/full/0/default.jpg"/>
         <head>1931, Denis de Rougemont à Henry Corbin</head>
         <dateline>Mardi après-midi
@@ -61,7 +61,7 @@
         <p>P.-S. Demandez donc à Groethuysen s’il a traduit d’autres Kassner, et si les droits sont difficiles à obtenir, ou onéreux. Cela nous rendrait service. Merci.</p>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19331028">
+      <div type="letter" xml:id="ddr-corbin-19331028" when="1933-10-28">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_005.jpg/full/full/0/default.jpg"/>
         <head>1933-10-28, Denis de Rougemont à Henry Corbin</head>
         <dateline>Les Portes (île de Ré)
@@ -77,7 +77,7 @@
         <salute>Toutes nos amitiés pour toi et Stella. Écris-moi bientôt !</salute>
         <signed>D. de Rougemont</signed>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19331107">
+      <div type="letter" xml:id="ddr-corbin-19331107" when="1933-11-07">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/complements-corr-corbin/bpun-ddr1-id3086_005.jp2/full/full/0/default.jpg"/>
         <head>1933-11-07, Henry Corbin à Denis de Rougemont</head>
         <dateline>19, rue de l’Odéon, VI<hi rend="sup">e</hi>
@@ -110,7 +110,7 @@
         <salute>À quand ? — À toi du fond du cœur.</salute>
         <signed>Henry Corbin</signed>
       </div>
-      <div type="letter" xml:id="ddr-corbin-193311">
+      <div type="letter" xml:id="ddr-corbin-19331100" when="1933-11">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_007.jpg/full/full/0/default.jpg"/>
         <head>1933-11, Denis de Rougemont à Henry Corbin</head>
         <dateline>Les Portes-en-Ré
@@ -123,7 +123,7 @@
         <salute>Je te serre la pince affectueusement.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19340301">
+      <div type="letter" xml:id="ddr-corbin-19340301" when="1934-03-01">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_008.jpg/full/full/0/default.jpg"/>
         <head>1934-03-01, Denis de Rougemont à Henry Corbin</head>
         <dateline>En route pour la Vendée
@@ -140,7 +140,7 @@
         <signed>D. de Rgt</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19340319">
+      <div type="letter" xml:id="ddr-corbin-19340319" when="1934-03-19">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_012.jpg/full/full/0/default.jpg"/>
         <head>1934-03-19, Denis de Rougemont à Henry Corbin</head>
         <dateline>Les Portes
@@ -152,7 +152,7 @@
         <salute>Amitiés.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19340713">
+      <div type="letter" xml:id="ddr-corbin-19340713" when="1934-07-13">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_014.jpg/full/full/0/default.jpg"/>
         <head>1934-07-13, Denis de Rougemont à Henry Corbin</head>
         <dateline>Les Portes-en-Ré
@@ -174,7 +174,7 @@
         <p>Combien y a-t-il de réabonnements ?</p>
         <p>Il faudra envoyer le n° 7 à tous les anciens, et on mettra une formule de paiement dans le 8.</p>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19341021">
+      <div type="letter" xml:id="ddr-corbin-19341021" when="1934-10-21">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_016.jpg/full/full/0/default.jpg"/>
         <head>1934-10-21, Denis de Rougemont à Henry Corbin</head>
         <dateline>Anduze (Gard)
@@ -189,7 +189,7 @@
         <signed>Denis de Rougemont</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19341121">
+      <div type="letter" xml:id="ddr-corbin-19341121" when="1934-11-21">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_018.jpg/full/full/0/default.jpg"/>
         <head>1934-11-21, Denis de Rougemont à Henry Corbin</head>
         <dateline>Anduze (Gard)
@@ -216,7 +216,7 @@
         <signed>Denis</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19350331">
+      <div type="letter" xml:id="ddr-corbin-19350331" when="1935-03-31">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_020.jpg/full/full/0/default.jpg"/>
         <head>1935-03-31, Denis de Rougemont à Henry Corbin</head>
         <dateline>Anduze (Gard)
@@ -231,7 +231,7 @@
         <salute>Réfléchis à ma proposition et parles-en à Schmidt dès que tu pourras. Et écris-moi bientôt, pour me réconforter dans ma détresse rédactoriale et dans mon amitié fidèle.</salute>
         <signed>Denis de Rougemont</signed>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19361225">
+      <div type="letter" xml:id="ddr-corbin-19361225" when="1936-12-25">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_022.jpg/full/full/0/default.jpg"/>
         <head>1936-12-25, Denis de Rougemont à Henry Corbin</head>
         <dateline>Noël 1936</dateline>
@@ -242,7 +242,7 @@
         <signed>Denis de Rgt</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-193809">
+      <div type="letter" xml:id="ddr-corbin-19380900" when="1938-09">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_002.jpg/full/full/0/default.jpg"/>
         <head>1938-09, Denis et Simonne de Rougemont à Henry et Stella Corbin</head>
         <dateline>[Venise, septembre 1938]</dateline>
@@ -253,7 +253,7 @@
         <signed>Denis et Cigogne de Rougemont</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19381228">
+      <div type="letter" xml:id="ddr-corbin-19381228" when="1938-12-28">
         <pb n="p. " facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_023.jpg/full/full/0/default.jpg"/>
         <head>1938-12-28, Denis et Simonne de Rougemont à Henry et Stella Corbin</head>
         <dateline>La Celle
@@ -266,7 +266,7 @@
         <signed>Denis &amp; Cigogne</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19390320">
+      <div type="letter" xml:id="ddr-corbin-19390320" when="1939-03-20">
         <pb n="p. " facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_026.jpg/full/full/0/default.jpg"/>
         <head>1939-03-20, Denis de Rougemont à Henry Corbin</head>
         <dateline>La Celle
@@ -280,7 +280,7 @@
         <signed>D. de Rougemont</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19390328">
+      <div type="letter" xml:id="ddr-corbin-19390328" when="1939-03-28">
         <pb n="p. " facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/complements-corr-corbin/bpun-ddr1-id0061_011.jp2/full/full/0/default.jpg"/>
         <head>1939-03-28, Henry Corbin à Denis de Rougemont</head>
         <dateline>Le 28 mars 1939<note place="bottom">Cette carte porte l’adresse tracée « Monsieur / Denis de Rougemont / La Petite Chataignerie / <hi rend="u">La Celle-St-Cloud</hi> », réorientée vers « <hi rend="u">Areuse</hi> / <hi rend="u">Neuchâtel</hi> / <hi rend="u">Suisse</hi> ».</note></dateline>
@@ -292,7 +292,7 @@
         <signed>Henry Corbin</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19390403">
+      <div type="letter" xml:id="ddr-corbin-19390403" when="1939-04-03">
         <pb n="p. " facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_024.jpg/full/full/0/default.jpg"/>
         <head>1939-04-03, Denis de Rougemont à Henry Corbin</head>
         <dateline>La Petite Bastide
@@ -307,7 +307,7 @@
         <signed>D. de Rougemont</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19390414">
+      <div type="letter" xml:id="ddr-corbin-19390414" when="1939-04-14">
         <pb n="p. " facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_027.jpg/full/full/0/default.jpg"/>
         <head>1939-04-14, Denis de Rougemont à Henry Corbin</head>
         <dateline>Cavalaire (Var)
@@ -320,7 +320,7 @@
         <signed>D. de Rougemont</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19390803">
+      <div type="letter" xml:id="ddr-corbin-19390803" when="1939-08-03">
         <pb n="p. " facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_028.jpg/full/full/0/default.jpg"/>
         <head>1939-08-03, Denis de Rougemont à Henry Corbin</head>
         <dateline>Areuse (Neuchâtel)
@@ -338,7 +338,7 @@
         <signed>D. de Rougemont</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19400331">
+      <div type="letter" xml:id="ddr-corbin-19400331" when="1940-03-31">
         <pb n="p. " facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_031.jpg/full/full/0/default.jpg"/>
         <head>1940-03-31, Denis de Rougemont à Henry Corbin</head>
         <dateline>61 Kramgasse <emph>Berne</emph>
@@ -355,7 +355,7 @@
         <signed>Denis de Rougemont</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19400420">
+      <div type="letter" xml:id="ddr-corbin-19400420" when="1940-04-20">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1650_corbin-henry-ddr/bpun-ddr1-id1650_001.jp2/full/full/0/default.jpg"/>
         <head>1940-04-20, Henry Corbin à Denis de Rougemont</head>
         <dateline>Institut français d’archéologie
@@ -378,7 +378,7 @@
         <signed>Henry Corbin</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19460903">
+      <div type="letter" xml:id="ddr-corbin-19460903" when="1946-09-03">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1650_corbin-henry-ddr/bpun-ddr1-id1650_005.jp2/full/full/0/default.jpg"/>
         <head>1946-09-03, Henry Corbin à Denis de Rougemont</head>
         <dateline>19, rue de l’Odéon
@@ -392,7 +392,7 @@
         <signed>Henry Corbin</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19460921">
+      <div type="letter" xml:id="ddr-corbin-19460921" when="1946-09-21">
         <pb n="p. " facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_033.jpg/full/full/0/default.jpg"/>
         <head>1946-09-21, Denis de Rougemont à Henry Corbin</head>
         <dateline>Areuse (Neuchâtel)
@@ -405,7 +405,7 @@
         <signed>Denis de Rgt.</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19461029">
+      <div type="letter" xml:id="ddr-corbin-19461029" when="1946-10-29">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1650_corbin-henry-ddr/bpun-ddr1-id1650_008.jp2/full/full/0/default.jpg"/>
         <head>1946-10-29, Henry Corbin à Denis de Rougemont</head>
         <dateline>19 Rue de l’Odéon
@@ -417,7 +417,7 @@
         <signed>Henry Corbin</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19461114">
+      <div type="letter" xml:id="ddr-corbin-19461114" when="1946-11-14">
         <pb n="p. " facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_035.jpg/full/full/0/default.jpg"/>
         <head>1946-11-14, Denis de Rougemont à Henry Corbin</head>
         <dateline>Areuse (Neuchâtel)
@@ -429,7 +429,7 @@
         <signed>Denis de R.</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19490714">
+      <div type="letter" xml:id="ddr-corbin-19490714" when="1949-07-14">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1650_corbin-henry-ddr/bpun-ddr1-id1650_010.jp2/full/full/0/default.jpg"/>
         <head>1949-07-14, Henry Corbin à Denis de Rougemont</head>
         <dateline>19, rue de l’Odéon
@@ -445,7 +445,7 @@
         <signed>Henry Corbin</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19490722">
+      <div type="letter" xml:id="ddr-corbin-19490722" when="1949-07-22">
         <pb n="p. " facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_036.jpg/full/full/0/default.jpg"/>
         <head>1949-07-22, Denis de Rougemont à Henry Corbin</head>
         <dateline>Chaumont sur Neuchâtel (Suisse)
@@ -468,7 +468,7 @@
         <signed>Denis</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19490824">
+      <div type="letter" xml:id="ddr-corbin-19490824" when="1949-08-24">
         <pb n="p. " facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_037.jpg/full/full/0/default.jpg"/>
         <head>1949-08-24, Denis de Rougemont à Henry Corbin</head>
         <dateline>Ferney-Voltaire (Ain)
@@ -481,7 +481,7 @@
         <p>Mes amitiés à v. d. Leeuw</p>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19500519">
+      <div type="letter" xml:id="ddr-corbin-19500519" when="1950-05-19">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1651_corbin-stella-ddr/bpun-ddr1-id1651_001.jp2/full/full/0/default.jpg"/>
         <head>1950-05-19, Stella Corbin à Denis de Rougemont</head>
         <dateline>Lundi 10 mai 1950</dateline>
@@ -497,7 +497,7 @@
         <signed>Stella H. Corbin</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19500806">
+      <div type="letter" xml:id="ddr-corbin-19500806" when="1950-08-06">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1650_corbin-henry-ddr/bpun-ddr1-id1650_012.jp2/full/full/0/default.jpg"/>
         <head>1950-08-06, Henry Corbin à Denis de Rougemont</head>
         <dateline>19, rue de l’Odéon
@@ -510,7 +510,7 @@
         <signed>Henry Corbin</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19510810">
+      <div type="letter" xml:id="ddr-corbin-19510810" when="1951-08-10">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1650_corbin-henry-ddr/bpun-ddr1-id1650_014.jp2/full/full/0/default.jpg"/>
         <head>1951-08-10, Henry Corbin à Denis de Rougemont</head>
         <dateline>19, rue de l’Odéon
@@ -523,7 +523,7 @@
         <signed>Henry Corbin</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19510816">
+      <div type="letter" xml:id="ddr-corbin-19510816" when="1951-08-16">
         <pb n="p. " facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_039.jpg/full/full/0/default.jpg"/>
         <head>1951-08-16, Denis de Rougemont à Henry Corbin</head>
         <dateline>Ferney
@@ -535,7 +535,7 @@
         <signed>Denis de Rgt</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19510917">
+      <div type="letter" xml:id="ddr-corbin-19510917" when="1951-09-17">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1650_corbin-henry-ddr/bpun-ddr1-id1650_016.jp2/full/full/0/default.jpg"/>
         <head>1951-09-17, Henry Corbin à Denis de Rougemont</head>
         <dateline>19, rue de l’Odéon
@@ -549,7 +549,7 @@
         <signed>Henry Corbin</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19511025">
+      <div type="letter" xml:id="ddr-corbin-19511025" when="1951-10-25">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1650_corbin-henry-ddr/bpun-ddr1-id1650_007.jp2/full/full/0/default.jpg"/>
         <head>1951-10-25, Henry Corbin à Denis de Rougemont</head>
         <dateline>Jeudi 25 octobre [1951]
@@ -560,7 +560,7 @@
         <signed>Henry Corbin</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19520411">
+      <div type="letter" xml:id="ddr-corbin-19520411" when="1952-04-11">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1650_corbin-henry-ddr/bpun-ddr1-id1650_018.jp2/full/full/0/default.jpg"/>
         <head>1952-04-11, Stella et Henry Corbin à Denis de Rougemont</head>
         <dateline>Ambassade de France en Iran
@@ -580,7 +580,7 @@
         <signed>Henry Corbin</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19521002">
+      <div type="letter" xml:id="ddr-corbin-19521002" when="1952-10-02">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1651_corbin-stella-ddr/bpun-ddr1-id1651_003.jp2/full/full/0/default.jpg"/>
         <head>1952-10-02, Stella et Henry Corbin à Denis et Nanik de Rougemont</head>
         <dateline>Institut franco-iranien
@@ -605,7 +605,7 @@
         <signed>Henry</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19540524">
+      <div type="letter" xml:id="ddr-corbin-19540524" when="1954-05-24">
         <pb n="p. " facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_040.jpg/full/full/0/default.jpg"/>
         <head>1954-05-24, Denis de Rougemont à Henry Corbin</head>
         <dateline>Ferney-Voltaire (Ain)
@@ -619,7 +619,7 @@
         <signed>Denis</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19551026">
+      <div type="letter" xml:id="ddr-corbin-19551026" when="1955-10-26">
         <pb n="p. " facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_042.jpg/full/full/0/default.jpg"/>
         <head>1955-10-26, Denis de Rougemont à Henry Corbin</head>
         <dateline>Ferney (Ain)
@@ -633,7 +633,7 @@
         <signed>Denis</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19551110">
+      <div type="letter" xml:id="ddr-corbin-19551110" when="1955-11-10">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1650_corbin-henry-ddr/bpun-ddr1-id1650_020.jp2/full/full/0/default.jpg"/>
         <head>1955-11-10, Henry Corbin à Denis de Rougemont</head>
         <dateline>Institut franco-iranien
@@ -652,7 +652,7 @@
         <signed>Henry</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19551114">
+      <div type="letter" xml:id="ddr-corbin-19551114" when="1955-11-14">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_044.jpg/full/full/0/default.jpg"/>
         <head>1955-11-14, Denis de Rougemont à Henry Corbin</head>
         <dateline>Ferney
@@ -670,7 +670,7 @@
         <signed>Denis</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19551202">
+      <div type="letter" xml:id="ddr-corbin-19551202" when="1955-12-02">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1650_corbin-henry-ddr/bpun-ddr1-id1650_022.jp2/full/full/0/default.jpg"/>
         <head>1955-12-02, Henry Corbin à Denis de Rougemont</head>
         <dateline>Institut franco-iranien
@@ -685,7 +685,7 @@
         <signed>Henry Corbin</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19610128">
+      <div type="letter" xml:id="ddr-corbin-19610128" when="1961-01-28">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_046.jpg/full/full/0/default.jpg"/>
         <head>1961-01-28, Denis de Rougemont à Henry Corbin</head>
         <dateline>Ferney
@@ -700,7 +700,7 @@
         <signed>Denis</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19610205">
+      <div type="letter" xml:id="ddr-corbin-19610205" when="1961-02-05">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1650_corbin-henry-ddr/bpun-ddr1-id1650_024.jp2/full/full/0/default.jpg"/>
         <head>1961-02-05, Henry Corbin à Denis de Rougemont</head>
         <dateline>19 rue de l’Odéon
@@ -716,7 +716,7 @@
         <salute>À toi fidèlement et amicalement.</salute>
         <signed>Henry Corbin</signed>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19650804">
+      <div type="letter" xml:id="ddr-corbin-19650804" when="1965-08-04">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/complements-corr-corbin/bpun-ddr1-id0257_029.jp2/full/full/0/default.jpg"/>
         <head>1965-08-04, Henri Corbin à Denis de Rougemont</head>
         <dateline>19, rue de l’Odéon
@@ -734,7 +734,7 @@
         <p rend="center"/>
         <p>Vu, il y a un mois, le cher Jack Barrett de passage à Paris. Mais que penses-tu de cette triste abdication de la Bollingen Foundation, toi qui fus à l’origine ? Eliade et moi-même nous en sommes consternés.</p>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19690111">
+      <div type="letter" xml:id="ddr-corbin-19690111" when="1969-01-11">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1651_corbin-stella-ddr/bpun-ddr1-id1651_005.jp2/full/full/0/default.jpg"/>
         <head>1969-01-11, Stella et Henry Corbin à Denis et Nanik de Rougemont</head>
         <dateline>19 rue de l’Odéon
@@ -747,7 +747,7 @@
         <signed>Stella et Henry</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19710111">
+      <div type="letter" xml:id="ddr-corbin-19710111" when="1971-01-11">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1651_corbin-stella-ddr/bpun-ddr1-id1651_006.jp2/full/full/0/default.jpg"/>
         <head>1971-01-11, Stella Corbin à Denis et Nanik de Rougemont</head>
         <dateline>19 rue de l’Odéon
@@ -765,7 +765,7 @@
         <p>Bonne Année !</p>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19740329">
+      <div type="letter" xml:id="ddr-corbin-19740329" when="1974-03-29">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1650_corbin-henry-ddr/bpun-ddr1-id1650_026.jp2/full/full/0/default.jpg"/>
         <head>1974-03-29, Henry Corbin à Denis de Rougemont</head>
         <dateline>19 rue de l’Odéon
@@ -784,7 +784,7 @@
         <signed>Henry Corbin</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-corbin-19740415">
+      <div type="letter" xml:id="ddr-corbin-19740415" when="1974-04-15">
         <pb n="p. " facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/ephe-corbin/ephe-corbin_049.jpg/full/full/0/default.jpg"/>
         <head>1974-04-15, Denis de Rougemont à Henry Corbin</head>
         <dateline>Le Mas des Chênes

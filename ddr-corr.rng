@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<grammar 
+  xmlns="http://relaxng.org/ns/structure/1.0"
+  ns="http://www.tei-c.org/ns/1.0"
+  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
+  xml:lang="fr"
+  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+  xmlns:h="http://www.w3.org/1999/xhtml"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <include href="http://oeuvres.github.io/teinte/teinte.rng">
     <start>
       <element name="TEI">
@@ -38,10 +45,13 @@
         <ref name="att.n"/>
       </element>
     </define>
-    <define name="hi.rend.more">
-      <choice>
-        <value>bg_00ff00</value>
-      </choice>
+    <define name="att.target">
+      <optional>
+        <attribute name="target">
+          <a:documentation>URI de destination d'un lien</a:documentation>
+          <data type="anyURI"/>
+        </attribute>
+      </optional>
     </define>
   </include>
   <define name="letter.head">

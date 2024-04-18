@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="letter" xml:id="ddr-famille-19231011">
+      <div type="letter" xml:id="ddr-famille-19231011" when="1923-10-11">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_030.jp2/full/full/0/default.jpg"/>
 <head>1923-10-11, Denis de Rougemont à Antoinette de Rougemont</head>
         <dateline>Le jeudi 11 octobre [1923]
@@ -53,7 +53,7 @@
         <p><pb n="p. 4" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_033.jp2/full/full/0/default.jpg"/> Maman fait beaucoup remercier Madame H. pour sa très aimable lettre<note place="bottom" resp="editor">La fin de la lettre est de la main d’Alice de Rougemont : « Merci, chérie, de ta bonne dernière lettre, très intéressante et amusante. Je suis sûre que tu vas t’attacher à ta petite élève. Chacun demande de tes nouvelles. Bon courage ! Les premiers jours doivent être un peu ardus. Si tu as besoin de sous-vêtements, pantalons, bas, je suis sûre que tante Édith te les enverra volontiers contre remboursement. Je t’embrasse en hâte. Maman. Je n’ai pas de cuisinière et ne sais quand part Suzanne, la semaine prochaine, je suppose. »</note>.</p>
         <p rend="center"/>
       </div>
-      <div type="letter" xml:id="ddr-famille-19231030">
+      <div type="letter" xml:id="ddr-famille-19231030" when="1923-10-30">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_034.jp2/full/full/0/default.jpg"/>
 <head>1923-10-30, Denis de Rougemont à Antoinette de Rougemont</head>
         <dateline>Areuse
@@ -74,7 +74,7 @@
         <p>Je retrouve cette lettre dans ma poche à l’allemand. Je me suis couché à trois heures moins le quart. Sur le ballant pour Étude : 4 oui, 1 non, 3 abstentions. Putty et les vieux sont furieux. J’espère qu’ils arrangeront les affaires. Putty dit que ça vient de Trétel… (?)</p>
         <p>J’ai reçu une lettre des Potiers qui me redemandent ton adresse, « illisible », disent-elles. Putty m’a demandé cette même adresse. Je ne sais si je t’ai dit que Léon est parti subitement pour Zurich, le veinard !</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-192312">
+      <div type="letter" xml:id="ddr-famille-19231200" when="1923-12">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_086.jp2/full/full/0/default.jpg"/>
 <head>1923-12, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Paris
@@ -90,7 +90,7 @@
         <p>Achats : un complet, un pardessus d’été, des souliers vernis (pour 21 frs suisses !), cravates, etc. Je deviens super-chic, pour quasi rien. Je crois que je pourrai tourner avec ce que j’ai. Si tu as des désirs spéciaux (gants, linges, mouchoirs, etc.), écris-le-moi, on trouve des occasions surprenantes. Au revoir, chère mère, mille choses à tous. Papa se repose-t-il un peu ? J’enverrai une carte à Titine, dis-lui qu’elle ne s’en fasse pas pour la boîte. Henri aurait-il besoin d’un truc pour sa reliure que je pourrais trouver ici ? — Je pars pour le musée de Cluny, et retrouverai Tante Jeanine au thé des magasins du Printemps. Chic temps.</p>
         <signed>Un gros bec de Topinet</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-192312b">
+      <div type="letter" xml:id="ddr-famille-19231200b" when="1923-12">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_088.jp2/full/full/0/default.jpg"/>
 <head>1923-12, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Panam
@@ -107,7 +107,7 @@
         <p>Je tâcherai de sortir un soir avec un membre de la famille, mais c’est assez difficile : je ne sais jamais ce que fait Gino, sinon qu’il brasse des affaires, et rondement. C’est très intéressant de les entendre discuter, Oncle Max, Oncle Eug. et lui.</p>
         <p>Quant à l’impression que me fait Paris, je ne peux pas en parler dans une lettre tout historique, il faudrait un gros livre. Je suis né pour y vivre, j’en suis persuadé. Je pars maintenant pour le salon des indépendants.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19240201">
+      <div type="letter" xml:id="ddr-famille-19240201" when="1924-02-01">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_002.jp2/full/full/0/default.jpg"/>
 <head>1924-02-01, Denis de Rougemont à Antoinette de Rougemont</head>
         <dateline>Areuse
@@ -128,7 +128,7 @@
         <p>Je n’ai plus que Moulache et Rosset comme amis, ça me suffit. On continue à me demander de tes nouvelles de tous côtés. La vie est belle, quand on réussit, intéressante quand on rate. Pour le moment, je réussis.</p>
         <p>Je continue à me documenter sur Gide. Je découvre des tas de gens qui en connaissent d’autres qui le connaissent de près.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19240216">
+      <div type="letter" xml:id="ddr-famille-19240216" when="1924-02-16">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_006.jp2/full/full/0/default.jpg"/>
 <head>1924-02-16, Denis de Rougemont à Antoinette de Rougemont</head>
         <dateline>Areuse
@@ -145,7 +145,7 @@
         <signed>Ton frère affectionné
           <lb/>Topin % Chauvin</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19250203">
+      <div type="letter" xml:id="ddr-famille-19250203" when="1925-02-03">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_015.jp2/full/full/0/default.jpg"/>
 <head>1925-02-03, Denis de Rougemont à Antoinette de Rougemont</head>
         <dateline>Areuse
@@ -166,7 +166,7 @@
         <p>Et des allusions de Papa dans son culte ! Mais ce cher Oncle Max me paraît plus gosse que jamais, charmant, courageux, affectueux, superficiel, incapable d’oublier sa qualité d’homme du monde disert, et surtout, d’un agité !</p>
         <p>Pour reparler de moi ; <ref target="https://www.unige.ch/rougemont/articles/burg/ddr192503burg">la note que j’ai envoyée à la <emph>Revue de Genève</emph> sur le <emph>Chant funèbre</emph></ref> paraîtra en février : « Elle me plaît beaucoup » m’écrit Robert de Traz. Un petit succès, mais comme dit Papa, cela ne m’aidera pas à trouver une profession. Pourtant, peut-être…</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-1925">
+      <div type="letter" xml:id="ddr-famille-19250000" when="1925">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_001.jp2/full/full/0/default.jpg"/>
 <head>1925, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Rome
@@ -180,7 +180,7 @@
         <salute>Messages de Pierre. Au revoir.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19261230">
+      <div type="letter" xml:id="ddr-famille-19261230" when="1926-12-30">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_137.jp2/full/full/0/default.jpg"/>
 <head>1926-12-30, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>[30 décembre 1926]</dateline>
@@ -196,7 +196,7 @@
         <p rend="center"/>
         <p>Je conduis avec joie et bonheur de temps en temps ½ heure ou 1 heure.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19270102">
+      <div type="letter" xml:id="ddr-famille-19270102" when="1927-01-02">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/famille-sources-diverses/bpun-ddr2-ds3028_034.jp2/full/full/0/default.jpg"/>
 <head>1927-01-02, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Sainte-Maxime
@@ -205,7 +205,7 @@
         <p>Beaucoup de choses à tout le monde, encore une fois bonne année.</p>
         <signed>Topin</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-192711">
+      <div type="letter" xml:id="ddr-famille-19271100" when="1927-11">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_061.jp2/full/full/0/default.jpg"/>
 <head>1927-11, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Vienne
@@ -221,7 +221,7 @@
         <salute>Baisers à tous.</salute>
         <signed>Topin</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-192711b">
+      <div type="letter" xml:id="ddr-famille-19271100b" when="1927-11">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_064.jp2/full/full/0/default.jpg"/>
 <head>1927-11, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Mercredi matin (à 8 heures !) [fin octobre-début novembre 1927]</dateline>
@@ -241,7 +241,7 @@
         <salute>Au revoir, grüss Gott, je vous embrasse.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-192711c">
+      <div type="letter" xml:id="ddr-famille-19271100c" when="1927-11">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_031.jp2/full/full/0/default.jpg"/>
 <head>1927-11, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Mardi soir [novembre 1927]</dateline>
@@ -256,7 +256,7 @@
         <p rend="center"/>
         <p>Pourrait-on retrouver aussi un numéro récent de l’<emph>Art en Suisse</emph> (ex-<emph>Pages d’art</emph>) où Maurice Jeanneret parle de mon article au <emph>Werk</emph>, me dit Pierre. J’enverrai bientôt à Maman une liste d’objets dont j’ai besoin, quand il y en aura assez pour faire un paquet de 5 kg !</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19271202">
+      <div type="letter" xml:id="ddr-famille-19271202" when="1927-12-02">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_012.jp2/full/full/0/default.jpg"/>
 <head>1927-12-02, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Vienne
@@ -271,7 +271,7 @@
         <p>Sur quoi, minuit sonne, le sommeil me prend, je remets la suite à demain — avec l’espoir que ma vieille Ophélie m’apportera une lettre à mon réveil, avec mon petit déjeuner. (C’est tous les matins la même scène : elle me réveille en frappant ma porte. Je grogne : Ja, herein ! Elle commence sa mélopée : Jetzt kommt der Kaffee, … der Kaffee …der Kaffee kommt, nur der Kaffee… hier ist die Post… die Post ist gekommen… die Post (elle dépose mon plateau sur la table de nuit) Bleiben Sie ruhig… Schlafen, noch schlafen… es is kalt draussen… oh! sehr kalt… schlafen, schlafen, gute Nacht… Bitte, bitte schön…)</p>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-famille-19271205">
+      <div type="letter" xml:id="ddr-famille-19271205" when="1927-12-05">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_017.jp2/full/full/0/default.jpg"/>
 <head>1927-12-05, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Lundi matin, le 5 décembre [1927]</dateline>
@@ -294,7 +294,7 @@
         </list>
         <p>Maintenant, voici un relevé de ma situation financière, dont je vous laisse tirer les conclusions :</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19271213">
+      <div type="letter" xml:id="ddr-famille-19271213" when="1927-12-13">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_018.jp2/full/full/0/default.jpg"/>
 <head>1927-12-13, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Lundi, le 13 décembre 1927 (Université)<note place="bottom" resp="editor">Une erreur s’est glissée car le 13 décembre 1927 est un mardi.</note></dateline>
@@ -321,7 +321,7 @@
         <p>Avec les respectueuses salutations de Pierre Jeanneret<note place="bottom" resp="editor">Cette ligne de la main de Pierre Jeanneret.</note>.</p>
         <p>So !</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19271217">
+      <div type="letter" xml:id="ddr-famille-19271217" when="1927-12-17">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_025.jp2/full/full/0/default.jpg"/>
 <head>1927-12-17, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Universitätsplatz 1 Wien I
@@ -336,7 +336,7 @@
           <lb/>Topin.</signed>
         <p rend="left"/>
       </div>
-      <div type="letter" xml:id="ddr-famille-19271223">
+      <div type="letter" xml:id="ddr-famille-19271223" when="1927-12-23">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_027.jp2/full/full/0/default.jpg"/>
 <head>1927-12-23, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Universitätsplatz
@@ -358,7 +358,7 @@
         <salute>Je vous embrasse tous.</salute>
         <signed>Topin</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19280104">
+      <div type="letter" xml:id="ddr-famille-19280104" when="1928-01-04">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_053.jp2/full/full/0/default.jpg"/>
 <head>1928-01-04, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Café Magyar Kóroná, Budapest
@@ -372,7 +372,7 @@
         <salute>Kezet czókolom !!</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19280125">
+      <div type="letter" xml:id="ddr-famille-19280125" when="1928-01-25">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_045.jp2/full/full/0/default.jpg"/>
 <head>1928-01-25, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Vienne
@@ -384,7 +384,7 @@
         <p>J’espère que Toinette va répondre à mes lettres pleines de choses importantes pour elle comme pour moi. Je reçois indirectement par Rosset ou [Denys Perrot] des nouvelles du voyage de Tuty à Paris. Pierre a fini par en revenir, enchanté, mais on ne le voit presque pas ces jours, pour des raisons mystérieuses. Pas de nouveau membre à l’horizon du Centre français ; cela me fait encore tout février de tranquille, au · [point] de vue logement. Naturellement que j’ai logé au Collège Eötvös, à Budapest ! Gyergyai y loge toute l’année comme les autres professeurs. Il est célibataire, mais tout le monde veut le marier et je crois bien que cela finira par arriver non pour sa fortune qui est nulle, mais pour son charme qui est réel et sa réputation qui est de la meilleure qualité. Comme tu le vois, pas de nouvelles sensationnelles. On fait des connaissances, comme toujours, on revoit un peu les anciennes, histoire de ne pas trop perdre contact. Coudenhove est à Paris. J’attends ma paie de son bureau. Le prince [Posidowski] est de plus en plus curieux.</p>
         <salute>Au revoir chère mère ne crains rien pour ma santé, je fais des vœux pour la tienne et t’embrasse bien fort.</salute>
       </div>
-      <div type="letter" xml:id="ddr-famille-19280204">
+      <div type="letter" xml:id="ddr-famille-19280204" when="1928-02-04">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_033.jp2/full/full/0/default.jpg"/>
 <head>1928-02-04, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Vienne
@@ -406,7 +406,7 @@
         <signed>Votre fils affectionné
           <lb/>Top.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19280223">
+      <div type="letter" xml:id="ddr-famille-19280223" when="1928-02-23">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_003.jp2/full/full/0/default.jpg"/>
 <head>1928-02-23, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Vienne
@@ -431,7 +431,7 @@
         <signed>Top.</signed>
         <signed/>
       </div>
-      <div type="letter" xml:id="ddr-famille-192803">
+      <div type="letter" xml:id="ddr-famille-19280300" when="1928-03">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_008.jp2/full/full/0/default.jpg"/>
 <head>1928-03, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Vienne
@@ -448,7 +448,7 @@
         <salute>Au revoir, chère mère, 1000 choses à tous, je t’embrasse.</salute>
         <signed>Topin.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19280318">
+      <div type="letter" xml:id="ddr-famille-19280318" when="1928-03-18">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_041.jp2/full/full/0/default.jpg"/>
 <head>1928-03-18, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Vienne
@@ -460,7 +460,7 @@
         <salute>Au revoir mes chers, à bientôt et en grande hâte. Je me réjouis très fort de vous revoir, de retrouver Areuse.</salute>
         <signed>Top.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19280417">
+      <div type="letter" xml:id="ddr-famille-19280417" when="1928-04-17">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_059.jp2/full/full/0/default.jpg"/>
 <head>1928-04-17, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Vienne, Hôtel Regina
@@ -472,7 +472,7 @@
         <salute>Très affectueusement.</salute>
         <signed>Top.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19280503">
+      <div type="letter" xml:id="ddr-famille-19280503" when="1928-05-03">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_039.jp2/full/full/0/default.jpg"/>
 <head>1928-05-03, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Vienne
@@ -534,7 +534,7 @@
         <p>P.-S. Pierre n’est pas encore de retour. Je me sens beaucoup moins loin du pays que la 1<hi rend="sup">re</hi> fois. Pas dépaysé du tout. Vienne en été est beaucoup moins russe malgré les formidables cortèges communistes du 1<hi rend="sup">er</hi> mai au chant de… la Marseillaise !!</p>
         <p>2<hi rend="sup">e</hi> P.-S. Merci beaucoup pour les <emph>Suisses libérales</emph>. Les 2 articles m’ont beaucoup intéressé. Je ne puis être d’accord ni avec Piaget ni avec Neuhaus en ce qui concerne l’affaire Pioch. Neuhaus est mesquin, mais Piaget se met dedans en faisant cette distinction entre <emph>opinions</emph> et <emph>procédés</emph>, comme si toute conviction forte ne devenait pas forcément une action ! (On ne peut pas séparer par exemple l’impérialisme (opinion) de la guerre (procédé), ils s’impliquent l’un l’autre.)</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-192805">
+      <div type="letter" xml:id="ddr-famille-19280500" when="1928-05">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_057.jp2/full/full/0/default.jpg"/>
 <head>1928-05, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Vienne
@@ -551,7 +551,7 @@
         <signed>Votre fils affectionné
           <lb/>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-192805b">
+      <div type="letter" xml:id="ddr-famille-19280500b" when="1928-05">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_051.jp2/full/full/0/default.jpg"/>
 <head>1928-05, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Vienne
@@ -567,7 +567,7 @@
         <salute>Affectueux messages à Tante Beth, je t’embrasse.</salute>
         <signed>Top.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19280612">
+      <div type="letter" xml:id="ddr-famille-19280612" when="1928-06-12">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_043.jp2/full/full/0/default.jpg"/>
 <head>1928-06-12, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Vienne
@@ -579,7 +579,7 @@
         <signed>Votre fils très affectionné
           <lb/>Topin.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-192806">
+      <div type="letter" xml:id="ddr-famille-19280600" when="1928-06">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_049.jp2/full/full/0/default.jpg"/>
 <head>1928-06, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Budapest, Eötvös Collegium, Ménesi ut. 11-13
@@ -594,7 +594,7 @@
         <signed>Votre fils très affectionné
           <lb/>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-1929">
+      <div type="letter" xml:id="ddr-famille-1929" when="1929">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_047.jp2/full/full/0/default.jpg"/>
 <head>1929, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Genève
@@ -606,7 +606,7 @@
         <salute>Au revoir chère mère. J’ai été <emph>très</emph> heureux de ta visite et t’en remercie encore, en t’embrassant.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19290602">
+      <div type="letter" xml:id="ddr-famille-19290602" when="1929-06-02">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_019.jp2/full/full/0/default.jpg"/>
 <head>1929-06-02, Denis de Rougemont à Antoinette de Rougemont</head>
         <dateline>Calw
@@ -621,7 +621,7 @@
         <salute>Affectueusement.</salute>
         <signed>Topin.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19290629">
+      <div type="letter" xml:id="ddr-famille-19290629" when="1929-06-29">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_021.jp2/full/full/0/default.jpg"/>
 <head>1929-06-29, Denis de Rougemont à Antoinette de Rougemont</head>
         <dateline>Calw
@@ -643,7 +643,7 @@
         <p>Je reçois à l’instant une lettre de Roland [de] Pury qui a passé une demi-heure seul avec la duchesse de Guise, « Reine de France », et est transporté par le souvenir naturel de Sa Majesté.</p>
         <p>Par le même courrier m’arrive une lettre de Maman à Madame Reichert, cela a fait la meilleure impression. — Pourrais-tu une fois inviter Gretel à déjeuner ? Elle en serait si enchantée que cela vaudrait la peine.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-193001">
+      <div type="letter" xml:id="ddr-famille-19300100" when="1930-01">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_072.jp2/full/full/0/default.jpg"/>
 <head>1930-01, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Hôtel Corneille, 5 rue C. VI<hi rend="sup">e</hi>
@@ -656,7 +656,7 @@
         <p>En tout cas, je retrouve Paris sans romantisme, avec le plus grand naturel, et il me semble que je le domine beaucoup plus que les autres fois.</p>
         <signed>Votre fils très affectionné.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-193001b">
+      <div type="letter" xml:id="ddr-famille-19300100b" when="1930-01">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_112.jp2/full/full/0/default.jpg"/>
 <head>1930-01, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Mardi [janvier 1930]</dateline>
@@ -670,7 +670,7 @@
         <p rend="center"/>
         <p>J’arrive au bout de mes pommes. Peut-être pourrait-on essayer de m’en envoyer en petit paquet, pour voir si ça passe sans encombre à la douane ? — C’est un tel régal ici !</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19300126">
+      <div type="letter" xml:id="ddr-famille-19300126" when="1930-01-26">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_114.jp2/full/full/0/default.jpg"/>
 <head>1930-01-26, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Dimanche 26 janvier [1930]</dateline>
@@ -685,7 +685,7 @@
         <signed>Votre très affectionné
           <lb/>Taupinet</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19300201">
+      <div type="letter" xml:id="ddr-famille-19300201" when="1930-02-01">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_074.jp2/full/full/0/default.jpg"/>
 <head>1930-02-01, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Le 1<hi rend="sup">er</hi> février 1930</dateline>
@@ -700,7 +700,7 @@
         <salute>Je t’embrasse, 1000 affections à tous.</salute>
         <signed>Top.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19300220">
+      <div type="letter" xml:id="ddr-famille-19300220" when="1930-02-20">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_156.jp2/full/full/0/default.jpg"/>
 <head>1930-02-20, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Paris
@@ -717,7 +717,7 @@
         <p>Voilà un ministère cartelliste au pouvoir, on s’attend à une nouvelle dégringolade financière.</p>
         <p/>
       </div>
-      <div type="letter" xml:id="ddr-famille-19300226">
+      <div type="letter" xml:id="ddr-famille-19300226" when="1930-02-26">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_076.jp2/full/full/0/default.jpg"/>
 <head>1930-02-26, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Paris, 5 rue Corneille VI<hi rend="sup">e</hi>
@@ -729,7 +729,7 @@
         <p>Mille choses aux Max. Je t’embrasse.</p>
         <signed>Topinet</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-193003">
+      <div type="letter" xml:id="ddr-famille-19300300" when="1930-03">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_168.jp2/full/full/0/default.jpg"/>
 <head>1930-03, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Jeudi [20 mars 1930]</dateline>
@@ -746,7 +746,7 @@
         <signed>Votre fils affectionné
           <lb/>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19300504">
+      <div type="letter" xml:id="ddr-famille-19300504" when="1930-05-04">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_117.jp2/full/full/0/default.jpg"/>
 <head>1930-05-04, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Paris
@@ -760,7 +760,7 @@
         <signed>Votre affectionné
           <lb/>Taupin.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19300516">
+      <div type="letter" xml:id="ddr-famille-19300516" when="1930-05-16">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_078.jp2/full/full/0/default.jpg"/>
 <head>1930-05-16, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Paris
@@ -774,7 +774,7 @@
         <p rend="center"/>
         <p>P.-S. J’aimerais qu’on me fasse suivre la <ref target="https://www.unige.ch/rougemont/articles/burg"><emph>Revue de Genève</emph></ref> de mai si elle a paru, svp.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19300528">
+      <div type="letter" xml:id="ddr-famille-19300528" when="1930-05-28">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_110.jp2/full/full/0/default.jpg"/>
 <head>1930-05-28, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Paris
@@ -787,7 +787,7 @@
         <signed>Votre très affectionné
           <lb/>Taupin.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19300611">
+      <div type="letter" xml:id="ddr-famille-19300611" when="1930-06-11">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_080.jp2/full/full/0/default.jpg"/>
 <head>1930-06-11, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Clamart
@@ -803,7 +803,7 @@
         <p rend="center"/>
         <p>J’ai reçu une invitation de bal « de la part du C<hi rend="sup">te</hi> R. de Rougemont ». C’était chez des juifs qui n’ont pas su me dire de quel Rougemont il s’agissait. Puis je suis allé à un autre bal où j’ai rencontré le jeune comte du Temple de Rougemont qui m’a dit que ce n’était pas de leur part que venait cette carte bien qu’il connaisse fort bien, disait-il, mon existence. Je pense que ce comte R. de R. n’est autre que le cousin du Löwenberg.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19300625">
+      <div type="letter" xml:id="ddr-famille-19300625" when="1930-06-25">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_119.jp2/full/full/0/default.jpg"/>
 <head>1930-06-25, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Le 25 juin 1930</dateline>
@@ -815,7 +815,7 @@
         <p rend="center"/>
         <p>Le mystérieux comte de Rougemont ne peut être que Robert de R. du Löwenberg, puisque ce n’est pas du Temple de R. — que je connais depuis quelque temps — et que le Monsieur qui m’a téléphoné en mon absence, se disant mon cousin, n’était pas Jacqui. J’irai poser des cartes un de ces jours « p[eut]-ê[tre] ».</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-193007">
+      <div type="letter" xml:id="ddr-famille-19300700" when="1930-07">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_139.jp2/full/full/0/default.jpg"/>
 <head>1930-07, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Au café « Select »
@@ -862,7 +862,7 @@
           <lb/>D.</signed>
         <p/>
       </div>
-      <div type="letter" xml:id="ddr-famille-19300720">
+      <div type="letter" xml:id="ddr-famille-19300720" when="1930-07-20">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_179.jp2/full/full/0/default.jpg"/>
 <head>1930-07-20, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Dimanche 20 juillet [1930]</dateline>
@@ -881,7 +881,7 @@
         <signed>Denis</signed>
         <p/>
       </div>
-      <div type="letter" xml:id="ddr-famille-19300725">
+      <div type="letter" xml:id="ddr-famille-19300725" when="1930-07-25">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_123.jp2/full/full/0/default.jpg"/>
 <head>1930-07-25, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>À mon bureau
@@ -895,7 +895,7 @@
         <signed>D</signed>
         <p/>
       </div>
-      <div type="letter" xml:id="ddr-famille-19300804">
+      <div type="letter" xml:id="ddr-famille-19300804" when="1930-08-04">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_042.jp2/full/full/0/default.jpg"/>
 <head>1930-08-04, Denis de Rougemont à Antoinette Petitpierre</head>
         <dateline>132 route de Clamart
@@ -915,7 +915,7 @@
         <p rend="center"/>
         <p>Cette lettre est aussi pour Max, --türlich, heureux père de mon neveu, époux modèle pour qui sa femme n’a pas de secrets, c’est bien ainsi que je l’entends !</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19301107">
+      <div type="letter" xml:id="ddr-famille-19301107" when="1930-11-07">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_092.jp2/full/full/0/default.jpg"/>
 <head>1930-11-07, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Issy
@@ -963,7 +963,7 @@
         <signed>Votre affectionné
           <lb/>Top.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19301121">
+      <div type="letter" xml:id="ddr-famille-19301121" when="1930-11-21">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_100.jp2/full/full/0/default.jpg"/>
 <head>1930-11-21, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Issy
@@ -991,7 +991,7 @@
         <p rend="center">(gamin)</p>
         <p/>
       </div>
-      <div type="letter" xml:id="ddr-famille-19301130">
+      <div type="letter" xml:id="ddr-famille-19301130" when="1930-11-30">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_121.jp2/full/full/0/default.jpg"/>
 <head>1930-11-30, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Dimanche [30 novembre 1930]</dateline>
@@ -1005,7 +1005,7 @@
           <lb/>Top.</signed>
         <p/>
       </div>
-      <div type="letter" xml:id="ddr-famille-193012">
+      <div type="letter" xml:id="ddr-famille-19301200" when="1930-12">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_152.jp2/full/full/0/default.jpg"/>
 <head>1930-12, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Issy
@@ -1026,7 +1026,7 @@
         <p>Je ne sais pas encore quand commencera mon Tour de France, tout n’est pas au point dans la préparation.</p>
         <p>Pour Titine : « tout à fait non ».</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19301206">
+      <div type="letter" xml:id="ddr-famille-19301206" when="1930-12-06">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_082.jp2/full/full/0/default.jpg"/>
 <head>1930-12-06, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Samedi, le 6 décembre 1930</dateline>
@@ -1047,7 +1047,7 @@
         <signed>Votre fils bien affect.
           <lb/>Top.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19301218">
+      <div type="letter" xml:id="ddr-famille-19301218" when="1930-12-18">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_096.jp2/full/full/0/default.jpg"/>
 <head>1930-12-18, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Issy
@@ -1060,7 +1060,7 @@
         <salute>Je t’embrasse.</salute>
         <signed>Top.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19301218b">
+      <div type="letter" xml:id="ddr-famille-19301218b" when="1930-12-18">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_098.jp2/full/full/0/default.jpg"/>
 <head>1930-12-18, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Issy
@@ -1075,7 +1075,7 @@
         <salute>Je vous embrasse.</salute>
         <signed>Top.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19310123">
+      <div type="letter" xml:id="ddr-famille-19310123" when="1931-01-23">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_026.jp2/full/full/0/default.jpg"/>
 <head>1931-01-23, Denis de Rougemont à Antoinette Petitpierre</head>
         <dateline>Issy
@@ -1093,7 +1093,7 @@
         <p>C’est la première lettre que j’écris depuis le Nouvel An, tu peux être fière de cette faveur !</p>
         <p>Ne raconte pas tout ça aux parents, ils s’effraieraient. Je te le dis seulement parce que c’est parfois soulageant de raconter ses malheurs !</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19310223">
+      <div type="letter" xml:id="ddr-famille-19310223" when="1931-02-23">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_186.jp2/full/full/0/default.jpg"/>
 <head>1931-02-23, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Lundi, le 23 février 1931</dateline>
@@ -1108,7 +1108,7 @@
         <p rend="center"/>
         <p>Attention aux rechutes de grippe !!</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19310302">
+      <div type="letter" xml:id="ddr-famille-19310302" when="1931-03-02">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_160.jp2/full/full/0/default.jpg"/>
 <head>1931-03-02, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Le lundi 2 mars [1931]</dateline>
@@ -1125,7 +1125,7 @@
         <p>Titine pourrait bien m’écrire !</p>
         <signed>D.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19310312">
+      <div type="letter" xml:id="ddr-famille-19310312" when="1931-03-12">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_047.jp2/full/full/0/default.jpg"/>
 <head>1931-03-12, Denis de Rougemont à Antoinette Petitpierre</head>
         <dateline>Jeudi, le 12 mars [1931]</dateline>
@@ -1144,7 +1144,7 @@
         <p>P.-S. Tu serais gentille de tél. Areuse 34.02 pour dire que j’arrive. Merci !</p>
         <p><pb n="p. 4" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_050.jp2/full/full/0/default.jpg"/> 2<hi rend="sup">e</hi> P.-S. Le bruit court à Paris que Titine était très mignonne à je ne sais plus quelle noce. Il ne faut pas le lui dire !</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19310409">
+      <div type="letter" xml:id="ddr-famille-19310409" when="1931-04-09">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_171.jp2/full/full/0/default.jpg"/>
 <head>1931-04-09, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Jeudi soir, le 9 avril [1931]</dateline>
@@ -1162,7 +1162,7 @@
         <salute>Affections.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-193106">
+      <div type="letter" xml:id="ddr-famille-19310600" when="1931-06">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_090.jp2/full/full/0/default.jpg"/>
 <head>1931-06, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Issy
@@ -1180,7 +1180,7 @@
         <salute>Mille pensées affectueuses.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19310930">
+      <div type="letter" xml:id="ddr-famille-19310930" when="1931-09-30">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_190.jp2/full/full/0/default.jpg"/>
 <head>1931-09-30, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Mercredi, le 30 septembre 1931</dateline>
@@ -1198,7 +1198,7 @@
         <salute>Je vous embrasse.</salute>
         <signed>Top.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19311020">
+      <div type="letter" xml:id="ddr-famille-19311020" when="1931-10-20">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_192.jp2/full/full/0/default.jpg"/>
 <head>1931-10-20, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Le 20 octobre 1931</dateline>
@@ -1208,7 +1208,7 @@
         <salute>Chauffez-vous bien dans cette branlante et chère maison. Je vous embrasse.</salute>
         <signed>Top.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19311112">
+      <div type="letter" xml:id="ddr-famille-19311112" when="1931-11-12">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_194.jp2/full/full/0/default.jpg"/>
 <head>1931-11-12, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Jeudi, le 12 novembre 1931</dateline>
@@ -1224,7 +1224,7 @@
           <lb/>D.</signed>
         <p/>
       </div>
-      <div type="letter" xml:id="ddr-famille-19311125">
+      <div type="letter" xml:id="ddr-famille-19311125" when="1931-11-25">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_175.jp2/full/full/0/default.jpg"/>
 <head>1931-11-25, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Mercredi, le 25 novembre [1931]</dateline>
@@ -1241,7 +1241,7 @@
         <signed>Votre fils affectionné
           <lb/>D.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-193112">
+      <div type="letter" xml:id="ddr-famille-19311200" when="1931-12">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2401_rougemont-georges-ddr/bpun-ddr1-id2401_027.jp2/full/full/0/default.jpg"/>
 <head>1931-12, Georges de Rougemont à Denis de Rougemont</head>
         <dateline>[Décembre 1931]</dateline>
@@ -1254,7 +1254,7 @@
         <signed>Ton père aff.
           <lb/>G. de R.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19320111">
+      <div type="letter" xml:id="ddr-famille-19320111" when="1932-01-11">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_197.jp2/full/full/0/default.jpg"/>
 <head>1932-01-11, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Le 11 janvier 1932</dateline>
@@ -1271,7 +1271,7 @@
         <p>P.-S. La souscription de Papa a touché Caudron, merci encore, je crois que c’était très indiqué.</p>
         <p/>
       </div>
-      <div type="letter" xml:id="ddr-famille-19320123">
+      <div type="letter" xml:id="ddr-famille-19320123" when="1932-01-23">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_166.jp2/full/full/0/default.jpg"/>
 <head>1932-01-23, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Samedi [23 janvier 1932]</dateline>
@@ -1286,7 +1286,7 @@
         <p rend="center"/>
         <p>J’apprends le suicide de François [Michel], fils d’Horace et père de mon amie. Encore un résultat du « complexe d’infériorité » si affreusement développé par l’éducation genevoise. Il n’y avait aucune autre raison… Une jeune femme et un enfant…</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19320304">
+      <div type="letter" xml:id="ddr-famille-19320304" when="1932-03-04">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_201.jp2/full/full/0/default.jpg"/>
 <head>1932-03-04, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Le 4 mars 1932</dateline>
@@ -1300,7 +1300,7 @@
         <signed>Votre aff.
           <lb/>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19320414">
+      <div type="letter" xml:id="ddr-famille-19320414" when="1932-04-14">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_205.jp2/full/full/0/default.jpg"/>
 <head>1932-04-14, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Le 14 avril 1932</dateline>
@@ -1318,7 +1318,7 @@
         <signed>Votre fils affectionné
           <lb/>Topin.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-193205">
+      <div type="letter" xml:id="ddr-famille-19320500" when="1932-05">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_147.jp2/full/full/0/default.jpg"/>
 <head>1932-05, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Mercredi soir [mai 1932]</dateline>
@@ -1337,7 +1337,7 @@
           <lb/>Taupin.</signed>
         <p/>
       </div>
-      <div type="letter" xml:id="ddr-famille-19320912">
+      <div type="letter" xml:id="ddr-famille-19320912" when="1932-09-12">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_125.jp2/full/full/0/default.jpg"/>
 <head>1932-09-12, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Lundi [12 septembre 1932]</dateline>
@@ -1354,7 +1354,7 @@
         <salute>Mille affections à tous.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19320930">
+      <div type="letter" xml:id="ddr-famille-19320930" when="1932-09-30">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_106.jp2/full/full/0/default.jpg"/>
 <head>1932-09-30, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>31, rue saint-Placide, Paris VI<hi rend="sup">e</hi>
@@ -1369,7 +1369,7 @@
         <signed>Votre fils affectionné (quoique désaffecté)
           <lb/>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19321017">
+      <div type="letter" xml:id="ddr-famille-19321017" when="1932-10-17">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2401_rougemont-georges-ddr/bpun-ddr1-id2401_001.jp2/full/full/0/default.jpg"/>
 <head>1932-10-17, Georges de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse, le 17 octobre 1932<note place="bottom" resp="editor">Une note allographe de Rougemont indique : « ou 33 ? ». Il semble que Rougemont confonde ici la date de son licenciement, au début de l’été 1933, avec celle du dépôt de bilan des Éditions « Je sers », dont il fait état dans la lettre précédente.</note></dateline>
@@ -1380,7 +1380,7 @@
         <signed>Ton père aff.
           <lb/>G. de R.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19330324">
+      <div type="letter" xml:id="ddr-famille-19330324" when="1933-03-24">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_207.jp2/full/full/0/default.jpg"/>
 <head>1933-03-24, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Le 24 mars 1933</dateline>
@@ -1393,7 +1393,7 @@
         <signed>Votre fils affectionné
           <lb/>D.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19330403">
+      <div type="letter" xml:id="ddr-famille-19330403" when="1933-04-03">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_209.jp2/full/full/0/default.jpg"/>
 <head>1933-04-03, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Paris
@@ -1410,7 +1410,7 @@
         <p>P.-S. Avez-vous encore le <ref target="https://www.unige.ch/rougemont/articles/jg"><emph>Journal de Genève</emph></ref> ? Il y a paru un bon petit article sur le <ref target="https://www.unige.ch/rougemont/livres/ddr1932paysan"><emph>Paysan</emph></ref>, élogieux bien que l’auteur n’ait pas tout à fait compris le sérieux de la chose<note place="bottom" resp="editor">P. C., « <ref target="https://www.letempsarchives.ch/page/JDG_1933_03_29/1/article/5858293/rougemont"><emph>Le Paysan du Danube</emph></ref> », <emph>Journal de Genève</emph>, Genève, n° 87, 29 mars 1933, p. 1.</note>. Lisez-vous les articles politiques de Pierre Jeanneret, qui a succédé en partie, et provisoirement, à W. M. ?</p>
         <p/>
       </div>
-      <div type="letter" xml:id="ddr-famille-19330421">
+      <div type="letter" xml:id="ddr-famille-19330421" when="1933-04-21">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_211.jp2/full/full/0/default.jpg"/>
 <head>1933-04-21, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Paris
@@ -1426,7 +1426,7 @@
         <signed>Votre fils affectionné
           <lb/>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19330509">
+      <div type="letter" xml:id="ddr-famille-19330509" when="1933-05-09">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_214.jp2/full/full/0/default.jpg"/>
 <head>1933-05-09, Denis de Rougemont à Georges de Rougemont</head>
         <dateline>Mardi soir, le 9 mai [1933]<note place="bottom" resp="editor">Alice de Rougemont a noté en marge : « Mariage Denis III ».</note></dateline>
@@ -1442,7 +1442,7 @@
         <signed>Ton fils très affectionné
           <lb/>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-193305">
+      <div type="letter" xml:id="ddr-famille-19330500" when="1933-05">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_104.jp2/full/full/0/default.jpg"/>
 <head>1933-05, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Paris
@@ -1458,7 +1458,7 @@
         <p rend="center"/>
         <p>P.-S. Tante Béatrice m’a écrit une longue lettre des plus touchantes, je vais lui répondre.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19330602">
+      <div type="letter" xml:id="ddr-famille-19330602" when="1933-06-02">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_217.jp2/full/full/0/default.jpg"/>
 <head>1933-06-02, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Le 2 juin 1933</dateline>
@@ -1472,7 +1472,7 @@
         <signed>Votre fils affectionné
           <lb/>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19330619">
+      <div type="letter" xml:id="ddr-famille-19330619" when="1933-06-19">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_219.jp2/full/full/0/default.jpg"/>
 <head>1933-06-19, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Paris, le 19 juin 1933</dateline>
@@ -1486,7 +1486,7 @@
         <signed>D.</signed>
         <p/>
       </div>
-      <div type="letter" xml:id="ddr-famille-19330629">
+      <div type="letter" xml:id="ddr-famille-19330629" when="1933-06-29">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_188.jp2/full/full/0/default.jpg"/>
 <head>1933-06-29, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Jeudi, le 29 juin 1933</dateline>
@@ -1502,7 +1502,7 @@
         <salute>Je vous embrasse.</salute>
         <signed>Denis.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19330802">
+      <div type="letter" xml:id="ddr-famille-19330802" when="1933-08-02">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_133.jp2/full/full/0/default.jpg"/>
 <head>1933-08-02, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Mercredi [le 2 août 1933]</dateline>
@@ -1519,7 +1519,7 @@
         <salute>Je vous embrasse.</salute>
         <signed>Denis.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-193309">
+      <div type="letter" xml:id="ddr-famille-19330900" when="1933-09">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_151.jp2/full/full/0/default.jpg"/>
 <head>1933-09, Simonne de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>[Septembre 1933]</dateline>
@@ -1535,7 +1535,7 @@
         <p>P.-S. Dès que Maury sera venu et que nous [aurons] des nouvelles sûres nous vous en donnerons.</p>
         <p>La douane a été pénible. Il a fallu payer pour le phono. Et quant au tapis d’Henri que nous avions oublié, il aurait fallu payer une taxe exorbitante (pour le point noué !)</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19331017">
+      <div type="letter" xml:id="ddr-famille-19331017" when="1933-10-17">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_108.jp2/full/full/0/default.jpg"/>
 <head>1933-10-17, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Paris
@@ -1548,7 +1548,7 @@
         <salute>Au revoir, et mille choses affectueuses de nous deux.</salute>
         <signed>Denis.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19331022">
+      <div type="letter" xml:id="ddr-famille-19331022" when="1933-10-22">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_221.jp2/full/full/0/default.jpg"/>
 <head>1933-10-22, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Les Portes. Île de Ré
@@ -1563,7 +1563,7 @@
         <salute>Messages affectueux de Simonne. Je vous embrasse.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19331201">
+      <div type="letter" xml:id="ddr-famille-19331201" when="1933-12-01">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_223.jp2/full/full/0/default.jpg"/>
 <head>1933-12-01, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Courlay
@@ -1577,7 +1577,7 @@
         <salute>Cigogne vous dit toute son affection, moi aussi.</salute>
         <signed>Denis.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19340121">
+      <div type="letter" xml:id="ddr-famille-19340121" when="1934-01-21">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_225.jp2/full/full/0/default.jpg"/>
 <head>1934-01-21, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Courlay c/o Jézéquel
@@ -1591,7 +1591,7 @@
         <salute>Simonne vous dit toute son affection et je vous embrasse.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19340627">
+      <div type="letter" xml:id="ddr-famille-19340627" when="1934-06-27">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_227.jp2/full/full/0/default.jpg"/>
 <head>1934-06-27, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Les Portes
@@ -1607,7 +1607,7 @@
         <p rend="center"/>
         <p>Simonne ne va pas mal, mieux dans l’ensemble, avec quelques rechutes. Nous nous baignons, c’est très chaud.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19341004">
+      <div type="letter" xml:id="ddr-famille-19341004" when="1934-10-04">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_229.jp2/full/full/0/default.jpg"/>
 <head>1934-10-04, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Anduze
@@ -1622,7 +1622,7 @@
         <salute>Affections de nous deux.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19350422">
+      <div type="letter" xml:id="ddr-famille-19350422" when="1935-04-22">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_135.jp2/full/full/0/default.jpg"/>
 <head>1935-04-22, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Lundi de Pâques [22 avril 1935]</dateline>
@@ -1636,7 +1636,7 @@
         <salute>Affections de nous deux.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-193508">
+      <div type="letter" xml:id="ddr-famille-19350800" when="1935-08">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_084.jp2/full/full/0/default.jpg"/>
 <head>1935-08, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Paris
@@ -1647,7 +1647,7 @@
         <p>Merci de vos lettres et télégrammes. J’espère pouvoir vous donner de meilleures nouvelles lundi. Nous arriverons le 14 août à Neuchâtel.</p>
         <signed>Affections de Denis.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-193509">
+      <div type="letter" xml:id="ddr-famille-19350900" when="1935-09">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_129.jp2/full/full/0/default.jpg"/>
 <head>1935-09, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>16 Bd Raspail VII<hi rend="sup">e</hi>
@@ -1662,7 +1662,7 @@
         <salute>Affections de nous deux.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-193510">
+      <div type="letter" xml:id="ddr-famille-19351000" when="1935-10">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_085.jp2/full/full/0/default.jpg"/>
 <head>1935-10, Simonne de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>Paris
@@ -1678,7 +1678,7 @@
         <signed>Simonne</signed>
         <p/>
       </div>
-      <div type="letter" xml:id="ddr-famille-19351015">
+      <div type="letter" xml:id="ddr-famille-19351015" when="1935-10-15">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_231.jp2/full/full/0/default.jpg"/>
 <head>1935-10-15, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>6. Liebigstrasse
@@ -1695,7 +1695,7 @@
         <salute>Mille choses affectueuses de nous deux.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19381101">
+      <div type="letter" xml:id="ddr-famille-19381101" when="1938-11-01">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/correspondance-famille-sources-diverses/bpun-ddr1-id0054_034.jp2/full/full/0/default.jpg"/>
 <head>1938-11-01, Georges de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -1709,7 +1709,7 @@
         <salute>À bientôt donc ; tâche de ne pas arriver au dernier moment, [Illisible].</salute>
         <signed>Ton père aff.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19381221">
+      <div type="letter" xml:id="ddr-famille-19381221" when="1938-12-21">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2401_rougemont-georges-ddr/bpun-ddr1-id2401_003.jp2/full/full/0/default.jpg"/>
 <head>1938-12-21, Georges de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -1723,7 +1723,7 @@
         <salute>Je vous souhaite, au milieu de votre labeur, la paix de Noël, qui est celle du cœur, et qui surpasse toute intelligence.</salute>
         <signed>À tous les trois, affectueux baisers de votre père et grand-père.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19390303">
+      <div type="letter" xml:id="ddr-famille-19390303" when="1939-03-03">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/correspondance-famille-sources-diverses/bpun-ddr1-id0108_033.jp2/full/full/0/default.jpg"/>
 <head>1939-03-03, Georges de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -1736,7 +1736,7 @@
         <salute>Adieu mon cher Denis. Baisers à Simone et à mon Nicolas.</salute>
         <signed>Ton père aff.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19390307">
+      <div type="letter" xml:id="ddr-famille-19390307" when="1939-03-07">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/correspondance-famille-sources-diverses/bpun-ddr1-id0108_036.jp2/full/full/0/default.jpg"/>
 <head>1939-03-07, Georges de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -1746,7 +1746,7 @@
         <p><ref target="https://www.unige.ch/rougemont/livres/ddr1939nf">Ton <emph>Nicolas</emph></ref> a, paraît-il, été lu à La Chaux-de-Fonds il y a quelques semaines déjà ; 300 personnes ont applaudi sans réserve ; [Illisible] assure que tes opposants ont été gagnés. Voici une coupure de <emph>Curieux</emph><note place="bottom" resp="editor">Cette coupure de presse a été collée par Georges de Rougemont sur la carte postale. En voici le contenu : « La bataille des « Nicolas ». Nicolas de Flue est à l’ordre du jour à La Chaux-de-Fonds puisque la première représentation du <emph>Nicolas de Flue</emph>, de M<hi rend="sup">lle</hi> Magali Hello, aura lieu au Théâtre de La Chaux-de-Fonds le 4 mars prochain. La répétition générale est fixée au 28 février. Malgré la concurrence du <ref target="https://www.unige.ch/rougemont/livres/ddr1939nf"><hi rend="i">Nicolas de Flue</hi></ref> de M. Denis de Rougemont qui sera créé à Zurich lors de la journée neuchâteloise, celui de Magali Hello sera également joué à Zurich, au Théâtre scolaire le 13 juillet. Ainsi le canton de Neuchâtel, coïncidence extraordinaire présentera, de deux auteurs neuchâtelois deux <emph>Nicolas</emph> fort différents probablement, mais deux <emph>Nicolas</emph> tout de même. Il est assez curieux de constater que c’est un canton à majorité protestante qui travaille à la canonisation du patron spirituel de la Suisse. Pour une coïncidence, celle-ci est extraordinaire : nous trouvons encore un <emph>Nicolas</emph> dans le Jura bernois, pièce de théâtre qui sera vraisemblablement représentée au cours de la saison prochaine ! »</note>. Ici rien de nouveau sous la pluie.</p>
         <signed>Ton père aff.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19400823">
+      <div type="letter" xml:id="ddr-famille-19400823" when="1940-08-23">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2401_rougemont-georges-ddr/bpun-ddr1-id2401_005.jp2/full/full/0/default.jpg"/>
 <head>1940-08-23, Georges de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -1759,7 +1759,7 @@
         <signed>Ton père aff.
           <lb/>G. de R.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19401006">
+      <div type="letter" xml:id="ddr-famille-19401006" when="1940-10-06">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_274.jp2/full/full/0/default.jpg"/>
 <head>1940-10-06, Alice et Georges de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -1785,7 +1785,7 @@
         <signed>Ton père aff.
           <lb/>G. de R.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19410601">
+      <div type="letter" xml:id="ddr-famille-19410601" when="1941-06-01">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/correspondance-famille-sources-diverses/bpun-ddr1-id0108_039.jp2/full/full/0/default.jpg"/>
 <head>1941-06-01, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -1802,7 +1802,7 @@
         <signed>Votre mère bien aff.
           <lb/>A. de R.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19410602">
+      <div type="letter" xml:id="ddr-famille-19410602" when="1941-06-02">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/correspondance-famille-sources-diverses/bpun-ddr1-id0108_037.jp2/full/full/0/default.jpg"/>
 <head>1941-06-02, Georges de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -1815,7 +1815,7 @@
         <p rend="center"/>
         <p>Maman t’a écrit hier, au lendemain de la 1<hi rend="sup">re</hi> audition ; elle espère que sa lettre te sera arrivée, bien qu’elle ait oublié d’indiquer le numéro de la rue.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19410602b">
+      <div type="letter" xml:id="ddr-famille-19410602b" when="1941-06-02">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/correspondance-famille-sources-diverses/bpun-ddr1-id0108_025.jp2/full/full/0/default.jpg"/>
 <head>1941-06-02, Antoinette Petitpierre à Denis de Rougemont</head>
         <dateline>Neuchâtel
@@ -1836,7 +1836,7 @@
         <p rend="center"/>
         <p>Tuti a été excellent. Il avait 4 rôles importants. Jean Rychner aussi. Et Bercher bien.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19410626">
+      <div type="letter" xml:id="ddr-famille-19410626" when="1941-06-26">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_052.jp2/full/full/0/default.jpg"/>
 <head>1941-06-26, Denis de Rougemont à Antoinette Petitpierre</head>
         <dateline>New York
@@ -1858,7 +1858,7 @@
         <signed>Ton frère affectionné
           <lb/>D.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19410731">
+      <div type="letter" xml:id="ddr-famille-19410731" when="1941-07-31">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_001.jp2/full/full/0/default.jpg"/>
 <head>1941-07-31, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -1878,7 +1878,7 @@
         <p>Je te souhaite actuellement un repos complet sur le bateau « Argentina », dont tu dois avoir un besoin urgent.</p>
         <p>Encore un mot, ce que je regrette à propos de l’envoi de l’argent de <ref target="https://www.unige.ch/rougemont/livres/ddr1939nf">Nicolas</ref>, c’est que nous n’ayons pas avancé toute la somme comme les premiers 500 frs, il est vrai que nous n’en savions pas exactement le montant.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19410902">
+      <div type="letter" xml:id="ddr-famille-19410902" when="1941-09-02">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2401_rougemont-georges-ddr/bpun-ddr1-id2401_007.jp2/full/full/0/default.jpg"/>
 <head>1941-09-02, Georges de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -1896,7 +1896,7 @@
         <salute>Adieu, mon cher Denis : que Dieu t’ait en sa Sainte Garde au cours de tes pérégrinations sur terre et sur mer ; qu’il permette que tu retrouves bientôt ton foyer.</salute>
         <signed>Avec un paternel baiser</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19410906">
+      <div type="letter" xml:id="ddr-famille-19410906" when="1941-09-06">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_040.jp2/full/full/0/default.jpg"/>
 <head>1941-09-06, Denis de Rougemont à Antoinette Petitpierre</head>
         <dateline>Buenos Aires
@@ -1910,7 +1910,7 @@
         <salute>Merci encore de ta bonne lettre. Je vous embrasse tous.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19411006">
+      <div type="letter" xml:id="ddr-famille-19411006" when="1941-10-06">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_005.jp2/full/full/0/default.jpg"/>
 <head>1941-10-06, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -1929,7 +1929,7 @@
         <p>Papa est de cœur avec moi dans ses messages.</p>
         <p>Il tâche de se distraire par son travail, de toutes les préoccupations actuelles.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19411123">
+      <div type="letter" xml:id="ddr-famille-19411123" when="1941-11-23">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2401_rougemont-georges-ddr/bpun-ddr1-id2401_031.jp2/full/full/0/default.jpg"/>
 <head>1941-11-23, Alice et Georges de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -1957,7 +1957,7 @@
         <signed>Ton père aff.
           <lb/>G. de R.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19411204">
+      <div type="letter" xml:id="ddr-famille-19411204" when="1941-12-04">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/correspondance-famille-sources-diverses/bpun-ddr1-id3191_004.jp2/full/full/0/default.jpg"/>
 <head>1941-12-04, Alice et Georges de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -1976,7 +1976,7 @@
         <salute>Je vous embrasse tous.</salute>
         <signed>Papa et grand-papa</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19420314">
+      <div type="letter" xml:id="ddr-famille-19420314" when="1942-03-14">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_056.jp2/full/full/0/default.jpg"/>
 <head>1942-03-14, Denis de Rougemont à Antoinette Petitpierre</head>
         <dateline>5 West 16th Street
@@ -2003,7 +2003,7 @@
         <salute>Sur quoi je te quitte pour que cette lettre puisse enfin partir. Je vais écrire aussi à Areuse.</salute>
         <signed>D.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19420627">
+      <div type="letter" xml:id="ddr-famille-19420627" when="1942-06-27">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/correspondance-famille-sources-diverses/bpun-ddr1-id3205_002.jp2/full/full/0/default.jpg"/>
 <head>1942-06-27, Denis de Rougemont à Alice et Georges de Rougemont</head>
         <dateline>11 West 52 New York
@@ -2013,7 +2013,7 @@
         <salute>Je vous embrasse.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19420923">
+      <div type="letter" xml:id="ddr-famille-19420923" when="1942-09-23">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/correspondance-famille-sources-diverses/bpun-ddr1-id3163_002.jp2/full/full/0/default.jpg"/>
 <head>1942-09-23, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse, le 23 septembre 1942</dateline>
@@ -2023,7 +2023,7 @@
         <signed>Ta mère aff.
           <lb/>A de R.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19421005">
+      <div type="letter" xml:id="ddr-famille-19421005" when="1942-10-05">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/correspondance-famille-sources-diverses/bpun-ddr1-id4671_003.jp2/full/full/0/default.jpg"/>
 <head>1942-10-05, Alice et Georges de Rougemont à Denis de Rougemont</head>
         <dateline>Le 5 octobre 1942<note place="bottom" resp="editor">Cette lettre et la suivante sont écrites sur les vers lus à la réunion des bacheliers 1925 par « Pif », l’Amphitryon, en juillet 1942. L’ensemble des contemporains sont évoqués, et la troisième feuille comporte les vers suivants : « Enfin j’en arrive à Denis de Rougemont. / Son renom est si grand et son œuvre est si belle / Que j’aurais un peu honte à vous parler ici / De l’illustre martyr que l’exil a grandi. »</note></dateline>
@@ -2044,7 +2044,7 @@
         <p>Je vous embrasse tous.</p>
         <signed>Ton père aff.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19440417">
+      <div type="letter" xml:id="ddr-famille-19440417" when="1944-04-17">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2401_rougemont-georges-ddr/bpun-ddr1-id2401_009.jp2/full/full/0/default.jpg"/>
 <head>1944-04-17, Alice et Georges de Rougemont à Denis de Rougemont</head>
         <dateline>Pension Elena Locarno
@@ -2070,7 +2070,7 @@
         <salute>Je vous embrasse tous.</salute>
         <signed>Papa</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19450525">
+      <div type="letter" xml:id="ddr-famille-19450525" when="1945-05-25">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2401_rougemont-georges-ddr/bpun-ddr1-id2401_011.jp2/full/full/0/default.jpg"/>
 <head>1945-05-25, Georges de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2086,7 +2086,7 @@
         <signed>Ton vieux père
           <lb/>G. de R.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19450614">
+      <div type="letter" xml:id="ddr-famille-19450614" when="1945-06-14">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_073.jp2/full/full/0/default.jpg"/>
 <head>1945-06-14, Denis de Rougemont à Antoinette Petitpierre</head>
         <dateline>439 East 57<hi rend="sup">st</hi> New York 22
@@ -2106,7 +2106,7 @@
         <salute>Je vous embrasse tous.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19450727">
+      <div type="letter" xml:id="ddr-famille-19450727" when="1945-07-27">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/correspondance-famille-sources-diverses/bpun-ddr1-id2273_029.jp2/full/full/0/default.jpg"/>
 <head>1945-07-27, Antoinette Petitpierre à Denis de Rougemont</head>
         <dateline>Neuchâtel
@@ -2135,7 +2135,7 @@
         <p rend="center"/>
         <p>Tendresse aux enfants.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19450823">
+      <div type="letter" xml:id="ddr-famille-19450823" when="1945-08-23">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2401_rougemont-georges-ddr/bpun-ddr1-id2401_013.jp2/full/full/0/default.jpg"/>
 <head>1945-08-23, Georges de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2150,7 +2150,7 @@
         <signed>Ton père
           <lb/>G. de R.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19450927">
+      <div type="letter" xml:id="ddr-famille-19450927" when="1945-09-27">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2401_rougemont-georges-ddr/bpun-ddr1-id2401_016.jp2/full/full/0/default.jpg"/>
 <head>1945-09-27, Georges de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2167,7 +2167,7 @@
         <p rend="center"/>
         <p>Réflexion faite je vais transmettre cette enveloppe à Max pour la valise diplomatique ; tu l’auras plus vite, vraisemblablement.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-194607">
+      <div type="letter" xml:id="ddr-famille-19460700" when="1946-07">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2401_rougemont-georges-ddr/bpun-ddr1-id2401_022.jp2/full/full/0/default.jpg"/>
 <head>1946-07, Georges de Rougemont à Denis de Rougemont</head>
         <dateline>[Deuxième quinzaine de juillet 1946]</dateline>
@@ -2178,7 +2178,7 @@
         <salute>Je t’embrasse, mon cher Denis, paternellement.</salute>
         <signed>G. de R.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19460720">
+      <div type="letter" xml:id="ddr-famille-19460720" when="1946-07-20">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/correspondance-famille-sources-diverses/bpun-ddr1-id2273_023.jp2/full/full/0/default.jpg"/>
 <head>1946-07-20, Antoinette Petitpierre à Denis de Rougemont</head>
         <dateline>[Le Signal-Chaumont]
@@ -2193,7 +2193,7 @@
         <p rend="center"/>
         <p>J’espère que tu as des bonnes nouvelles des enfants et de Simonne.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19460724">
+      <div type="letter" xml:id="ddr-famille-19460724" when="1946-07-24">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2401_rougemont-georges-ddr/bpun-ddr1-id2401_024.jp2/full/full/0/default.jpg"/>
 <head>1946-07-24, Georges de Rougemont à Pierre Maury</head>
         <dateline>Areuse
@@ -2211,7 +2211,7 @@
         <salute>Encore merci [Illisible], et recevez cher Monsieur, l’expression de mes sentiments fraternels.</salute>
         <signed>G. de R.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19460721">
+      <div type="letter" xml:id="ddr-famille-19460721" when="1946-07-21">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_009.jp2/full/full/0/default.jpg"/>
 <head>1946-07-21, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2224,7 +2224,7 @@
         <p><pb n="p. 3" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_011.jp2/full/full/0/default.jpg"/> Une dame hollandaise m’a téléphoné qu’elle désirait te voir de la part de sa maison d’édition. Elle était désolée de te savoir à Paris, d’où elle venait. Elle ne m’a pas dit son nom.</p>
         <p>J’ai envoyé à Max la lettre d’Oncle Louis, c’est pourquoi je ne te l’envoie pas, car il raconte toute la visite chez lui de M. et M<hi rend="sup">me</hi> Pilet Golaz.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19460817">
+      <div type="letter" xml:id="ddr-famille-19460817" when="1946-08-17">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2401_rougemont-georges-ddr/bpun-ddr1-id2401_020.jp2/full/full/0/default.jpg"/>
 <head>1946-08-17, Georges de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2238,7 +2238,7 @@
         <signed>Ton père aff.
           <lb/>G. de R.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19460818">
+      <div type="letter" xml:id="ddr-famille-19460818" when="1946-08-18">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_011.jp2/full/full/0/default.jpg"/>
 <head>1946-08-18, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2256,7 +2256,7 @@
         <signed>Ta mère bien aff.
           <lb/>A. de R.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19470407">
+      <div type="letter" xml:id="ddr-famille-19470407" when="1947-04-07">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_069.jp2/full/full/0/default.jpg"/>
 <head>1947-04-07, Denis de Rougemont à Antoinette Petitpierre</head>
         <dateline>Princeton
@@ -2278,7 +2278,7 @@
         <salute>Toutes mes affectueuses pensées pour toute la maisonnée de Port-Roulant.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19470426">
+      <div type="letter" xml:id="ddr-famille-19470426" when="1947-04-26">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_015.jp2/full/full/0/default.jpg"/>
 <head>1947-04-26, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2293,7 +2293,7 @@
         <signed>Votre mère aff.
           <lb/>A. de R.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19470624">
+      <div type="letter" xml:id="ddr-famille-19470624" when="1947-06-24">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr2-ds080108_ddr-antoinette-rougemont-petitpierre/bpun-ddr2-ds080108_061.jp2/full/full/0/default.jpg"/>
 <head>1947-06-24, Denis de Rougemont à Antoinette Petitpierre</head>
         <dateline>Princeton
@@ -2309,7 +2309,7 @@
         <salute>Bien affectueusement à vous tous.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-194710">
+      <div type="letter" xml:id="ddr-famille-19471000" when="1947-10">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_185.jp2/full/full/0/default.jpg"/>
 <head>1947-10, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Ferney
@@ -2322,7 +2322,7 @@
         <signed>Ton fils
           <lb/>D.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19480514">
+      <div type="letter" xml:id="ddr-famille-19480514" when="1948-05-14">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_234.jp2/full/full/0/default.jpg"/>
 <head>1948-05-14, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>La Haye
@@ -2340,7 +2340,7 @@
         <salute>Ton fils affectionné</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19480622">
+      <div type="letter" xml:id="ddr-famille-19480622" when="1948-06-22">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_019.jp2/full/full/0/default.jpg"/>
 <head>1948-06-22, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2355,7 +2355,7 @@
         <salute>Baisers à tous.</salute>
         <signed>Maman</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19480712">
+      <div type="letter" xml:id="ddr-famille-19480712" when="1948-07-12">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_236.jp2/full/full/0/default.jpg"/>
 <head>1948-07-12, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Ferney
@@ -2370,7 +2370,7 @@
         <salute>Mille choses affectueuses, aux Max aussi, et à bientôt j’espère.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19480805">
+      <div type="letter" xml:id="ddr-famille-19480805" when="1948-08-05">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_185.jp2/full/full/0/default.jpg"/>
 <head>1948-08-05, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Ferney
@@ -2384,7 +2384,7 @@
         <salute>Dis tous mes messages à Tante Lily. Nous t’envoyons nos pensées affectueuses en famille.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19480812">
+      <div type="letter" xml:id="ddr-famille-19480812" when="1948-08-12">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_238.jp2/full/full/0/default.jpg"/>
 <head>1948-08-12, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Ferney
@@ -2398,7 +2398,7 @@
         <salute>Nous t’embrassons tous.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19490330">
+      <div type="letter" xml:id="ddr-famille-19490330" when="1949-03-30">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_021.jp2/full/full/0/default.jpg"/>
 <head>1949-03-30, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2417,7 +2417,7 @@
         <signed>Ta mère aff.
           <lb/>A. de R.</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19490530">
+      <div type="letter" xml:id="ddr-famille-19490530" when="1949-05-30">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_023.jp2/full/full/0/default.jpg"/>
 <head>1949-05-30, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2432,7 +2432,7 @@
         <p rend="center"/>
         <p>Transmis vos messages à Tante Beth.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19490619">
+      <div type="letter" xml:id="ddr-famille-19490619" when="1949-06-19">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_027.jp2/full/full/0/default.jpg"/>
 <head>1949-06-19, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2447,7 +2447,7 @@
         <signed>Maman</signed>
         <p/>
       </div>
-      <div type="letter" xml:id="ddr-famille-19490901">
+      <div type="letter" xml:id="ddr-famille-19490901" when="1949-09-01">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_029.jp2/full/full/0/default.jpg"/>
 <head>1949-09-01, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2463,7 +2463,7 @@
         <signed rend="center"/>
         <p><pb n="p. 3" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_031.jp2/full/full/0/default.jpg"/> Le Pâquier où j’ai été hier, te suit toujours par la pensée.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19490905">
+      <div type="letter" xml:id="ddr-famille-19490905" when="1949-09-05">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_031.jp2/full/full/0/default.jpg"/>
 <head>1949-09-05, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2478,7 +2478,7 @@
         <p>Il paraît que ce prix Schiller est du réchauffé, mais cela fait toujours du bien pour ton renom !</p>
         <p>Bon voyage à Strasbourg.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19491105">
+      <div type="letter" xml:id="ddr-famille-19491105" when="1949-11-05">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_035.jp2/full/full/0/default.jpg"/>
 <head>1949-11-05, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2491,7 +2491,7 @@
         <salute>Bons baisers à vous tous.</salute>
         <signed>Maman</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19500317">
+      <div type="letter" xml:id="ddr-famille-19500317" when="1950-03-17">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_037.jp2/full/full/0/default.jpg"/>
 <head>1950-03-17, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2509,7 +2509,7 @@
         <p rend="center"/>
         <p>Il paraît d’après Tante Thérèse, que les Oncles Henry ne reviendraient que le 14 avril ?</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19510512">
+      <div type="letter" xml:id="ddr-famille-19510512" when="1951-05-12">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_042.jp2/full/full/0/default.jpg"/>
 <head>1951-05-12, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2520,7 +2520,7 @@
         <salute><pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_043.jp2/full/full/0/default.jpg"/> Je t’embrasse et attends ta réponse.</salute>
         <signed>Maman</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19510523">
+      <div type="letter" xml:id="ddr-famille-19510523" when="1951-05-23">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_239.jp2/full/full/0/default.jpg"/>
 <head>1951-05-23, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Ferney
@@ -2534,7 +2534,7 @@
         <salute>Je t’embrasse.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19510626">
+      <div type="letter" xml:id="ddr-famille-19510626" when="1951-06-26">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_241.jp2/full/full/0/default.jpg"/>
 <head>1951-06-26, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Ferney
@@ -2548,7 +2548,7 @@
         <salute>Je t’embrasse, chère mère, et te souhaite un été serein.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19510801">
+      <div type="letter" xml:id="ddr-famille-19510801" when="1951-08-01">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_243.jp2/full/full/0/default.jpg"/>
 <head>1951-08-01, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Anacapri
@@ -2564,7 +2564,7 @@
         <salute>Je t’embrasse filialement.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19510823">
+      <div type="letter" xml:id="ddr-famille-19510823" when="1951-08-23">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_245.jp2/full/full/0/default.jpg"/>
 <head>1951-08-23, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Ferney
@@ -2585,7 +2585,7 @@
         <p rend="center" xml:lang="en"/>
         <p>Samedi. A.-M. vient de rentrer, en bonne forme semble-t-il, pour repartir. J’attends Nino demain. Marguerite est là, aussi. La maison se réveille !</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19510907">
+      <div type="letter" xml:id="ddr-famille-19510907" when="1951-09-07">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_249.jp2/full/full/0/default.jpg"/>
 <head>1951-09-07, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Ferney
@@ -2602,7 +2602,7 @@
         <p rend="center"/>
         <p>Nino a été très content à Areuse, et il est de nouveau en confiance avec moi.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19511210">
+      <div type="letter" xml:id="ddr-famille-19511210" when="1951-12-10">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_251.jp2/full/full/0/default.jpg"/>
 <head>1951-12-10, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Lundi, le 10 décembre 1951</dateline>
@@ -2612,7 +2612,7 @@
         <salute>Je te quitte pour courir à un rendez-vous, je pense beaucoup à toi et t’embrasse de tout cœur.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19511217">
+      <div type="letter" xml:id="ddr-famille-19511217" when="1951-12-17">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_050.jp2/full/full/0/default.jpg"/>
 <head>1951-12-17, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Clinique du Crêt
@@ -2626,7 +2626,7 @@
         <salute>Baisers à tous.</salute>
         <signed>Maman</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19520125">
+      <div type="letter" xml:id="ddr-famille-19520125" when="1952-01-25">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_252.jp2/full/full/0/default.jpg"/>
 <head>1952-01-25, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Vendredi 25 janvier 1952</dateline>
@@ -2640,7 +2640,7 @@
         <salute>Je t’embrasse et me réjouis de mercredi, j’espère tant que cela s’arrangera.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19520126">
+      <div type="letter" xml:id="ddr-famille-19520126" when="1952-01-26">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_052.jp2/full/full/0/default.jpg"/>
 <head>1952-01-26, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Le Home Rue Louis-Favre
@@ -2650,7 +2650,7 @@
         <salute>Je t’embrasse et pense à vous.</salute>
         <signed>Maman</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19520321">
+      <div type="letter" xml:id="ddr-famille-19520321" when="1952-03-21">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_253.jp2/full/full/0/default.jpg"/>
 <head>1952-03-21, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Ferney
@@ -2663,7 +2663,7 @@
         <salute>Nanik et moi t’embrassons.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19520402">
+      <div type="letter" xml:id="ddr-famille-19520402" when="1952-04-02">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_255.jp2/full/full/0/default.jpg"/>
 <head>1952-04-02, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Ferney-Voltaire
@@ -2673,7 +2673,7 @@
         <p>À l’unanimité, l’Assemblée t’envoie ses félicitations et ses vœux les plus chauds et affectueux.</p>
         <signed>Baisers de Denis, Toinette, Nanik, Nanette (Martine), Nicolas, François, Gilles, W. Jean, Éliane, Anne-Marie</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19520404">
+      <div type="letter" xml:id="ddr-famille-19520404" when="1952-04-04">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_053.jp2/full/full/0/default.jpg"/>
 <head>1952-04-04, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>77 Faubourg de l’Hôpital
@@ -2685,7 +2685,7 @@
         <signed>Votre mère, belle-mère et grand’mère bien affectionnée
           <lb/>A. de Rougemont</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19520806">
+      <div type="letter" xml:id="ddr-famille-19520806" when="1952-08-06">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_256.jp2/full/full/0/default.jpg"/>
 <head>1952-08-06, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Ferney
@@ -2698,7 +2698,7 @@
         <salute>Nous t’embrassons, et A.-M. aussi.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19530305">
+      <div type="letter" xml:id="ddr-famille-19530305" when="1953-03-05">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1349_ddr-alice-georges-rougemont/bpun-ddr1-id1349_182.jp2/full/full/0/default.jpg"/>
 <head>1953-03-05, Denis de Rougemont à Alice de Rougemont</head>
         <dateline>Ferney
@@ -2715,7 +2715,7 @@
         <signed>Ton fils
           <lb/>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19550523">
+      <div type="letter" xml:id="ddr-famille-19550523" when="1955-05-23">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_067.jp2/full/full/0/default.jpg"/>
 <head>1955-05-23, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2730,7 +2730,7 @@
         <p rend="center"/>
         <p>Pierre Rougemont marie son fils Yves dans 15 jours. — Le dernier a en même temps, sa femme, sa licence d’avocat, une place et un appartement. — Je pense que tu auras reçu le faire-part. <pb n="p. 4" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_070.jp2/full/full/0/default.jpg"/> Je me représente le jardin de Ferney avec le massif de tulipes.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19610416">
+      <div type="letter" xml:id="ddr-famille-19610416" when="1961-04-16">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/correspondance-famille-sources-diverses/bpun-ddr1-id0216_099.jp2/full/full/0/default.jpg"/>
 <head>1961-04-16, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Areuse
@@ -2746,7 +2746,7 @@
         <salute>Je t’embrasse bien fort.</salute>
         <signed>Maman</signed>
       </div>
-      <div type="letter" xml:id="ddr-famille-19631025">
+      <div type="letter" xml:id="ddr-famille-19631025" when="1963-10-25">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_132.jp2/full/full/0/default.jpg"/>
 <head>1963-10-25, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Home de l’Ermitage
@@ -2763,7 +2763,7 @@
         <p rend="center"/>
         <p>J’espère que les nouvelles de Réhanne sont bonnes.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19651228">
+      <div type="letter" xml:id="ddr-famille-19651228" when="1965-12-28">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_163.jp2/full/full/0/default.jpg"/>
 <head>1965-12-28, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Ermitage
@@ -2780,7 +2780,7 @@
         <p rend="center"/>
         <p>Ma lettre vous trouvera à Ferney ? à votre retour !</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19680401">
+      <div type="letter" xml:id="ddr-famille-19680401" when="1968-04-01">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_189.jp2/full/full/0/default.jpg"/>
 <head>1968-04-01, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Port-Roulant 3a
@@ -2799,7 +2799,7 @@
         <p rend="center"/>
         <p>Areuse sera ouvert vendredi, et chauffée, si tout va bien, par Madame Roquelet, qui compte s’y installer pour 15 jours — avec son fils et son pensionnaire.</p>
       </div>
-      <div type="letter" xml:id="ddr-famille-19690402">
+      <div type="letter" xml:id="ddr-famille-19690402" when="1969-04-02">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_207.jp2/full/full/0/default.jpg"/>
         <head>1969-04-02, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Home de l’Ermitage
@@ -2814,7 +2814,7 @@
         <signed>Votre mère aff. A. de Rougemont</signed>
         <p rend="center"/>
       </div>
-      <div type="letter" xml:id="ddr-famille-196710620">
+      <div type="letter" xml:id="ddr-famille-19710620" when="1971-06-20">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_246.jp2/full/full/0/default.jpg"/>
         <head>1971-06-20, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Ermitage
@@ -2829,7 +2829,7 @@
         <signed>Ta mère aff. A. de Rougemont</signed>
         <p rend="center"/>
       </div>
-      <div type="letter" xml:id="ddr-famille-19730927">
+      <div type="letter" xml:id="ddr-famille-19730927" when="1973-09-27">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id2395_rougemont-alice-ddr/bpun-ddr1-id2395_272.jp2/full/full/0/default.jpg"/>
 <head>1973-09-27, Alice de Rougemont à Denis de Rougemont</head>
         <dateline>Ermitage

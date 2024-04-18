@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="letter" xml:id="ddr-dominice-192607">
+      <div type="letter" xml:id="ddr-dominice-19260700" when="1926-07">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/demole-dominice/demole-dominice_001.jp2/full/full/0/default.jpg"/>
         <head>1926-07, Denis de Rougemont à Max Dominicé</head>
         <dateline>[Schlon] Waldburg, <emph>Seepothen</emph>. Königsberg. Ort pr.
@@ -56,7 +56,7 @@
         <salute>Salut au revoir, tâche de me lancer au moins un petit mot pour me dire comment marche ce camp ; tous mes vœux de réussite éclatante, et beaucoup d’amitiés de la meilleure qualité de</salute>
         <signed>Denis de Rougemont</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-1927">
+      <div type="letter" xml:id="ddr-dominice-19270000" when="1927">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/demole-dominice/demole-dominice_031.jp2/full/full/0/default.jpg"/>
         <head>1927, Denis de Rougemont à Max Dominicé</head>
         <dateline>Les Ruillières sur Couvet
@@ -70,7 +70,7 @@
         <p>P.-S. Vrai, je ne me sentais pas si « déplacé » parmi les Neuchâtelois du camp… je ne sais ce qu’en aurait pensé Michel ? Cela m’a fait très plaisir, tu le comprends.</p>
         <p>— « Trâze » était l’homme à juter par excellence. Quelle timidité vous a pris ?</p>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19270209">
+      <div type="letter" xml:id="ddr-dominice-19270209" when="1927-02-09">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/demole-dominice/demole-dominice_007.jp2/full/full/0/default.jpg"/>
         <head>1927-02-09, Denis de Rougemont à Max Dominicé</head>
         <dateline>Areuse
@@ -89,7 +89,7 @@
         <salute>Très amicalement.</salute>
         <signed>Denis de Rougemont</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19270918">
+      <div type="letter" xml:id="ddr-dominice-19270918" when="1927-09-18">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/demole-dominice/demole-dominice_013.jp2/full/full/0/default.jpg"/>
         <head>1927-09-18, Denis de Rougemont à Max Dominicé</head>
         <dateline>Areuse
@@ -109,7 +109,7 @@
         <salute>Ton ami vrai.</salute>
         <signed>Denis de Rougemont</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19280613">
+      <div type="letter" xml:id="ddr-dominice-19280613" when="1928-06-13">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/demole-dominice/demole-dominice_022.jp2/full/full/0/default.jpg"/>
         <head>1928-06-13, Denis de Rougemont à Max Dominicé</head>
         <dateline>Vienne I, Universitätsplatz 1/3
@@ -128,7 +128,7 @@
         <salute>Ton ami.</salute>
         <signed>Denis de Rougemont</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19381103">
+      <div type="letter" xml:id="ddr-dominice-19381103" when="1938-11-03">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_005.jp2/full/full/0/default.jpg"/>
         <head>1938-11-03, Max Dominicé à Denis de Rougemont</head>
         <dateline>16, avenue des Bosquets
@@ -148,7 +148,7 @@
         <p><ref target="https://www.unige.ch/rougemont/articles/vp"><emph>La Vie protestante</emph></ref> paraît demain matin… je me réjouis comme un gosse. Il y a eu un coup de feu terrible hier. Marc Chenevière se révèle un as. Tu me diras très nettement, n’est-ce pas, ce que tu penses de nos premiers numéros ?</p>
         <signed>Max Dominicé</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19381116">
+      <div type="letter" xml:id="ddr-dominice-19381116" when="1938-11-16">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_001.jp2/full/full/0/default.jpg"/>
         <head>1938-11-16, Max Dominicé à Denis de Rougemont</head>
         <dateline>16, avenue des Bosquets
@@ -166,7 +166,7 @@
         <salute>Au revoir, mon cher Denis, à bientôt. Je pense organiser, à l’occasion de ton passage en janvier un « déjeuner de la <ref target="https://www.unige.ch/rougemont/articles/vp"><emph>V. P.</emph></ref> », ou un dîner. Ce sera bien chic. J’espère que Cigogne t’accompagnera.</salute>
         <signed>Max</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19381124">
+      <div type="letter" xml:id="ddr-dominice-19381124" when="1938-11-24">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_003.jp2/full/full/0/default.jpg"/>
         <head>1938-11-24, Max Dominicé à Denis de Rougemont</head>
         <dateline>16, avenue des Bosquets
@@ -181,7 +181,7 @@
         <salute><pb n="p. 2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_004.jp2/full/full/0/default.jpg"/> Mille et mille amitiés de nous deux à vous deux. Françoise se réjouit beaucoup de voir dans la <ref target="https://www.unige.ch/rougemont/articles/vp"><emph>V. P.</emph></ref> de demain un article de son Parrain !</salute>
         <signed>M.</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19381205">
+      <div type="letter" xml:id="ddr-dominice-19381205" when="1938-12-05">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/demole-dominice/demole-dominice_024.jp2/full/full/0/default.jpg"/>
         <head>1938-12-05, Denis de Rougemont à Max Dominicé</head>
         <dateline>La Petite Châtaigneraie
@@ -199,7 +199,7 @@
         <salute>Affectueusement à vous deux.</salute>
         <signed>D. de Rougemont</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19381229">
+      <div type="letter" xml:id="ddr-dominice-19381229" when="1938-12-29">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_008.jp2/full/full/0/default.jpg"/>
         <head>1938-12-29, Max Dominicé à Denis de Rougemont</head>
         <dateline>16, avenue des Bosquets
@@ -220,7 +220,7 @@
         <salute>Que Dieu vous garde tous les deux, tous les trois, dans cette année si effrayante à tant d’égards. À vous en toute amitié, en Lui.</salute>
         <signed>Max</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19390103">
+      <div type="letter" xml:id="ddr-dominice-19390103" when="1939-01-03">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/demole-dominice/demole-dominice_026.jp2/full/full/0/default.jpg"/>
         <head>1939-01-03, Denis de Rougemont à Max Dominicé</head>
         <dateline>La Celle-Saint-Cloud
@@ -237,7 +237,7 @@
         <p rend="center"/>
         <p>Je te retourne la lettre de Schlemmer et le Comoli, canon courbe. Il n’y a rien d’aussi détestable que ce genre que j’appelle la lettre anonyme signée.</p>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19390816">
+      <div type="letter" xml:id="ddr-dominice-19390816" when="1939-08-16">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/demole-dominice/demole-dominice_028.jp2/full/full/0/default.jpg"/>
         <head>1939-08-16, Denis de Rougemont à Max Dominicé</head>
         <dateline>Areuse
@@ -255,7 +255,7 @@
         <salute>Mille choses affectueuses pour vous deux, et deux gros becs à Françoise.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19390817">
+      <div type="letter" xml:id="ddr-dominice-19390817" when="1939-08-17">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_011.jp2/full/full/0/default.jpg"/>
         <head>1939-08-17, Max Dominicé à Denis de Rougemont</head>
         <dateline>16, avenue des Bosquets
@@ -272,7 +272,7 @@
         <p>CONFÉRENCES : Tu me donnes des regrets… Après lecture de <ref target="https://www.unige.ch/rougemont/livres/ddr1939ao">l’AMOUR</ref>, je me proposais d’organiser une vaste conférence au Victoria Hall (1750 places, qu’on aurait vendues très cher, pour une fois) où tu aurais parlé sur « La fidélité conjugale ». Énorme succès ! J’y ai renoncé, étant donné que tu as parlé à Genève l’hiver dernier. Mais puisque d’autres t’appellent en Suisse, j’ai bien envie de reprendre mon projet. On en reparlera.</p>
         <salute>Donc, à bientôt, mon cher Denis. Dis à ta chère Cigogne que je l’aime beaucoup et prévenez-nous de votre arrivée. Notre maison est à votre disposition pour le nombre de jours que vous voudrez.</salute>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19390819">
+      <div type="letter" xml:id="ddr-dominice-19390819" when="1939-08-19">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/complements-corr-dominice/bpun-ddr1-id0099_010.jp2/full/full/0/default.jpg"/>
         <head>1939-08-19, Max Dominicé à Denis de Rougemont</head>
         <dateline>16, avenue des Bosquets
@@ -290,7 +290,7 @@
         <salute>À bientôt.</salute>
         <signed>Max</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19400620">
+      <div type="letter" xml:id="ddr-dominice-19400620" when="1940-06-20">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/demole-dominice/demole-dominice_030.jp2/full/full/0/default.jpg"/>
         <head>1940-06-20, Denis de Rougemont à Max Dominicé</head>
         <dateline>146 Bellevuestrasse, <emph>Wabern</emph>
@@ -304,7 +304,7 @@
         <p rend="center"/>
         <p>P.-S. J’ai oublié de te demander si la <ref target="https://www.unige.ch/rougemont/articles/vp"><emph>V. P.</emph></ref> allait parler de <ref target="https://www.unige.ch/rougemont/livres/ddr1940mds">mon livre</ref>. Je le fais maintenant avec insistance ; à cause des pages 211 et 212 justement. <emph>Il faut</emph> que ça soit lu.</p>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19460520">
+      <div type="letter" xml:id="ddr-dominice-19460520" when="1946-05-20">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_015.jp2/full/full/0/default.jpg"/>
         <head>1946-05-20, Max Dominicé à Denis de Rougemont</head>
         <dateline>16, avenue des Bosquets
@@ -320,7 +320,7 @@
         <salute>À toi du fond du cœur.</salute>
         <signed>Max</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19460801">
+      <div type="letter" xml:id="ddr-dominice-19460801" when="1946-08-01">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_017.jp2/full/full/0/default.jpg"/>
         <head>1946-08-01, Max Dominicé à Denis de Rougemont</head>
         <dateline>Château de Crest
@@ -339,7 +339,7 @@
         <p>P.-S. Lundi, à Essertines, il y avait un rédacteur de <ref target="https://www.unige.ch/rougemont/articles/ref"><emph>Réforme</emph></ref> et Coray, le président des « Jeunes patrons » de France.</p>
         <p>Quant à Bossey, le beau château des œcuméniques, il fonctionne à plein rendement.</p>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19470304">
+      <div type="letter" xml:id="ddr-dominice-19470304" when="1947-03-04">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_021.jp2/full/full/0/default.jpg"/>
         <head>1947-03-04, Max Dominicé à Denis de Rougemont</head>
         <dateline>16, avenue des Bosquets
@@ -357,7 +357,7 @@
         <p rend="center"/>
         <p>P.-S. Tu ne m’as jamais donné de réponse au sujet de la <emph>conférence pour hommes</emph> sur « Protestantisme et personnalité » (ou un sujet analogue) que nous t’avions demandé de donner à Genève à la grande « Journée protestante » du <emph>7 septembre 1947</emph>. Réponds-moi, stp.</p>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19470819">
+      <div type="letter" xml:id="ddr-dominice-19470819" when="1947-08-19">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_023.jp2/full/full/0/default.jpg"/>
         <head>1947-08-19, Max Dominicé à Denis de Rougemont</head>
         <dateline>Le 19 août 1947</dateline>
@@ -375,7 +375,7 @@
         <p rend="center"/>
         <p>P.-S. Excuse le retard de ces lignes… Ta lettre est arrivée en pleine bagarre de Pentecôte (35 catéchumènes) et en juin et juillet j’étais recru de fatigue.</p>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19560301">
+      <div type="letter" xml:id="ddr-dominice-19560301" when="1956-03-01">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_027.jp2/full/full/0/default.jpg"/>
         <head>1956-03-01, Max Dominicé à Denis de Rougemont</head>
         <dateline>16, rue Jean-Robert Chouet
@@ -388,7 +388,7 @@
         <p>Si tu as des questions à me poser, inutile de dire que je suis à ton entière disposition.</p>
         <salute>Heureux de notre entretien, et me réjouissant de te revoir, je t’envoie ces lignes en fidèle amitié.</salute>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19560804">
+      <div type="letter" xml:id="ddr-dominice-19560804" when="1956-08-04">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_029.jp2/full/full/0/default.jpg"/>
         <head>1956-08-04, Max Dominicé à Denis de Rougemont</head>
         <dateline>Eggishorn (Valais)
@@ -417,7 +417,7 @@
         </lg>
         <signed>(Composé le 21 janvier 1956, jour anniversaire de la mort de Louis XVI, dans le train qui m’emmenait à Paris.)</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19570718">
+      <div type="letter" xml:id="ddr-dominice-19570718" when="1957-07-18">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_031.jp2/full/full/0/default.jpg"/>
         <head>1957-07-18, Max Dominicé à Denis de Rougemont</head>
         <dateline>16, rue Jean-Robert Chouet
@@ -434,7 +434,7 @@
         <p rend="center"/>
         <p>Il faudrait une œuvre du genre « épique », en somme…<note place="bottom" resp="editor">En haut du premier feuillet, Rougemont a noté « R tél début sept. non ».</note></p>
       </div>
-      <div type="letter" xml:id="ddr-dominice-196403">
+      <div type="letter" xml:id="ddr-dominice-19640300" when="1964-03">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_034.jp2/full/full/0/default.jpg"/>
         <head>1964-03, Max Dominicé à Denis et Nanik de Rougemont</head>
         <dateline>« La Lignière »
@@ -448,7 +448,7 @@
         <p>À l’âge où je suis (63 ans dans un mois) on fait souvent « le compte de ses voies » comme dit l’Écriture, et le bilan est bien négatif. C’est pourquoi les amitiés sont plus précieuses que jamais, et c’est pour vous dire la mienne, très vive et fidèle, que je vous écris.</p>
         <signed>Max Dominicé</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19670411">
+      <div type="letter" xml:id="ddr-dominice-19670411" when="1967-04-11">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_036.jp2/full/full/0/default.jpg"/>
         <head>1967-04-11, Max Dominicé à Denis de Rougemont</head>
         <dateline>Lullier
@@ -466,7 +466,7 @@
           <l>À conjuguer son nom, signe : Dominicé</l>
         </lg>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19670503">
+      <div type="letter" xml:id="ddr-dominice-19670503" when="1967-05-03">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/demole-dominice/demole-dominice_051.jp2/full/full/0/default.jpg"/>
         <head>1967-05-03, Denis de Rougemont à Max Dominicé</head>
         <dateline>Le 3 mai 1967</dateline>
@@ -475,7 +475,7 @@
         <salute>Toutes nos amitiés.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19691005">
+      <div type="letter" xml:id="ddr-dominice-19691005" when="1969-10-05">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_037.jp2/full/full/0/default.jpg"/>
         <head>1969-10-05, Max Dominicé à Denis de Rougemont</head>
         <dateline>Lullier
@@ -530,7 +530,7 @@
           <l>Qu’en tuant ton bon Roi tu t’es tranché la tête.</l>
         </lg>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19691225">
+      <div type="letter" xml:id="ddr-dominice-19691225" when="1969-12-25">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_043.jp2/full/full/0/default.jpg"/>
         <head>1969-12-25, Max Dominicé à Denis et Nanik de Rougemont</head>
         <dateline>Lullier
@@ -546,7 +546,7 @@
         <p>P.-S. Avez-vous reçu la lettre que je vous ai écrite en automne concernant William Martin… et qui demandait une réponse ?</p>
         <signed>M. D.</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19701014">
+      <div type="letter" xml:id="ddr-dominice-19701014" when="1970-10-14">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_045.jp2/full/full/0/default.jpg"/>
         <head>1970-10-14, Max Dominicé à Denis de Rougemont</head>
         <dateline>Lullier
@@ -572,7 +572,7 @@
         <salute>Fidèlement à toi.</salute>
         <signed>Max</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19701124">
+      <div type="letter" xml:id="ddr-dominice-19701124" when="1970-11-24">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_047.jp2/full/full/0/default.jpg"/>
         <head>1970-11-24, Max Dominicé à Nanik de Rougemont</head>
         <dateline>Lullier
@@ -588,7 +588,7 @@
         <salute>En me réjouissant de vous revoir, je vous dis, ainsi qu’à Denis, ma fidèle amitié.</salute>
         <signed>Max Dominicé</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19701129">
+      <div type="letter" xml:id="ddr-dominice-19701129" when="1970-11-29">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/demole-dominice/demole-dominice_052.jp2/full/full/0/default.jpg"/>
         <head>1970-11-29, Denis de Rougemont à Max Dominicé</head>
         <dateline>Ferney
@@ -599,7 +599,7 @@
         <salute>Ton affectionné.</salute>
         <signed>Denis</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19710531">
+      <div type="letter" xml:id="ddr-dominice-19710531" when="1971-05-31">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_049.jp2/full/full/0/default.jpg"/>
         <head>1971-05-31, Max Dominicé à Denis de Rougemont</head>
         <dateline>Lullier
@@ -631,7 +631,7 @@
         <p>Maurras l’a dit bien souvent : On a brisé l’Empire austro-hongrois, tandis qu’on maintenait l’Allemagne dans son unité. Il fallait faire le contraire.</p>
         <p>Maurras ajoutait que c’était <emph>l’anticléricalisme</emph> de Clemenceau qui était responsable de cette faute : il ne voulait pas d’un État (catholique) bavaro-autrichien, ni d’une Rhénanie (catholique) autonome.</p>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19720703">
+      <div type="letter" xml:id="ddr-dominice-19720703" when="1972-07-03">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_053.jp2/full/full/0/default.jpg"/>
         <head>1972-07-03, Max Dominicé à Denis de Rougemont</head>
         <dateline>Lullier
@@ -645,7 +645,7 @@
         <salute>Fidèlement.</salute>
         <signed>Max</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19720709">
+      <div type="letter" xml:id="ddr-dominice-19720709" when="1972-07-09">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_055.jp2/full/full/0/default.jpg"/>
         <head>1972-07-09, Max Dominicé à Denis et Nanik de Rougemont</head>
         <dateline>Lullier
@@ -659,7 +659,7 @@
         <salute>Amitiés.</salute>
         <signed>Max</signed>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19720720">
+      <div type="letter" xml:id="ddr-dominice-19720720" when="1972-07-20">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/demole-dominice/demole-dominice_053.jp2/full/full/0/default.jpg"/>
         <head>1972-07-20, Denis de Rougemont à Max Dominicé</head>
         <dateline>Le 20 juillet 1972</dateline>
@@ -670,7 +670,7 @@
         <p rend="center"/>
         <p>P.-S. Sais-tu que la Suisse ne produit (forêts et lacs) que 39 % de l’oxygène qu’elle consomme ? Le reste est amené par la bise, surtout noire, c’est-à-dire par les Russes…</p>
       </div>
-      <div type="letter" xml:id="ddr-dominice-19721104">
+      <div type="letter" xml:id="ddr-dominice-19721104" when="1972-11-04">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1715_dominice-max-ddr/bpun-ddr1-id1715_056.jp2/full/full/0/default.jpg"/>
         <head>1972-11-04, Max Dominicé à Denis de Rougemont</head>
         <dateline>Lullier
@@ -705,7 +705,7 @@
           <l>Comblera nos désirs</l>
         </lg>
       </div>
-      <div type="letter" xml:id="ddr-dominice-1975">
+      <div type="letter" xml:id="ddr-dominice-19750000" when="1975">
         <pb n="p. 1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-correspondances/bpun-ddr1-id1714_dominice-madeleine-ddr/bpun-ddr1-id1714_003.jp2/full/full/0/default.jpg"/>
         <head>1975, Madeleine Dominicé à Denis et Nanik de Rougemont</head>
         <dateline>[1975]</dateline>
